@@ -5,7 +5,7 @@ image: 08.jpg
 permalink: /painting/
 ---
 
-C. S. Luc
+C.S.Luc
 
 A mediocre dreamer.
 
