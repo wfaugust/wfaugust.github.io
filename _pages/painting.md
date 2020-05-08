@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Painting
 image: 08.jpg
-permalink: /about/
+permalink: /painting/
 ---
 
 C. S. Luc
