@@ -2,7 +2,7 @@
 layout: page
 title: Drawing
 image: 08.jpg
-permalink: /about/
+permalink: /drawing/
 ---
 
 C. S. Luc
