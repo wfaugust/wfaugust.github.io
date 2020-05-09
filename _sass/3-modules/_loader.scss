@@ -7,7 +7,7 @@
   bottom: 0;
   z-index: 999;
   overflow: hidden;
-  background: $black;
+  background: $green-darken;
 }
 
 .loader {
@@ -22,7 +22,7 @@
   text-transform: uppercase;
   font-weight: 700;
   color: #fff;
-  background: $black;
+  background: $green-darken;
 
   span {
     color: #fff;
