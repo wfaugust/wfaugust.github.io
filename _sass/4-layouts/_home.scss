@@ -15,7 +15,7 @@
   align-items: center;
   .logo-title {
     .logo-text {
-      font-size: 16px;
+      font-size: 20px;
       font-weight: 700;
       line-height: 16px;
       text-transform: uppercase;
@@ -209,18 +209,18 @@
     color: $text;
     .article-tag {
       .tag {
-        font-size: 12px;
+        font-size: 18px;
       }
     }
     .article-date {
       .date {
-        font-size: 12px;
+        font-size: 14px;
         color: rgba($text, .8);
       }
     }
     .article-title {
       margin-bottom: 20px;
-      font-size: 30px;
+      font-size: 32px;
       line-height: 30px;
       font-weight: normal;
       a {
@@ -231,11 +231,11 @@
     .article-excerpt {
       max-width: 450px;
       margin-bottom: 30px;
-      font-size: 14px;
+      font-size: 18px;
       line-height: 23px;
     }
     .button {
-      font-size: 14px;
+      font-size: 18px;
       font-weight: 700;
       border: 1px solid rgba(201, 211, 231, 50);
       color: $text;
@@ -327,7 +327,7 @@
           display: inline-block;
           padding: 2px 5px;
           margin-right: 5px;
-          font-size: 12px;
+          font-size: 18px;
           line-height: 18px;
           font-weight: bold;
           border: 1px solid $primary-color;
@@ -354,7 +354,7 @@
     }
     .article-excerpt {
       margin-bottom: 0;
-      font-size: 15px;
+      font-size: 20px;
       line-height: 25px;
       color: $gray-blue;
     }
@@ -438,7 +438,7 @@
         }
       }
       .menu-link {
-        font-size: 13px;
+        font-size: 16px;
         font-weight: 700;
         text-transform: uppercase;
         line-height: 19px;
