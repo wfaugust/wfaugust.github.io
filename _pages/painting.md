@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Painting
+title: painting
 image: 08.jpg
 permalink: /painting/
 ---

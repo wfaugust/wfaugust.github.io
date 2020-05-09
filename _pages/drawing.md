@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Drawing
+title: drawing
 image: 08.jpg
 permalink: /drawing/
 ---
