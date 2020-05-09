@@ -228,12 +228,14 @@
         transition: $global-transition;
       }
     }
+    
     .article-excerpt {
       max-width: 450px;
       margin-bottom: 30px;
       font-size: 18px;
       line-height: 23px;
     }
+    
     .button {
       font-size: 18px;
       font-weight: 700;
@@ -247,6 +249,7 @@
       }
     }
   }
+
 }
 
 .article {
