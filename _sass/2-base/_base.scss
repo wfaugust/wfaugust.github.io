@@ -48,9 +48,9 @@ $heading-font-family: 'EB Garamond', serif;
 $font-size-h1:  36px;
 $font-size-h2:  28px;
 $font-size-h3:  24px;
-$font-size-h4:  20px;
-$font-size-h5:  18px;
-$font-size-h6:  16px;
+$font-size-h4:  22px;
+$font-size-h5:  20px;
+$font-size-h6:  18px;
 
 $heading-line-height: 1.2;
 
@@ -150,7 +150,7 @@ hr {
 // Blockquote
 blockquote {
   padding: 15px 15px 15px 30px;
-  font-size: 18px;
+  font-size: 20px;
   font-style: normal;
   border-left: 4px solid $primary-color;
   p {
@@ -187,7 +187,7 @@ table {
 
 table th {
   padding: 8px;
-  font-size: 16px;
+  font-size: 20px;
   text-align: left;
   border: 1px solid $gray-blue;
   color: $white;
@@ -204,7 +204,7 @@ table tr {
 
 table td {
   padding: 8px;
-  font-size: 14px;
+  font-size: 20px;
   border: 1px solid $gray-blue;
 }
 
