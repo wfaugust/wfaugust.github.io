@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 image: 08.jpg
-permalink: /about/
+link: csluc.com/about
 ---
 
 C. S. Luc
