@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: writing
 permalink: /writing/
 image: 01.jpg
 ---
