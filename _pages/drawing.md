@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Drawing
+title: Drawings
 image: 15.jpg
-permalink: /drawing/
+permalink: /drawings/
 ---
 
 ![]({{site.baseurl}}/img/06.jpg)

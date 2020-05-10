@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Bio
 image: 13.jpg
-permalink: /about/
+permalink: /bio/
 ---
 
 C.S. Luc is akin to the representational art of the classical

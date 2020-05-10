@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Writing
-permalink: /writing/
+title: Writings
+permalink: /writings/
 image: 01.jpg
 ---
 # Game and Elegy
