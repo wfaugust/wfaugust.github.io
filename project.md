@@ -1,4 +1,5 @@
 ---
+Layout: default
 title: C.S.Luc Oriental Project
 image: 07.jpg
 permalink: /project/
