@@ -15,15 +15,31 @@ permalink: /paintings/
 
 ![]({{site.baseurl}}/img/05.jpg)
 
+![]({{site.baseurl}}/img/10.jpg)
+
 ![]({{site.baseurl}}/img/13.jpg)
+
+![]({{site.baseurl}}/img/14.jpg)
+
+![]({{site.baseurl}}/img/16.jpg)
 
 ![]({{site.baseurl}}/img/17.jpg)
 
 ![]({{site.baseurl}}/img/19.jpg)
 
+![]({{site.baseurl}}/img/20.jpg)
+
+![]({{site.baseurl}}/img/21.jpg)
+
+![]({{site.baseurl}}/img/22.jpg)
+
+![]({{site.baseurl}}/img/23.jpg)
+
+![]({{site.baseurl}}/img/26.jpg)
+
 ![]({{site.baseurl}}/img/27.jpg)
 
-![]({{site.baseurl}}/img/30.jpg)
+![]({{site.baseurl}}/img/28.jpg)
 
 ![]({{site.baseurl}}/img/34.jpg)
 
