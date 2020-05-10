@@ -2,7 +2,7 @@
 layout: page
 title: Writing
 permalink: /writing/
-image: writing.jpg
+image: 01.jpg
 ---
 # Game and Elegy
 
