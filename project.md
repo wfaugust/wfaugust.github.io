@@ -1,8 +1,5 @@
 ---
-<<<<<<< HEAD
 layout: none
-=======
->>>>>>> 2664b1a3470b33a63e7f1950404d23810994fd20
 title: C.S.Luc Oriental Project
 image: 07.jpg
 permalink: /project/
