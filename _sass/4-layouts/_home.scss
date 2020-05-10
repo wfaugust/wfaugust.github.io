@@ -355,7 +355,12 @@
         color: $text;
       }
     }
-
+    .article-excerpt {
+      margin-bottom: 0;
+      font-size: 18px;
+      line-height: 25px;
+      color: $gray-blue;
+    }
   }
 }
 
