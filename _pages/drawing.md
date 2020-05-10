@@ -11,8 +11,6 @@ permalink: /drawings/
 
 ![]({{site.baseurl}}/img/11.jpg)
 
-![]({{site.baseurl}}/img/12.jpg)
-
 ![]({{site.baseurl}}/img/15.jpg)
 
 ![]({{site.baseurl}}/img/24.jpg)
