@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The most popular mistakes
+title:  A Painting
 date:   2020-08-23 16:05:55 +0300
 image:  13.jpg
 tags:   [painting]
