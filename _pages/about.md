@@ -5,8 +5,6 @@ image: 13.jpg
 permalink: /about/
 ---
 
-**C. S. Luc**
-
 C.S. Luc is akin to the representational art of the classical
 realism and the color expression of the Impressionism
 heritage. He has been focusing on the portraiture and figure
