@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   C.S.Luc
-author-avatar: 23.jpg
+author-avatar: 01.jpg
 
 
 #-------------------------------
@@ -42,7 +42,7 @@ mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: ':title/'
+permalink: /:categories/:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
