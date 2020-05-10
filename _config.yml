@@ -58,7 +58,6 @@ paginate: 7
 paginate_path: "/page/:num"
 
 include: ['_pages']
-exclude: ['orientalproject.md']
 
 sass:
   sass_dir: _sass
