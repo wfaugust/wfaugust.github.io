@@ -2,7 +2,7 @@
 Layout: default
 title: C.S.Luc Oriental Project
 image: 24.jpg
-permalink: /project/
+permalink: /orientalproject/
 ---
 
 ![]({{site.baseurl}}/img/Art of Being Observed—C.S. Luc Oriental Project -01.jpg)
