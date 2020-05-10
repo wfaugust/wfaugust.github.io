@@ -1,5 +1,5 @@
 ---
-title: C.S.Luc Oriental Project
+title: Current Project
 image: 24.jpg
 permalink: /orientalproject/
 ---
