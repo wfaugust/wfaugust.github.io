@@ -129,6 +129,47 @@
 }
 
 
+
+
+
+
+
+// Project Widget
+.widget-project {
+  text-align: center;
+  .project-subtitle {
+    margin-bottom: 20px;
+    font-size: 20px;
+  }
+  .project-text {
+    max-width: 250px;
+    margin: 0 auto 30px;
+    font-size: 18px;
+    line-height: 19px;
+  }
+  .project-group-top {
+    position: relative;
+  }
+ 
+  .project-button {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    color: $white;
+    background: $blue-black;
+    transition: $global-transition;
+    &:hover {
+      background: $primary-color;
+    }
+  }
+}
+
+
+
+
+
+
 // Newsletter Widget
 .widget-newsletter {
   text-align: center;
