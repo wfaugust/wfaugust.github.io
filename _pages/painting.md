@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Painting
-image: 08.jpg
+image: painting.jpg
 permalink: /painting/
 ---
 
