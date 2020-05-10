@@ -1,11 +1,9 @@
 ---
 layout: page
 title: Paintings
-image: 18.jpg
+image: 01.jpg
 permalink: /paintings/
 ---
-
-![]({{site.baseurl}}/img/01.jpg)
 
 ![]({{site.baseurl}}/img/02.jpg)
 
