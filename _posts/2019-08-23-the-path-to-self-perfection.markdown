@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The path to self-perfection
+title:  Portrait
 date:   2018-08-23 16:03:30 +0300
 image:  33.jpg
 tags:   Life
