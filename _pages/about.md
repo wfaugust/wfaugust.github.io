@@ -19,5 +19,5 @@ grasp and display the inner core of the subjects’ souls.
 
 ****
 
-Email: cslu03@gmail.com
+Email: csluc03@gmail.com
 
