@@ -253,10 +253,11 @@
 }
 
 .article {
-  display: flex;
   margin-bottom: 25px;
   &:hover {
     .article-image {
+      position:relative;
+      min-height:200  
       .image-overlay-text {
         opacity: 1;
       }
