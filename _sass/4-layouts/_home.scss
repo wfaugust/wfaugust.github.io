@@ -1,6 +1,6 @@
 // Header
 .header {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
   background: $black;
 }
 
@@ -192,7 +192,7 @@
     position: relative;
     display: flex;
     align-items: center;
-    min-height: 450px;
+    min-height: 500px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -257,7 +257,7 @@
   &:hover {
     .article-image {
       position:relative;
-      min-height:250;  
+      min-height:270;  
       .image-overlay-text {
         opacity: 1;
       }
