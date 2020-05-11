@@ -5,6 +5,6 @@ date:   2020-05-04 18:05:55 +0300
 image:  11.jpg
 tags:   Figures
 ---
-24'' x 30''                                                                       
+24 x 30 inch                                                                       
 
 ![]({{site.baseurl}}/img/11.jpg)
