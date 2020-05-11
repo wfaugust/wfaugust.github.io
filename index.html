@@ -40,9 +40,7 @@ layout: default
 						</div>
 						<div class="article-content">
 
-							<h2 class="article-title">
-								<a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-							</h2>
+
 							<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 135 }}{% else %}{{ post.content | strip_html | truncate: 45}}{% endif %}</p>
 						</div>
 					</div>
