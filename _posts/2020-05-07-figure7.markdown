@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Figures
+title:  Figure
 date:   2020-05-07 16:03:30 +0300
 image:  33.jpg
 tags:   Figures
