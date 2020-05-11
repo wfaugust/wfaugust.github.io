@@ -1,6 +1,6 @@
 // Header
 .header {
-  margin-bottom: 0px;
+  margin-bottom: 20px;
   background: $black;
 }
 
@@ -257,7 +257,7 @@
   &:hover {
     .article-image {
       position:relative;
-      min-height:270;  
+      min-height:300;  
       .image-overlay-text {
         opacity: 1;
       }
