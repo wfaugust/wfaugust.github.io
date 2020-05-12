@@ -2,10 +2,10 @@
 layout: post
 title:  Portrait
 date:   2020-05-01 16:03:50 +0300
-image:  26.jpg
+image:  25.jpg
 tags:   Figures
 ---
 30 x 24 inch                                                                       
 
-![]({{site.baseurl}}/img/26.jpg)
+![]({{site.baseurl}}/img/25.jpg)
 
