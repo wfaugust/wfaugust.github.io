@@ -9,4 +9,4 @@ tags:   [Stilllife]
 
 ![]({{site.baseurl}}/img/13.jpg)
 
-‘She pulled down the pale blossoms.’  -- W. B. Yeats
+‘She pulled down the pale blossoms.’      -- W. B. Yeats
