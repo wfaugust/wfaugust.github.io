@@ -10,5 +10,5 @@ tags:   Portrait
 
 24 x 30 inch                                                                       
 
-![]({{site.baseurl}}/img/017.jpg)
+![]({{site.baseurl}}/img/17.jpg)
 
