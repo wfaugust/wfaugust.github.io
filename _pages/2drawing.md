@@ -5,6 +5,8 @@ image: 15.jpg
 permalink: /drawings/
 ---
 
+![]({{site.baseurl}}/img/35.jpg)
+
 ![]({{site.baseurl}}/img/06.jpg)
 
 ![]({{site.baseurl}}/img/07.jpg)
