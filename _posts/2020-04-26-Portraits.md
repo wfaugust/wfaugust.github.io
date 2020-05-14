@@ -6,7 +6,7 @@ image:  05.jpg
 tags:   Portraits
 ---
 
-24 x 30 inch     
+20 x 24 inch     
 
 ![]({{site.baseurl}}/img/05.jpg)
 

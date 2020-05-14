@@ -5,6 +5,6 @@ date:   2020-05-03 16:04:55 +0300
 image:  08.jpg
 tags:   [Portraits, Figures]
 ---
-24 x 30 inch                                                                       
+20 x 24 inch                                                                       
 
 ![]({{site.baseurl}}/img/08.jpg)

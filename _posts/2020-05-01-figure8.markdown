@@ -5,7 +5,7 @@ date:   2020-05-01 16:05:55 +0300
 image:  13.jpg
 tags:   [Stilllife]
 ---
-24 x 30 inch                                                                       
+20 x 24 inch                                                                       
 
 ![]({{site.baseurl}}/img/13.jpg)
 
