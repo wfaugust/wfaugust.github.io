@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-image: 13.jpg
+image: 35.jpg
 permalink: /bio/
 ---
 
