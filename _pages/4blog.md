@@ -5,13 +5,31 @@ date: 2015-01-11 16:04:00 +0300
 permalink: /blog/
 image: 01.jpg
 ---
-[Why I Paint](https://csluc.com/writings1)
+## Poems
 
-[琥珀](https://csluc.com/writings2)
+[种植](https://csluc.com/writings03)
 
-[种植](https://csluc.com/writings3)
+[四月之一](https://csluc.com/writings04)
 
-[四月之一](https://csluc.com/writings4)
+[无题](https://csluc.com/writings07)
 
-[Game and Elegy](https://csluc.com/writings5)
+[无题](https://csluc.com/writings08)
+
+[无题](https://csluc.com/writings11)
+
+[三月](https://csluc.com/writings09)
+
+[Morning Atonement ](https://csluc.com/writings10)
+
+[Game and Elegy](https://csluc.com/writings05)
+
+
+
+## Writings
+
+[Why I Paint](https://csluc.com/writings01)
+
+[琥珀](https://csluc.com/writings02)
+
+[阿赫玛托娃](https://csluc.com/writings06)
 
