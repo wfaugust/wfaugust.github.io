@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Blog
+title: Writings
 date: 2015-01-11 16:04:00 +0300
-permalink: /blog/
-image: 01.jpg
+permalink: /writings/
+image: 13.jpg
 ---
 ## Poems
 
