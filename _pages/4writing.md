@@ -23,7 +23,7 @@ image: 13.jpg
 
 **[Game and Elegy](https://csluc.com/writings05)**
 
-
+****
 
 ## Writings
 
