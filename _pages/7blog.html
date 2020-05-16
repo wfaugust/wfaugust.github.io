@@ -1,6 +1,6 @@
 ---
-title: Writings
-permalink: /writings/
+title: Blog
+permalink: /blog/
 options: fullwidth
 image: 01.jpg
 ---
@@ -10,7 +10,7 @@ image: 01.jpg
   <hr style="margin:0 0 1em 0;" />
   <h4>Featured</h4>
   <ul class="post-list">{%
-        for post in site.categories.writings %}{%
+        for post in site.categories.blog %}{%
           if post.tags contains "featured" %}
       <li class="2u 3u(large) 5u(medium) 11u(small)">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
