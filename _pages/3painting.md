@@ -35,6 +35,8 @@ permalink: /paintings/
 
 ![]({{site.baseurl}}/img/23.jpg)
 
+![]({{site.baseurl}}/img/28.jpg)
+
 ![]({{site.baseurl}}/img/26.jpg)
 
 ![]({{site.baseurl}}/img/27.jpg)
