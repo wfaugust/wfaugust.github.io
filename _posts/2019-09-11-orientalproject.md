@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Current Project
 image: 24.jpg
 permalink: /orientalproject/
