@@ -387,6 +387,7 @@
   .article-first {
     .article-content-first {
       .article-title {
+        font-family: 'EB Garamond', serif;
         font-size: 45px;
         line-height: 45px;
       }
@@ -398,7 +399,8 @@
 
   .menu-list {
     .menu-link {
-      font-size: 50px;
+      font-family: 'EB Garamond', serif;
+      font-size: 40px;
       line-height: 80px;
       &:before {
         height: 8px;
@@ -410,6 +412,7 @@
     .search-text {
       height: 80px;
       margin-bottom: 30px;
+      font-family: 'EB Garamond', serif;
       font-size: 24px;
     }
   }
@@ -442,6 +445,7 @@
         }
       }
       .menu-link {
+        font-family: 'EB Garamond', serif;
         font-size: 18px;
         font-weight: 700;
         text-transform: uppercase;
