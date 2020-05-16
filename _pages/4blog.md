@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Writings
-permalink: /writings/
+title: Blog
+permalink: /blog/
 image: 01.jpg
 ---
 ## Why I Paint

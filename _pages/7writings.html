@@ -1,6 +1,6 @@
 ---
-title: Blog
-permalink: /blog/
+title: Writings
+permalink: /writings/
 options: fullwidth
 image: 01.jpg
 ---
@@ -10,7 +10,7 @@ image: 01.jpg
   <hr style="margin:0 0 1em 0;" />
   <h4>Featured</h4>
   <ul class="post-list">{%
-        for post in site.categories.blog %}{%
+        for post in site.categories.writings %}{%
           if post.tags contains "featured" %}
       <li class="2u 3u(large) 5u(medium) 11u(small)">
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
@@ -29,7 +29,7 @@ image: 01.jpg
 
     <ul style="list-style-type: none;">{%
       assign p = '9999'
-%}{%  for post in site.categories.blog
+%}{%  for post in site.categories.writings
 %}{%    assign n = post.date | date: "%Y"
 %}{%    if n != p
 %}{%      assign p = n
