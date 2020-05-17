@@ -5,7 +5,7 @@ date: 2015-01-11 16:04:00 +0300
 permalink: /writings/
 image: 13.jpg
 ---
-## [Poems]
+## Poems
 
 [种植](https://csluc.com/writings03)
 
@@ -27,7 +27,7 @@ image: 13.jpg
 
 ****
 
-## [Writings]
+## Writings
 
 [Why I Paint](https://csluc.com/writings01)
 
