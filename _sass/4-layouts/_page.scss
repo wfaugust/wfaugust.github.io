@@ -31,6 +31,10 @@
 }
 
 .page-content {
+  font-family: 'EB Garamond', serif;
+  font-size: 23px;
+  line-height: 3;
+  
   padding: 40px 15px;
   box-shadow: 0 9px 18px 0 rgba(0,0,0,0.25);
   background: rgba($blue-darken, .95);
@@ -39,7 +43,8 @@
 .page-head {
   padding-bottom: 30px;
   .page-title {
-    font-size: 28px;
+    font-family: 'EB Garamond', serif;
+    font-size: 26px;
     text-align: center;
     font-weight: normal;
     line-height: 28px;
@@ -58,10 +63,12 @@
 
 @media only screen and (min-width: 576px) {
   .page-content {
+    font-family: 'EB Garamond', serif;
     padding: 40px;
   }
 
   .page-head {
+    font-family: 'EB Garamond', serif;
     .page-title {
       font-size: 43px;
       line-height: 43px;
