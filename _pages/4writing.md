@@ -7,12 +7,9 @@ image: 13.jpg
 ---
 ## Poems
 
-[种植](https://csluc.com/writings03)
-
-[四月之一](https://csluc.com/writings04)
-
-[无题](https://csluc.com/writings07)
-
+[种植](https://csluc.com/writings03)  
+[四月之一](https://csluc.com/writings04  
+[无题](https://csluc.com/writings07)  
 [无题](https://csluc.com/writings08)
 
 [无题](https://csluc.com/writings11)
