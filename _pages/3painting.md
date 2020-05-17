@@ -29,12 +29,6 @@ permalink: /paintings/
 
 ![]({{site.baseurl}}/img/20.jpg)
 
-![]({{site.baseurl}}/img/21.jpg)
-
-![]({{site.baseurl}}/img/22.jpg)
-
-![]({{site.baseurl}}/img/23.jpg)
-
 ![]({{site.baseurl}}/img/28.jpg)
 
 ![]({{site.baseurl}}/img/26.jpg)
