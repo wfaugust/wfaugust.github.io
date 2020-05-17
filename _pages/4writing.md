@@ -23,6 +23,8 @@ image: 13.jpg
 
 [Game and Elegy](https://csluc.com/writings05)
 
+[Consolation](https://csluc.com/writings12)
+
 ****
 
 ## [Writings]
