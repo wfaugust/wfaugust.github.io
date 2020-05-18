@@ -5,8 +5,6 @@ image: 01.jpg
 permalink: /paintings/
 ---
 
-![]({{site.baseurl}}/img/21.jpg)
-
 ![]({{site.baseurl}}/img/09.jpg)
 
 ![]({{site.baseurl}}/img/02.jpg)
@@ -30,8 +28,6 @@ permalink: /paintings/
 ![]({{site.baseurl}}/img/19.jpg)
 
 ![]({{site.baseurl}}/img/20.jpg)
-
-![]({{site.baseurl}}/img/28.jpg)
 
 ![]({{site.baseurl}}/img/26.jpg)
 
