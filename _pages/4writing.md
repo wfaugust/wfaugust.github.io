@@ -21,8 +21,8 @@ image: 13.jpg
 
 ### Essays
 
-[Why I Paint](https://csluc.com/writings01)  
 [阿赫玛托娃](https://csluc.com/writings06)  
+[Why I Paint](https://csluc.com/writings01)  
 [Enigma of One's House](https://csluc.com/writings13)       
 [Granny Ria](https://csluc.com/writings14)
 
