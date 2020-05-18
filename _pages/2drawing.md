@@ -23,3 +23,5 @@ permalink: /drawings/
 
 ![]({{site.baseurl}}/img/33.jpg)
 
+![]({{site.baseurl}}/img/08.jpg)
+
