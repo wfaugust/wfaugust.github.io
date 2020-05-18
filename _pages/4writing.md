@@ -5,7 +5,7 @@ date: 2015-01-11 16:04:00 +0300
 permalink: /writings/
 image: 13.jpg
 ---
-## Poems
+Poems
 
 [种植](https://csluc.com/writings03)  
 [四月之一](https://csluc.com/writings04)  
@@ -19,7 +19,7 @@ image: 13.jpg
 
 ****
 
-## Essays
+Essays
 
 [阿赫玛托娃](https://csluc.com/writings06)  
 [Why I Paint](https://csluc.com/writings01)  
@@ -28,7 +28,7 @@ image: 13.jpg
 
 ****
 
-## Fictions
+Fictions
 
 [琥珀](https://csluc.com/writings02)    
 [受伤的必要条件](https://csluc.com/writings15)
