@@ -10,7 +10,7 @@ body #content > .wrapper { display:inline-block; padding: 1.8em, 4.5%, 1.8em; }
 /* Layouts */
 body.fullscreen { max-height: 100%; overflow-y: hidden; overflow-x: hidden; background: $black; }
 body.fullscreen #content { display: inline-block; height: 100vh; overflow: hidden; }
-body.fullscreen #content > .wrapper {padding: 1.8em, 4.5%, 1.8em;}
+body.fullscreen #content > .wrapper { display:inline-block; padding: 1.8em, 4.5%, 1.8em;}
 
 /* Text on Dark Background (over images) */
 body.fullscreen ul.social-icons, body.fullscreen  #footer p { vertical-align: bottom; padding-bottom: 0; line-height: 1.1; }
