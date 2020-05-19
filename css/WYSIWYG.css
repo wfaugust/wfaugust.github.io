@@ -67,7 +67,7 @@ h2.big { font-size: 240%; letter-spacing: .1em; }
 h6 .small, h6 .big, .small h6, .big h6 { line-height: 1; }
 .big i { font-size: 1.4em; font-weight: normal;  }
 .extrabig i { font-size: 1.6em; font-weight: normal; }
-.serif { font-family: 'EB Garamond', serif; opacity: .8; font-size: 94%; }
+.serif { font-family: 'Cormorant Garamond', serif; opacity: .8; font-size: 94%; }
 .smaller-width { width: 70%; }
 .smaller-padding { padding-bottom: 8px; }
 .smaller-margin { margin-bottom: 8px; }
