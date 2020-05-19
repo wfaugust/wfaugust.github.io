@@ -116,23 +116,6 @@ ul.ticks li::before { content: '✔';}
 .icons-showoff i { font-size: 2em; display: block; } 
 
 
-/* FOOTER
-_____________________________________ */
-body.fullscreen #footer {
-    position: absolute;
-    display: block;
-    bottom: 0;
-    padding-bottom: 3.5em;
-    right: 0;
-    z-index: 3;
-    color: white;
-    text-align: right;
-    padding: 2em 4.5% 0;
-}
-
-
-#footer {  -webkit-transition: -webkit-transform 0.35s; transition: transform 0.35s; }
-
 
 
 
