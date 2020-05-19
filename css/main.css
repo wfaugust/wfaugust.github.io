@@ -365,7 +365,7 @@ form .row:first-child .floating-label-form-group {
   font-weight: 400;
   letter-spacing: 1px;
   padding: 10px 5px;
-  background-color: black;
+  background-color: $blue-black;
 }
 @media only screen and (min-width: 768px) {
   .pager li > a,
@@ -377,14 +377,14 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: black;
+  background-color: $blue-black;
   }
 .pager .disabled > a,
 .pager .disabled > a:hover,
 .pager .disabled > a:focus,
 .pager .disabled > span {
   color: #808080;
-  background-color: #404040;
+  background-color: $black;
   cursor: not-allowed;
 }
 ::-moz-selection {
