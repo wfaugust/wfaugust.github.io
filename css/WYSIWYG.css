@@ -4,7 +4,7 @@ html { font-family: 'Cormorant Garamond', serif; font-size: 62.5%; }
 body { font-family: 'Cormorant Garamond', serif; font-size: 1.8em; font-weight: 400; }
 
 /* CONTENT */
-body #content { position: fixed; }
+body #content { position: absolute; }
 body #content > .wrapper { padding: 3em 4.5% 0; }
 
 /* Layouts */
