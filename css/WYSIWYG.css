@@ -5,12 +5,12 @@ body { font-family: 'Cormorant Garamond', serif; font-size: 1.8em; font-weight: 
 
 /* CONTENT */
 body #content { position: relative; }
-body #content > .wrapper { display:inline-block; padding: 1.8em, 4.5%, 1.8em; }
+body #content > .wrapper { padding: 3em 4.5% 0; }
 
 /* Layouts */
-body.fullscreen { max-height: 100%; overflow-y: hidden; overflow-x: hidden; background: $black; }
+body.fullscreen { max-height: 100%; overflow-y: hidden; overflow-x: hidden; background: #000; }
 body.fullscreen #content { height: 100vh; overflow: hidden; }
-body.fullscreen #content > .wrapper { display:inline-block; padding: 1.8em, 4.5%, 1.8em;}
+body.fullscreen #content > .wrapper { padding: 0; }
 
 /* Text on Dark Background (over images) */
 body.fullscreen ul.social-icons, body.fullscreen  #footer p { vertical-align: bottom; padding-bottom: 0; line-height: 1.1; }
@@ -34,12 +34,12 @@ h1 { font-weight: normal; font-size: 1.7em; margin: 0 0 .5em 0; line-height: 1.4
 h2 { font-weight: normal; font-size: 1.5em; margin: 0 0 .7em 0; line-height: 1.2; letter-spacing: .01em;  }
 h3 { font-weight: normal; font-size: 1.25em; margin: 0 0 .5em 0; line-height: 1.4; }
 h4 { font-weight: normal; font-size: 1.15em; margin: 0 0 .5em 0; line-height: 1.4; }
-h5 { font-weight: normal; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
-h6 { font-weight: normal; font-size: .8em; margin: 0 0 .5em 0; line-height: 1.4; }
+h5 { font-weight: bold; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
+h6 { font-weight: bold; font-size: .8em; margin: 0 0 .5em 0; line-height: 1.4; }
 p { padding: 0 0 1.5em 0; line-height: 1.6; }
 ul, ol { padding: 0; line-height: 1.6; list-style: disc; }
 ol { list-style: decimal; }
-strong, input, button, .button { font-weight: normal; }
+strong, input, button, .button { font-weight: bold; }
 nav ul { list-style: none; }
 em { font-style: italic; } 
 a { color: #EA8E00; text-decoration: none; 
@@ -67,7 +67,7 @@ h2.big { font-size: 240%; letter-spacing: .1em; }
 h6 .small, h6 .big, .small h6, .big h6 { line-height: 1; }
 .big i { font-size: 1.4em; font-weight: normal;  }
 .extrabig i { font-size: 1.6em; font-weight: normal; }
-.serif { font-family: 'Cormorant Garamond', serif; opacity: .8; font-size: 94%; }
+.serif { font-family: Times, serif; opacity: .8; font-size: 94%; }
 .smaller-width { width: 70%; }
 .smaller-padding { padding-bottom: 8px; }
 .smaller-margin { margin-bottom: 8px; }
@@ -83,7 +83,7 @@ hr.divider { background: none; border: 0; padding: 1.5em 0; margin: 0; clear: bo
 .image-with-caption figcaption { position: absolute; width: 100%; padding: 1em 2em; bottom: 2em; color: #F7F6F5; font-size: 90%; opacity: 0; -webkit-transition: all .35s ease; -moz-transition: all .35s ease; -ms-transition: all .35s ease; -o-transition: all .35s ease; transition: all .35s ease;  }
 .image-with-caption:hover figcaption { opacity: 1; bottom: 0; }
 .image-with-caption:hover img { opacity: .3; }
-.image-with-caption p:first-of-type { font-family: 'Cormorant Garamond', serif; font-size: .9em; opacity: .8; }
+.image-with-caption p:first-of-type { font-family: Times, serif; font-style: italic; font-size: .9em; opacity: .8; }
 
 img.alignleft { margin: 5px 20px 20px 0; }
 img.alignright { margin: 5px 0 20px 20px; }
@@ -98,7 +98,7 @@ table tr:nth-child(odd)  td {  }
 table tr:nth-child(even) td {  }
 table p { padding: 0; }
 table sup { vertical-align: text-top; font-size: .55em; display: inline-block; margin: 2px 5px 0 -10px; }
-table p.table-top { display: inline-block; background: #EA8E00; color: #F7F6F5; text-transform: uppercase; padding: 7px 1em 5px 1em; font-size: .6em; line-height: 1; position: relative; top: -16px; margin-bottom: 1em; font-weight: normal; letter-spacing: .05em; }
+table p.table-top { display: inline-block; background: #EA8E00; color: #F7F6F5; text-transform: uppercase; padding: 7px 1em 5px 1em; font-size: .6em; line-height: 1; position: relative; top: -16px; margin-bottom: 1em; font-weight: bold; letter-spacing: .05em; }
 
 ul.arrows, ul.ticks { padding-left: 2em; }
 ul.arrows li, ul.ticks li { list-style: none; position: relative; }
@@ -115,6 +115,23 @@ ul.ticks li::before { content: '✔';}
 .icons-showoff p { display: inline-block; text-align: center; width: 100px; font-size: .8em; } 
 .icons-showoff i { font-size: 2em; display: block; } 
 
+
+/* FOOTER
+_____________________________________ */
+body.fullscreen #footer {
+    position: absolute;
+    display: block;
+    bottom: 0;
+    padding-bottom: 3.5em;
+    right: 0;
+    z-index: 3;
+    color: white;
+    text-align: right;
+    padding: 2em 4.5% 0;
+}
+
+
+#footer {  -webkit-transition: -webkit-transform 0.35s; transition: transform 0.35s; }
 
 
 
