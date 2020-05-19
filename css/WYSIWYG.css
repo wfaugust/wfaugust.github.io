@@ -34,12 +34,12 @@ h1 { font-weight: normal; font-size: 1.7em; margin: 0 0 .5em 0; line-height: 1.4
 h2 { font-weight: normal; font-size: 1.5em; margin: 0 0 .7em 0; line-height: 1.2; letter-spacing: .01em;  }
 h3 { font-weight: normal; font-size: 1.25em; margin: 0 0 .5em 0; line-height: 1.4; }
 h4 { font-weight: normal; font-size: 1.15em; margin: 0 0 .5em 0; line-height: 1.4; }
-h5 { font-weight: bold; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
-h6 { font-weight: bold; font-size: .8em; margin: 0 0 .5em 0; line-height: 1.4; }
+h5 { font-weight: normal; font-size: 1em; margin: 0 0 .5em 0; line-height: 1.4; }
+h6 { font-weight: normal; font-size: .8em; margin: 0 0 .5em 0; line-height: 1.4; }
 p { padding: 0 0 1.5em 0; line-height: 1.6; }
 ul, ol { padding: 0; line-height: 1.6; list-style: disc; }
 ol { list-style: decimal; }
-strong, input, button, .button { font-weight: bold; }
+strong, input, button, .button { font-weight: normal; }
 nav ul { list-style: none; }
 em { font-style: italic; } 
 a { color: #EA8E00; text-decoration: none; 
@@ -98,7 +98,7 @@ table tr:nth-child(odd)  td {  }
 table tr:nth-child(even) td {  }
 table p { padding: 0; }
 table sup { vertical-align: text-top; font-size: .55em; display: inline-block; margin: 2px 5px 0 -10px; }
-table p.table-top { display: inline-block; background: #EA8E00; color: #F7F6F5; text-transform: uppercase; padding: 7px 1em 5px 1em; font-size: .6em; line-height: 1; position: relative; top: -16px; margin-bottom: 1em; font-weight: bold; letter-spacing: .05em; }
+table p.table-top { display: inline-block; background: #EA8E00; color: #F7F6F5; text-transform: uppercase; padding: 7px 1em 5px 1em; font-size: .6em; line-height: 1; position: relative; top: -16px; margin-bottom: 1em; font-weight: normal; letter-spacing: .05em; }
 
 ul.arrows, ul.ticks { padding-left: 2em; }
 ul.arrows li, ul.ticks li { list-style: none; position: relative; }
