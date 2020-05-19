@@ -67,7 +67,7 @@ h2.big { font-size: 240%; letter-spacing: .1em; }
 h6 .small, h6 .big, .small h6, .big h6 { line-height: 1; }
 .big i { font-size: 1.4em; font-weight: normal;  }
 .extrabig i { font-size: 1.6em; font-weight: normal; }
-.serif { font-family: Times, serif; opacity: .8; font-size: 94%; }
+.serif { 'Cormorant Garamond', serif; opacity: .8; font-size: 94%; }
 .smaller-width { width: 70%; }
 .smaller-padding { padding-bottom: 8px; }
 .smaller-margin { margin-bottom: 8px; }
@@ -83,7 +83,7 @@ hr.divider { background: none; border: 0; padding: 1.5em 0; margin: 0; clear: bo
 .image-with-caption figcaption { position: absolute; width: 100%; padding: 1em 2em; bottom: 2em; color: #F7F6F5; font-size: 90%; opacity: 0; -webkit-transition: all .35s ease; -moz-transition: all .35s ease; -ms-transition: all .35s ease; -o-transition: all .35s ease; transition: all .35s ease;  }
 .image-with-caption:hover figcaption { opacity: 1; bottom: 0; }
 .image-with-caption:hover img { opacity: .3; }
-.image-with-caption p:first-of-type { font-family: Times, serif; font-style: italic; font-size: .9em; opacity: .8; }
+.image-with-caption p:first-of-type { font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: .9em; opacity: .8; }
 
 img.alignleft { margin: 5px 20px 20px 0; }
 img.alignright { margin: 5px 0 20px 20px; }
