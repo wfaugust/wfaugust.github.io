@@ -6,7 +6,7 @@ image:  20.jpg
 tags:   Portraits
 ---
 
-20 x 24 inch     
+60 x 80 cm       
 
 ![]({{site.baseurl}}/img/20.jpg)
 
