@@ -17,11 +17,16 @@ images:
 ---
 
 
-<html class="no-js" lang="en">
-<head>
-	<meta content="charset=utf-8">
+<div class="container">
+  <div class="row">
+    <article class="col col-12 col-t-10 push-t-1 page">
+      <div class="page-content">
+        <div class="page-head">
+          <h1 class="page-title">{{ page.title | escape }}</h1>
+        </div>
 
-<!-- CSS -->
+        <div class="page-body">
+          <!-- CSS -->
      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
      <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" type="text/css" media="screen" />
       <link rel="stylesheet" href="{{ site.baseurl }}/css/galleries.css" media="screen" />
@@ -29,114 +34,48 @@ images:
 
 
 
-	<!-- Modernizr -->
+  <!-- Modernizr -->
   <script src="{{ site.baseurl }}/js/modernizr.js"></script>
 
 
-
-  
-
-</head>
-
-<body class="fullscreen">
-
 <!-- MAIN CONTENT SECTION  _____________________________________________-->
-	<section id="content" role="main">
-		<div class="wrapper">
+  <section id="content" role="main">
+    <div class="wrapper">
 
-			<!-- WYSIWYG -->
+      <!-- WYSIWYG -->
 
-		<div class="position-absolute">
-				<h2 class="big no-margin"><strong>{{ page.main-title }}</strong></h2>
-				<h2>{{ page.subtitle }}</h2> 
+    <div class="position-absolute">
+        <h2 class="big no-margin"><strong>{{ page.main-title }}</strong></h2>
+        <h2>{{ page.subtitle }}</h2> 
                      <div class="entry-summary">
-							<p>{{ page.description }}</p>
-						</div><br />
-			</div>
-			
-			<div class="gallery fullscreen-gallery kenburns-gallery">
+              <p>{{ page.description }}</p>
+            </div><br />
+      </div>
+      
+      <div class="gallery fullscreen-gallery kenburns-gallery">
 
-				<canvas id="kenburns"></canvas>
-				
-{% for image in page.images %}  	
+        <canvas id="kenburns"></canvas>
+        
+{% for image in page.images %}    
 
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
+        <figure class="gallery-item">
+          <header class='gallery-icon'>
 
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-	
-				</header>	
-				</figure>
+<a href="{{ site.url }}{{ site.baseurl }}{{image}}">
+<img src="{{ site.url }}{{ site.baseurl }}{{image.image_path}}"></a>
+  
+        </header> 
+        </figure>
 
 {% endfor %}
 
-				</div>
-			<!-- END WYSIWYG -->
-			
-	
-		</div><!-- END .wrapper -->
-		
-	</section>
-
-<div id="footer" role="contentinfo">
-		<ul class="soc-icons">
-
-                 {% if site.facebook_username %}
-			<li>
-   <a href="https://facebook.com/{{ site.facebook_username }}" style="
-color:#dddddd; target="_blank" title="Facebook">
-                       <i class="fa fa-facebook"></i>
-                     </span>
-</a></li>
-    {% endif %}
- {% if site.twitter_username %}
-			<li>
-   <a href="https://twitter.com/{{ site.twitter_username }}" style="
-color:#dddddd; target="_blank" title="Twitter">
-                       <i class="fa fa-twitter"></i>
-                     </span>
-</a></li>
-    {% endif %}
-                {% if site.instagram_username %}
-			<li>
-   <a href="https://instagram.com/{{ site.instagram_username }}" style="
-color:#dddddd; target="_blank" title="Instagram">
-                       <i class="fa fa-instagram"></i>
-                     </span>
-</a></li>
-    {% endif %}
-                    {% if site.flickr_username %}
-						<li>
-   <a href="https://flickr.com/photos/{{ site.flickr_username }}" style="
-color:#dddddd; target="_blank" title="Flickr">
-              <i class="fa fa-flickr"></i>
-                     </span>
- </a></li>	
-     {% endif %}
-                    {% if site.deviantart_username %}
-			<li>
-   <a href="http://{{ site.deviantart_username }}.deviantart.com" style="
-color:#dddddd; target="_blank" title="DeviantArt">
-<i class="fa fa-deviantart"></i> </span>
-</a></li>	
-    {% endif %}
-                    {% if site.github_username %}
-                <li>
-   <a href="https://github.com/{{ site.github_username }}" style="
-color:#dddddd; target="_blank" title="Github">
-              <i class="fa fa-github"></i>
-                     </span>
-                   {% endif %}
-<li>
-    <a href="mailto:{{ site.email }}" style="
-color:#dddddd; target="_blank" title="Email">
-              <i class="fa fa-envelope-o"></i></span>
-          </a> </li>
-	
-					
-		</ul>	
-	</div>
+        </div>
+      <!-- END WYSIWYG -->
+      
+  
+    </div><!-- END .wrapper -->
+    
+  </section>
 
   
 <!-- jQuery -->
@@ -156,6 +95,10 @@ color:#dddddd; target="_blank" title="Email">
 <!-- include custom script -->
 <script src="{{ site.baseurl }}/js/scripts.js"></script>
 
+        </div>
+      </div>
+    </article> <!-- /.page -->
 
-       </body>
-    </html>
+  </div>
+</div>
+
