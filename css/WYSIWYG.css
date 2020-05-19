@@ -1,7 +1,7 @@
 /* WYSIWYG TEXT STYLES
 --------------------------------------------------------- */
-html { font-family: 'EB Garamond', serif; font-size: 62.5%; }
-body { font-family: 'EB Garamond', serif; font-size: 1.8em; font-weight: 400; }
+html { font-family: 'Cormorant Garamond', serif; font-size: 62.5%; }
+body { font-family: 'Cormorant Garamond', serif; font-size: 1.8em; font-weight: 400; }
 
 /* CONTENT */
 body #content { position: relative; }
@@ -83,7 +83,7 @@ hr.divider { background: none; border: 0; padding: 1.5em 0; margin: 0; clear: bo
 .image-with-caption figcaption { position: absolute; width: 100%; padding: 1em 2em; bottom: 2em; color: #F7F6F5; font-size: 90%; opacity: 0; -webkit-transition: all .35s ease; -moz-transition: all .35s ease; -ms-transition: all .35s ease; -o-transition: all .35s ease; transition: all .35s ease;  }
 .image-with-caption:hover figcaption { opacity: 1; bottom: 0; }
 .image-with-caption:hover img { opacity: .3; }
-.image-with-caption p:first-of-type { font-family: 'EB Garamond', serif; font-size: .9em; opacity: .8; }
+.image-with-caption p:first-of-type { font-family: 'Cormorant Garamond', serif; font-size: .9em; opacity: .8; }
 
 img.alignleft { margin: 5px 20px 20px 0; }
 img.alignright { margin: 5px 0 20px 20px; }
