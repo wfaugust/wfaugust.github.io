@@ -1,18 +1,18 @@
-// Page
-.page {
+// Gallary
+.gallary {
   margin-bottom: 20px;
 }
 
-.page-image-box {
+.gallary-image-box {
   background: $black;
   &.reveal-in {
-    .page-image {
+    .gallary-image {
       opacity: 1;
     }
   }
 }
 
-.page-image {
+.gallary-image {
   min-height: 230px;
   margin-bottom: 30px;
   background-size: cover;
@@ -30,7 +30,7 @@
   }
 }
 
-.page-content {
+.gallary-content {
   font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
   font-size: 16px;
   line-height: 1.6;
@@ -40,9 +40,9 @@
   background: rgba($blue-darken, .95);
 }
 
-.page-head {
+.gallary-head {
   padding-bottom: 30px;
-  .page-title {
+  .gallary-title {
     font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
     font-size: 18px;
     text-align: center;
@@ -52,24 +52,24 @@
   }
 }
 
-.page-head, .page-body {
+.gallary-head, .gallary-body {
   margin-bottom: 20px;
   border-bottom: 1px solid $border-color;
 }
 
-.page-body {
+.gallary-body {
   padding-bottom: 20px;
 }
 
 @media only screen and (min-width: 576px) {
-  .page-content {
+  .gallary-content {
     font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
     padding: 40px;
   }
 
-  .page-head {
+  .gallary-head {
     font-family: Arial, Helvetica, Tahoma, “Microsoft YaHei”, “微软雅黑”, sans-serif;
-    .page-title {
+    .gallary-title {
       font-size: 26px;
       line-height: 43px;
       margin-bottom: 10px;
