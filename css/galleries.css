@@ -112,7 +112,7 @@ body.gallerythumbsrevealed .position-absolute { -webkit-transform: translate3d(0
 .before-after { max-width: 100%; clear: both; float: left; margin: 0 2em 1em 0; }
 .before-after .gallery-icon a::after { display: none; }
 
-.gallery.no-margin { margin-bottom: 0 !important; }
+.gallery.no-margin { margin-bottom: 20px; }
 
 /* Popup image */
 body.mfp-zoom-out-cur #header, body.mfp-zoom-out-cur #content, body.mfp-zoom-out-cur #sidebar {  -webkit-filter: blur(2px); -moz-filter: blur(2px); -o-filter: blur(2px); -ms-filter: blur(2px); filter: blur(2px); }
