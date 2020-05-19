@@ -11,7 +11,7 @@
 .gallery-item:hover .gallery-caption .entry-summary { opacity: 1; }
 .gallery-caption h3, .gallery-caption p { -webkit-transition: -webkit-transform 0.35s; transition: transform 0.35s; padding: 0; margin: 0; }
 .gallery-item:hover .gallery-caption h3, .gallery-item:hover .gallery-caption p { -webkit-transform: translate3d(0,0,0); transform: translate3d(0,0,0); }
-.gallery-caption h3  { font-weight: bold; text-transform: uppercase; font-size: .9em; letter-spacing: 0.05em; }
+.gallery-caption h3  { font-weight: normal; text-transform: uppercase; font-size: .9em; letter-spacing: 0.05em; }
 .gallery-caption .entry-summary > p { font-family: Times, serif; font-style: italic; font-size: .8em; opacity: .8; }
 
 #gallery-filter { display: block; position: relative; top: 12px; }
@@ -68,7 +68,7 @@
 iframe#okplayer { min-width: 100%; min-height: 100%; }
 
 #gallerynav { display: inline-block; padding: 0 1em; }
-#gallerynav a { color: #F7F6F5; padding: .3em; font-size: 1.5em; font-weight: bold; }
+#gallerynav a { color: #F7F6F5; padding: .3em; font-size: 1.5em; font-weight: normal; }
 #gallerynav a svg { fill: #F7F6F5; vertical-align: bottom; }
 #gallerynav a.thumbs { padding: 0 1.5em 0 0; }
 #gallerynav a:hover, #gallerynav a.active { color: #EA8E00; }
