@@ -9,7 +9,7 @@ body #content > .wrapper { padding: 3em 4.5% 0; }
 
 /* Layouts */
 body.fullscreen { max-height: 90%; overflow-y: auto; overflow-x: auto; background: #000; }
-body.fullscreen #content { height: auto; overflow: hidden; }
+body.fullscreen #content { height: 100vh; overflow: auto; }
 body.fullscreen #content > .wrapper { padding: 0; }
 
 /* Text on Dark Background (over images) */
