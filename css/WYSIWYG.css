@@ -4,12 +4,12 @@ html { font-family: 'Cormorant Garamond', serif; font-size: 62.5%; }
 body { font-family: 'Cormorant Garamond', serif; font-size: 1.8em; font-weight: 400; }
 
 /* CONTENT */
-body #content { display: flex; position: relative; }
+body #content { display:inline-block; position: relative; }
 body #content > .wrapper { padding: 1.8em, 4.5%, 1.8em; }
 
 /* Layouts */
 body.fullscreen { max-height: 100%; overflow-y: hidden; overflow-x: hidden; background: $black; }
-body.fullscreen #content { display: flex; height: 100vh; overflow: hidden; }
+body.fullscreen #content { display: inline-block; height: 100vh; overflow: hidden; }
 body.fullscreen #content > .wrapper {padding: 1.8em, 4.5%, 1.8em;}
 
 /* Text on Dark Background (over images) */
