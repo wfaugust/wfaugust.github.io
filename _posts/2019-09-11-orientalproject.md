@@ -37,5 +37,3 @@ permalink: /orientalproject/
 
 ![]({{site.baseurl}}/img/Art of Being Observed—C.S. Luc Oriental Project -16.jpg)
 
-![]({{site.baseurl}}/img/Art of Being Observed—C.S. Luc Oriental Project -17.jpg)
-
