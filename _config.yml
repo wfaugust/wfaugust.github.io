@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: C.S.Luc
-description: The Stubborn Artist # this means to ignore newlines until "baseurl:"
+title: Imperfect Understanding
+description: A pseudo physicist. # this means to ignore newlines until "baseurl:"
 owner:
-  name: C.S.Luc
-  url: "http://csluc.com" # your URL
+  name: Fang Wang
+  url: "http://wang-axiom.com" # your URL
 first_published: 2020 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
-url: "http://csluc.com" # the base hostname & protocol for this site
+url: "http://wang-axiom.com" # the base hostname & protocol for this site
 baseurl: "" # the subpath of your site, e.g. /blog
             # Note you'll have to move your robots.txt to the root if you want it used.
             # And list multiple sitemaps if there are other subdirectories you want indexed
@@ -16,14 +16,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 #-------------------------------
 # About Section
-author-name:   C.S.Luc
+author-name:   Fang Wang
 author-avatar: 01.jpg
 
 
 #-------------------------------
 # Contact links
-facebook:  https://facebook.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
+facebook:  https://www.facebook.com/profile.php?id=100005392728939 # Add your Facebook handle
+instagram: https://www.instagram.com/fang_wang1992/ # Add your Facebook handle
 
 
 #-------------------------------
