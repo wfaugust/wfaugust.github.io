@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vitae
-image: 56.jpg
+image: 69.jpg
 permalink: /vitae/
 ---
 
