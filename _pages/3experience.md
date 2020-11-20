@@ -5,7 +5,7 @@ permalink: /Research/
 image: duolin01.jpg
 ---
 **Research Assistant**, 2014 – Present.  
-*Fields*: Software Engineering, Mathematical Modeling, Quantum Information Theory   
+*Fields*: Quantum Information Theory   
 *Center for Distributed Quantum Computing, Stevens Institute of Technology*, Hoboken, NJ
 
 ·    Overcame obstacles caused by noises concerning future quantum computers, through mathematical derivations and numerical simulations   
@@ -19,7 +19,7 @@ image: duolin01.jpg
 ****
 
 **Visiting Researcher**, 2016.  
-*Fields*: Software Engineering, Quantum Computing, Stochastic Process   
+*Fields*: Quantum Computing, Stochastic Process   
 *Beijing Computational Science Research Center*, Beijing, China
 
 ·    Solved stochastic partial differential equations numerically using both MATLAB and Python     
@@ -31,7 +31,7 @@ image: duolin01.jpg
 ****
 
 **Research Assistant**,  2012 – 2014.   
- *Fields*: Computational Chemistry, Data Analysis, Numerical Simulation
+ *Fields*: Computational Chemistry, Functional Materials
  *Hefei National Laboratory for Physical Science at Microscales*, Hefei, China
 
 ·    Analyzed a large amount of data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
