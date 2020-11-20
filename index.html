@@ -41,7 +41,7 @@ layout: default
 						<div class="article-content">
 
 
-							<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 100 }}{% else %}{{ post.content | strip_html | truncate: 15}}{% endif %}</p>
+							<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 100 }}{% else %}{{ post.title | strip_html | truncate: 25}}{% endif %}</p>
 						</div>
 					</div>
 				</article> <!-- /.article -->
