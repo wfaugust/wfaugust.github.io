@@ -1,21 +1,19 @@
 ---
 layout: page
 title: Vitae
-image: 69.jpg
+image: 56.JPG
 permalink: /vitae/
 ---
 
 
 
-**Ph.D. Candidate** in Theoretical Physics,                                                                                  2014 - Present
-
- *Stevens Institute of Technology*, Hoboken, NJ, United States
-
+**Ph.D. Candidate** in Theoretical Physics, 2014 - Present
+*Stevens Institute of Technology*, Hoboken, NJ, United States
 
 
-**B.S.** in Chemistry,                                                                                                                        July 2014
 
- *University of Science and Technology of China (USTC)*, Hefei, China
+**B.S.** in Chemistry,  2014
+*University of Science and Technology of China (USTC)*, Hefei, China
 
 ****
 
