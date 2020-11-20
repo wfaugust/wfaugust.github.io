@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Contact
 image: 56.JPG
 permalink: /contact/
