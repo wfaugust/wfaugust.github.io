@@ -27,13 +27,6 @@ image: 40.jpg
 
 ****
 
-**Book Notes**
-
-[察罗堵斯德罗绪言](https://wang-axiom/writings21)   
-[A Free Man's Worship](https://wang-axiom/writings17)
-
-****
-
 **All Trivia**
 
 [2010-04-10旧文](https://wang-axiom/writings01)  
@@ -46,6 +39,13 @@ image: 40.jpg
 [2013, A Year of No Significance ](https://wang-axiom/writings08)  
 [2013-03-09旧文](https://wang-axiom/writings09)   
 [2013-05-26旧文](https://wang-axiom/writings10)   
+
+****
+
+**Book Notes**
+
+[察罗堵斯德罗绪言](https://wang-axiom/writings21)   
+[A Free Man's Worship](https://wang-axiom/writings17)
 
 ****
 
