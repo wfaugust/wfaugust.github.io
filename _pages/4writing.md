@@ -5,7 +5,7 @@ date: 2015-01-11 16:04:00 +0300
 permalink: /writings/
 image: 69.jpg
 ---
-**US Diaries**
+**留美日记｜US Diaries**
 
 [致异乡女](https://wang-axiom.com/writings11)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
@@ -27,7 +27,7 @@ image: 69.jpg
 
 ****
 
-**All Trivia**
+**琐碎集｜All Trivia**
 
 [2010-04-10旧文](https://wang-axiom.com/writings01)  
 [2011-08-12旧文](https://wang-axiom.com/writings02)  
@@ -42,7 +42,7 @@ image: 69.jpg
 
 ****
 
-**Book Notes**
+**读书笔记｜Book Notes**
 
 [察罗堵斯德罗绪言](https://wang-axiom.com/writings21)   
 [A Free Man's Worship](https://wang-axiom.com/writings17)
