@@ -17,12 +17,12 @@ image: duolin13.jpg
 [人间喜剧](https://wang-axiom.com/writings19)   
 [念兹在兹](https://wang-axiom.com/writings20)   
 [随想录（一）](https://wang-axiom.com/writings22)   
-[随想录（二）](https://wang-axiom.com/writings23)   
+[随想录（二）](https://wang-axiom.com/writings30)   
 [随想录（三）](https://wang-axiom.com/writings24)   
 [随想录（四）](https://wang-axiom.com/writings25)   
-[随想录（五）](https://wang-axiom.com/writings26)  
+[随想录（五）](https://wang-axiom.com/writings35)  
 [随想录（六）](https://wang-axiom.com/writings27)   
-[Strong Opinions I](https://wang-axiom.com/writings28)   
+[Strong Opinions I](https://wang-axiom.com/writings31)   
 [随想录（七）](https://wang-axiom.com/writings29) 
 
 ****
@@ -44,5 +44,9 @@ image: duolin13.jpg
 
 **读书笔记｜Book Notes**
 
-[察罗堵斯德罗绪言](https://wang-axiom.com/writings21)   
-[A Free Man's Worship](https://wang-axiom.com/writings17)
+ [On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)
+[A Free Man's Worship](https://wang-axiom.com/writings17)   
+[Tithonus](https://wang-axiom.com/writings34)    
+[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
+[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
+[Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)
