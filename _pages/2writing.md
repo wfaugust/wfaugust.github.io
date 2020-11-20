@@ -46,8 +46,3 @@ image: duolin13.jpg
 
 [察罗堵斯德罗绪言](https://wang-axiom.com/writings21)   
 [A Free Man's Worship](https://wang-axiom.com/writings17)
-
-****
-
-
-
