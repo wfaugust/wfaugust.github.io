@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 permalink: /Research/
-image: 66.jpg
+image: duolin01.jpg
 ---
 **Research Assistant**, 2014 – Present.  
 *Fields*: Software Engineering, Mathematical Modeling, Quantum Information Theory   
