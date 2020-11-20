@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research
+title: Experience
 permalink: /Research/
 image: 66.jpg
 ---
 **Research Assistant**,                                                                                   2014 – Present
- *Fields*: Software Engineering, Mathematical Modeling, Quantum Information Theory   
- *Center for Distributed Quantum Computing, Stevens Institute of Technology*, Hoboken, NJ
+*Fields*: Software Engineering, Mathematical Modeling, Quantum Information Theory   
+*Center for Distributed Quantum Computing, Stevens Institute of Technology*, Hoboken, NJ
 
 ·    Overcame obstacles caused by noises concerning future quantum computers, through mathematical derivations and numerical simulations   
 ·    Invented theoretical quantum models utilizing noise to enhance output signals efficiently     
@@ -19,8 +19,8 @@ image: 66.jpg
 ****
 
 **Visiting Researcher**,                                                                                         2016
- *Fields*: Software Engineering, Quantum Computing, Stochastic Process   
- *Beijing Computational Science Research Center*, Beijing, China
+*Fields*: Software Engineering, Quantum Computing, Stochastic Process   
+*Beijing Computational Science Research Center*, Beijing, China
 
 ·    Solved stochastic partial differential equations numerically using both MATLAB and Python     
 ·    Discovered crossover between non-Markovian and Markovian dynamics    
