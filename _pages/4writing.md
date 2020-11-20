@@ -5,7 +5,7 @@ date: 2015-01-11 16:04:00 +0300
 permalink: /writings/
 image: 69.jpg
 ---
-**留美日记｜US Diaries**
+**留美日记｜US Diaries.   2014 - **
 
 [致异乡女](https://wang-axiom.com/writings11)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
@@ -27,7 +27,7 @@ image: 69.jpg
 
 ****
 
-**琐碎集｜All Trivia**
+**琐碎集｜All Trivia.   2010 - 2014**
 
 [2010-04-10旧文](https://wang-axiom.com/writings01)  
 [2011-08-12旧文](https://wang-axiom.com/writings02)  
