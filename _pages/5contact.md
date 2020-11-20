@@ -1,6 +1,6 @@
 ---
 title: Contact
-image: 22.jpg
+image: 69.JPG
 permalink: /contact/
 ---
 
