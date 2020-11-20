@@ -4,7 +4,7 @@ title: 2013-03-09旧文
 excerpt: Writings
 author: Fang Wang
 image: 22.jpg
-permalink: /writings10/
+permalink: /writings09/
 ---
 
 记得几年前，东活一楼的网络中心还不是个专供学生上网的网吧，它还是个书店，求索书店。那是我很喜欢的一家书店，我对它的喜爱不亚于很多人对桃李苑食堂的喜爱，我也喜欢桃李苑，我不仅喜欢它而且喜欢把它读成桃李碗，我们都这么读。这其中大概是有典故的，我忘了。

@@ -4,9 +4,9 @@ image: 22.jpg
 permalink: /contact/
 ---
 
-**C. S. Luc**
+**Fang Wang**
 
-Email: Nopainting@hotmail.com
+Email: wfaugust@gmail.com 
 
-WeChat ID: affectioninfection
+WeChat ID: w_fang158
 
