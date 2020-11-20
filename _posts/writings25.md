@@ -1,0 +1,16 @@
+---
+layout: page
+title: 随想录（四）
+excerpt: Writings
+author: Fang Wang
+image: 22.jpg
+permalink: /writings25/
+---
+
+“昨日种种譬如昨日死。”
+
+
+
+****
+
+By Fang Wang
