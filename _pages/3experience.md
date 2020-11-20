@@ -4,7 +4,7 @@ title: Experience
 permalink: /Research/
 image: 66.jpg
 ---
-**Research Assistant**,                                                                                   2014 – Present
+**Research Assistant**, 2014 – Present.  
 *Fields*: Software Engineering, Mathematical Modeling, Quantum Information Theory   
 *Center for Distributed Quantum Computing, Stevens Institute of Technology*, Hoboken, NJ
 
@@ -18,7 +18,7 @@ image: 66.jpg
 
 ****
 
-**Visiting Researcher**,                                                                                         2016
+**Visiting Researcher**, 2016.  
 *Fields*: Software Engineering, Quantum Computing, Stochastic Process   
 *Beijing Computational Science Research Center*, Beijing, China
 
@@ -28,11 +28,9 @@ image: 66.jpg
 
 
 
-
-
 ****
 
-**Research Assistant**,                                                                                    2012 – 2014
+**Research Assistant**,  2012 – 2014.   
  *Fields*: Computational Chemistry, Data Analysis, Numerical Simulation
  *Hefei National Laboratory for Physical Science at Microscales*, Hefei, China
 
