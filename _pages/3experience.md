@@ -31,7 +31,7 @@ image: duolin01.jpg
 ****
 
 **Research Assistant**,  2012 – 2014.   
- *Fields*: Computational Chemistry, Functional Materials
+ *Fields*: Computational Chemistry, Functional Materials.   
  *Hefei National Laboratory for Physical Science at Microscales*, Hefei, China
 
 ·    Analyzed a large amount of data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
