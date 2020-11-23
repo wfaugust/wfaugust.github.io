@@ -16,7 +16,7 @@ DOB: July 14, 2020
 2 months
 ![]({{site.baseurl}}/img/Eden01.JPG)
 
-3 and half months
+3.5 months
 ![]({{site.baseurl}}/img/Eden02.JPG)
 ![]({{site.baseurl}}/img/Eden03.JPG)
 ![]({{site.baseurl}}/img/Eden04.JPG)
