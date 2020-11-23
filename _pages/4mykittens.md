@@ -13,7 +13,7 @@ Eden(秋秋)
 Breed: Female seal bi-color ragdoll | 海豹双色布偶猫    
 DOB: July 14, 2020      
 
-2 months
+When she was 2 months old
 ![]({{site.baseurl}}/img/Eden01.JPG)
 
 3.5 months
@@ -27,7 +27,7 @@ Xandy(纨纨)
 Breed: Male blue bi-color ragdoll | 蓝双色布偶猫   
 DOB: May 18, 2020   
 
-6 months
+When he was 6 months old
 ![]({{site.baseurl}}/img/Xandy07.JPG)
 ![]({{site.baseurl}}/img/Xandy08.JPG)
 ![]({{site.baseurl}}/img/Xandy04.JPG)
