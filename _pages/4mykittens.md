@@ -16,7 +16,7 @@ DOB: July 14, 2020
 When she was 4.5 months old...   
 ![]({{site.baseurl}}/img/Eden08.jpg)
 ![]({{site.baseurl}}/img/Eden05.jpg)
-![]({{site.baseurl}}/img/Eden06.jpg)
+![]({{site.baseurl}}/img/Eden06.JPG)
 
 3.5 months...  
 ![]({{site.baseurl}}/img/Eden04.JPG)
