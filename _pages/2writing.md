@@ -7,6 +7,14 @@ image: duolin13.jpg
 ---
 **美国日记｜US Diaries.   2014 - Present**
 
+[随想录（一）](https://wang-axiom.com/writings22)   
+[随想录（二）](https://wang-axiom.com/writings30)   
+[随想录（三）](https://wang-axiom.com/writings24)   
+[随想录（四）](https://wang-axiom.com/writings25)   
+[随想录（五）](https://wang-axiom.com/writings35)  
+[随想录（六）](https://wang-axiom.com/writings27)   
+[Strong Opinions I](https://wang-axiom.com/writings31)   
+[随想录（七）](https://wang-axiom.com/writings29) 
 [致异乡女](https://wang-axiom.com/writings11)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
 [新房客](https://wang-axiom.com/writings13)  
@@ -16,14 +24,6 @@ image: duolin13.jpg
 [“豳诗漫与，笑篱落呼灯，世间儿女。”](https://wang-axiom.com/writings18)   
 [人间喜剧](https://wang-axiom.com/writings19)   
 [念兹在兹](https://wang-axiom.com/writings20)   
-[随想录（一）](https://wang-axiom.com/writings22)   
-[随想录（二）](https://wang-axiom.com/writings30)   
-[随想录（三）](https://wang-axiom.com/writings24)   
-[随想录（四）](https://wang-axiom.com/writings25)   
-[随想录（五）](https://wang-axiom.com/writings35)  
-[随想录（六）](https://wang-axiom.com/writings27)   
-[Strong Opinions I](https://wang-axiom.com/writings31)   
-[随想录（七）](https://wang-axiom.com/writings29) 
 
 ****
 
