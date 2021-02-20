@@ -24,6 +24,7 @@ image: duolin13.jpg
 [“豳诗漫与，笑篱落呼灯，世间儿女。”](https://wang-axiom.com/writings18)   
 [人间喜剧](https://wang-axiom.com/writings19)   
 [念兹在兹](https://wang-axiom.com/writings20)   
+[我的初恋](https://wang-axiom.com/writings35)   
 
 ****
 
@@ -44,10 +45,15 @@ image: duolin13.jpg
 
 **读书笔记｜Book Notes**
 
+[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
+[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
+
+****
+
+**摘｜Extraction**
+
 [Tithonus](https://wang-axiom.com/writings30)    
 [Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
 [A Free Man's Worship](https://wang-axiom.com/writings17)   
-[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
-[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
-[On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)
-
+[On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)   
+[一段记载](https://wang-axiom.com/writings36)
