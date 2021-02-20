@@ -7,7 +7,7 @@ image: duolin13.jpg
 ---
 **美国日记｜US Diaries.   2014 - Present**
 
-[随想录（一）](https://wang-axiom.com/writings30)   
+[随想录（一）](https://wang-axiom.com/writings34)   
 [随想录（二）](https://wang-axiom.com/writings22)   
 [随想录（三）](https://wang-axiom.com/writings24)   
 [随想录（四）](https://wang-axiom.com/writings25)   
@@ -44,7 +44,7 @@ image: duolin13.jpg
 
 **读书笔记｜Book Notes**
 
-[Tithonus](https://wang-axiom.com/writings34)    
+[Tithonus](https://wang-axiom.com/writings30)    
 [Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
 [A Free Man's Worship](https://wang-axiom.com/writings17)   
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
