@@ -4,9 +4,19 @@ title: Experience
 permalink: /Research/
 image: duolin01.jpg
 ---
-**Research Assistant**, 2014 – Present.  
-*Fields*: Quantum Information Theory   
-*Center for Distributed Quantum Computing, Stevens Institute of Technology*, Hoboken, NJ
+
+
+**Sumridge Partners LLC, Jersey City, NJ**  2020 – Present
+
+·    Apply mathematical and physics techniques to address practical issues in fixed income securities, such as derivative valuation, securities trading, risk management.
+
+·    Research or develop analytical tools to address issues such as portfolio optimization, performance measurement, profit and loss measurement, or pricing models.
+
+
+
+****
+
+**Center for Distributed Quantum Computing, Stevens Institute of Technology, Hoboken, NJ** 2014 – Present.
 
 ·    Overcame obstacles caused by noises concerning future quantum computers, through mathematical derivations and numerical simulations   
 ·    Invented theoretical quantum models utilizing noise to enhance output signals efficiently     
@@ -18,9 +28,7 @@ image: duolin01.jpg
 
 ****
 
-**Visiting Researcher**, 2016.  
-*Fields*: Quantum Computing, Stochastic Process   
-*Beijing Computational Science Research Center*, Beijing, China
+**Beijing Computational Science Research Center, Beijing, China**  2016
 
 ·    Solved stochastic partial differential equations numerically using both MATLAB and Python     
 ·    Discovered crossover between non-Markovian and Markovian dynamics    
@@ -30,8 +38,6 @@ image: duolin01.jpg
 
 ****
 
-**Research Assistant**,  2012 – 2014.   
- *Fields*: Computational Chemistry, Functional Materials.   
- *Hefei National Laboratory for Physical Science at Microscales*, Hefei, China
+**Hefei National Laboratory for Physical Science at Microscales, Hefei, China** 2012 - 2014
 
 ·    Analyzed a large amount of data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
