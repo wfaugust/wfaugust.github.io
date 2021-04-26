@@ -14,7 +14,7 @@ image: duolin13.jpg
 [随想录（五）](https://wang-axiom.com/writings35)  
 [随想录（六）](https://wang-axiom.com/writings27)   
 [Strong Opinions I](https://wang-axiom.com/writings31)   
-[随想录（七）](https://wang-axiom.com/writings29) 
+[随想录（七）](https://wang-axiom.com/writings29)   
 [致异乡女](https://wang-axiom.com/writings11)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
 [新房客](https://wang-axiom.com/writings13)  
