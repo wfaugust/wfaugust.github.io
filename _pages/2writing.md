@@ -59,4 +59,5 @@ image: duolin13.jpg
 [Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
 [A Free Man's Worship](https://wang-axiom.com/writings17)   
 [On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)   
-[一段记载](https://wang-axiom.com/writings37)
+[一段记载](https://wang-axiom.com/writings36)  
+[是时候了](https://wang-axiom.com/writings38)
