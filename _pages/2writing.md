@@ -25,7 +25,8 @@ image: duolin13.jpg
 [人间喜剧](https://wang-axiom.com/writings19)   
 [念兹在兹](https://wang-axiom.com/writings20)   
 [我的初恋](https://wang-axiom.com/writings36)     
-[海鸥之歌](https://wang-axiom.com/writings37)
+[海鸥之歌](https://wang-axiom.com/writings37)     
+[无题](https://wang-axiom.com/writings39)     
 
 
 
