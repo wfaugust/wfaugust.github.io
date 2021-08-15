@@ -61,4 +61,8 @@ image: duolin13.jpg
 [A Free Man's Worship](https://wang-axiom.com/writings17)   
 [On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)   
 [一段记载](https://wang-axiom.com/writings36)  
-[是时候了](https://wang-axiom.com/writings38)
+[是时候了](https://wang-axiom.com/writings38)   
+[神曲一脔·地狱曲一](https://wang-axiom.com/writings40)
+
+
+
