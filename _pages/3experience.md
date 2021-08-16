@@ -2,7 +2,7 @@
 layout: page
 title: Experience
 permalink: /Research/
-image: duolin01.jpg
+image: 75.JPG
 ---
 
 
