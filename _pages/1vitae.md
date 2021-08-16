@@ -6,6 +6,10 @@ permalink: /vitae/
 ---
 
 
+**Quantitative Researcher** 2020 - Present.  
+*Sumridge Partners LLC*, Jersey City, NJ, United States
+
+
 
 **Ph.D. Candidate** in Theoretical Physics, 2014 - Present.  
 *Stevens Institute of Technology*, Hoboken, NJ, United States
