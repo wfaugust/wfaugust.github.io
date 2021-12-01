@@ -32,7 +32,6 @@ image: 75.JPG
 
 ·    Solved stochastic partial differential equations numerically using both MATLAB and Python     
 ·    Discovered crossover between non-Markovian and Markovian dynamics    
-·    Acquired knowledge on quantum metrology and quantum fluctuation through workshops
 
 
 
@@ -40,4 +39,4 @@ image: 75.JPG
 
 **Hefei National Laboratory for Physical Science at Microscales, Hefei, China** 2012 - 2014
 
-·    Analyzed a large amount of data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
+·    Analyzed the data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
