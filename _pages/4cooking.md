@@ -5,8 +5,6 @@ image: 15.JPG
 permalink: /cooking/
 ---
 
-****
-
 
 ![]({{site.baseurl}}/img/Cooking/C0.jpg)
 
