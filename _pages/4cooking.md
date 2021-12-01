@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cooking collection
+title: Cooking
 image: 15.JPG
 permalink: /cooking/
 ---
