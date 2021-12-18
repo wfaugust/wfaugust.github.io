@@ -61,7 +61,8 @@ image: duolin13.jpg
 
 [Tithonus](https://wang-axiom.com/writings30)    
 [Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
-[A Free Man's Worship](https://wang-axiom.com/writings17)   
+[A Free Man's Worship](https://wang-axiom.com/writings17)       
+[Weaker Vessel](https://wang-axiom.com/writings43)       
 [On the Feeling of Immortality in Youth](https://wang-axiom.com/writings23)   
 [一段记载](https://wang-axiom.com/writings36)  
 [是时候了](https://wang-axiom.com/writings38)   
