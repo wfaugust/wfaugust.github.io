@@ -57,7 +57,7 @@ image: duolin13.jpg
 
 ****
 
-**摘｜Extraction**
+**摘｜Excerpts**
 
 [Tithonus](https://wang-axiom.com/writings30)    
 [Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
