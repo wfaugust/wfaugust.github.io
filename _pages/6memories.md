@@ -9,6 +9,8 @@ permalink: /memories/
 
 ![]({{site.baseurl}}/img/fw/fw02.jpg)
 
+![]({{site.baseurl}}/img/fw/fw08.jpg)
+
 ![]({{site.baseurl}}/img/fw/fw06.jpg)
 
 ![]({{site.baseurl}}/img/fw/fw10.jpg)
