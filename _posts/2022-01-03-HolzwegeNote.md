@@ -20,17 +20,17 @@ permalink: /HolzwegeNote/
 
 
 
-本书的中文翻译缺失了一个重要信息，在如下英文首段中可见一斑。Holzwege的一个独特属性在于森林中的”僻径“各有其径，看似相同，但也只是看似而已。
+本书的中文标题缺失了一个重要信息，在如下英文首段中可见一斑。Holzwege的一个独特属性在于森林中的”僻径“各有其径，看似相同，但也只是看似而已。
 
 ****
 
-**"Wood" is an old name for forest. In the wood there are paths, mostly overgrown, that come to an abrupt stop where the wood is untrodden.**
+"Wood" is an old name for forest. In the wood there are paths, mostly overgrown, that come to an abrupt stop where the wood is untrodden.
 
-**They are called *Holzwege*.**
+They are called **Holzwege**.
 
-**Each goes its separate way, though within the same forest. It often appears as if one is identical to another. But it only appears so.**      
+Each goes its separate way, though within the same forest. It often appears as if one is identical to another. But it only appears so.      
 
-**Woodcutters and forest keepers know these paths. They know what it means to be on a Holzwege.**
+Woodcutters and forest keepers know these paths. They know what it means to be on a Holzwege.
 
 ****
 
