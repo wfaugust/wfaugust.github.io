@@ -51,10 +51,9 @@ image: duolin13.jpg
 ****
 
 **札记**｜Book Notes**
-
-[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
-[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
+[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)       
+[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
 
 ****
 
