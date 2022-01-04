@@ -5,6 +5,9 @@ image: 22.jpg
 permalink: /vitae/
 ---
 
+**Fang(Audrey) Wang**
+
+
 
 **Quantitative Research Analyst** in Fixed Income Trading, 2020 - Present.  
 *Sumridge Partners LLC*, Jersey City, NJ, United States
