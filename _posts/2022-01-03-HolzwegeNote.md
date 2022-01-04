@@ -24,13 +24,13 @@ permalink: /HolzwegeNote/
 
 ****
 
-*"Wood" is an old name for forest. In the wood there are paths, mostly overgrown, that come to an abrupt stop where the wood is untrodden.*
+**"Wood" is an old name for forest. In the wood there are paths, mostly overgrown, that come to an abrupt stop where the wood is untrodden.**
 
-*They are called **Holzwege**.*
+**They are called *Holzwege*.**
 
-*Each goes its separate way, though within the same forest. It often appears as if one is identical to another. But it only appears so.*      
+**Each goes its separate way, though within the same forest. It often appears as if one is identical to another. But it only appears so.**      
 
-*Woodcutters and forest keepers know these paths. They know what it means to be on a Holzwege.*
+**Woodcutters and forest keepers know these paths. They know what it means to be on a Holzwege.**
 
 ****
 
