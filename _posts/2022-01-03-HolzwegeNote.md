@@ -3,7 +3,7 @@ layout: page
 title: 《林中路 (Holzwege) 》阅读笔记
 excerpt: Comment
 author: Fang Wang
-image: 100.jpg
+image: 99.jpg
 tags: Comment
 permalink: /HolzwegeNote/     
 ---
@@ -94,3 +94,5 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 Fang Wang
 
 Jan 03, 2021
+
+The picture is took from Fragile Future exhibition in the Shed in New York, 2021. 
