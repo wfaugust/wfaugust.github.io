@@ -138,7 +138,7 @@ IV. 诗人何为 | Why Poets? (1946)
 
 1. 里尔克诗全集 / [奥] 赖纳·马利亚·里尔克 / 陈宁 / 商务印书馆 / 2016
 
-2. **[Bread and Wine](https://wang-axiom.com/BreadandWine) **, written by Friedrich Holderlin, translated by James Mitchell.
+2. [Bread and Wine](https://wang-axiom.com/BreadandWine), written by Friedrich Holderlin, translated by James Mitchell.
 
 ****
 
