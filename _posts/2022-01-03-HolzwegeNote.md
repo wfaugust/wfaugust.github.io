@@ -3,7 +3,7 @@ layout: page
 title: 《林中路 (Holzwege) 》阅读笔记
 excerpt: Comment
 author: Fang Wang
-image: 98.jpg
+image: 100.jpg
 tags: Comment
 permalink: /HolzwegeNote/     
 ---
