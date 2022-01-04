@@ -19,9 +19,3 @@ permalink: /vitae/
 **B.S.** in Chemistry,  2014.  
 *University of Science and Technology of China (USTC)*, Hefei, China
 
-****
-
-Email: wfaugust@gmail.com
-
-WeChat ID: w_fang158
-
