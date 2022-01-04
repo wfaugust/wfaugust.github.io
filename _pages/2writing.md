@@ -71,7 +71,3 @@ image: duolin13.jpg
 [脆弱的器皿](https://wang-axiom.com/writings41)   
 [Bread and Wine](https://wang-axiom.com/BreadandWine) 
 
-
-
-
-
