@@ -50,7 +50,7 @@ image: duolin13.jpg
 
 ****
 
-**读书笔记｜Book Notes**
+**札记**｜Book Notes**
 
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
 [Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
