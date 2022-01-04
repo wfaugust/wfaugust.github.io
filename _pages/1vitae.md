@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vitae
-image: 22.jpg
+image: duolin02.jpg
 permalink: /vitae/
 ---
 
