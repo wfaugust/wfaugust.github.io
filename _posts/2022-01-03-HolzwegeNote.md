@@ -47,7 +47,7 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 
 ****
 
-(一) 艺术作品的本源 | The Origin of the Work of Art (1935-36)
+I. 艺术作品的本源 | The Origin of the Work of Art (1935-36)
 
 艺术家 <=> 作品，互为本源，都通过第三者而存在，即，艺术。（至此好像是废话）
 
@@ -55,7 +55,7 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 
 ****
 
-(四) 诗人何为 | Why Poets? (1946)
+IV. 诗人何为 | Why Poets? (1946)
 
 本篇集中讨论了两位诗人的作品，荷尔德林和里尔克。都是我很喜欢的德语诗人。本文取荷尔德林的哀歌《面包与葡萄酒》为代表，里尔克则以《杜诺伊哀歌》，诗歌《重力》为例。这些片段笔者皆不曾读过，哭。
 
