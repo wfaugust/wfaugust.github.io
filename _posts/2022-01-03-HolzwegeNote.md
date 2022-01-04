@@ -94,7 +94,7 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 ‘那是纯粹之力的重力的统辖之所 / 最终庇护我们的，是我们的**无保护性**’。
 
 &emsp;&emsp;&emsp;&emsp;正如自然一任万物    
-&emsp;&emsp;&emsp;&emsp;听其**阴沉乐趣**的冒险摆布    (1)
+&emsp;&emsp;&emsp;&emsp;听其**阴沉乐趣**的冒险摆布    (1)    
 &emsp;&emsp;&emsp;&emsp;绝无特殊保护在土地和树枝中，    
 &emsp;&emsp;&emsp;&emsp;同样，我们存在的原始基础    
 &emsp;&emsp;&emsp;&emsp;也不再喜好我们；它使我们冒险。    
