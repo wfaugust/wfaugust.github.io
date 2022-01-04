@@ -3,7 +3,7 @@ layout: page
 title: 《林中路 (Holzwege) 》阅读笔记
 excerpt: Comment
 author: Fang Wang
-image: duolin02.jpg
+image: 99.jpg
 tags: Comment
 permalink: /HolzwegeNote/     
 ---
@@ -94,3 +94,5 @@ IV. 诗人何为 | Why Poets? (1946)
 Fang Wang
 
 Jan 03, 2021
+
+The picture was took from the Fragile Future exhibition in the Shed in New York, 2021. 
