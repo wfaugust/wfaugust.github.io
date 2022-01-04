@@ -45,7 +45,7 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 
 其中我最喜欢‘艺术作品的本源’， ‘世界图像的时代’， ‘诗人何为？’三篇，会在本文中用力摘抄。
 
-****
+
 
 I. 艺术作品的本源 | The Origin of the Work of Art (1935-36)
 
@@ -53,7 +53,7 @@ I. 艺术作品的本源 | The Origin of the Work of Art (1935-36)
 
 写不动了，再说吧。
 
-****
+
 
 IV. 诗人何为 | Why Poets? (1946)
 
