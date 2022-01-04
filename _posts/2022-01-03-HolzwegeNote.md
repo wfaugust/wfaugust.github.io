@@ -93,7 +93,7 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 
 ‘那是纯粹之力的重力的统辖之所 / 最终庇护我们的，是我们的**无保护性**’。
 
-正如自然一任万物    
+<center>正如自然一任万物    
 听其**阴沉乐趣**的冒险摆布    (1)
 绝无特殊保护在土地和树枝中，    
 同样，我们存在的原始基础    
@@ -108,7 +108,7 @@ Woodcutters and forest keepers know these paths. They know what it means to be o
 而且，当我们看到它逼近时，    
 我们已改变它，使之进入**敞开者**中，    
 从而在最宽广之轨道中，    
-我们为法则所触动而把它肯定  
+我们为法则所触动而把它肯定</center>  
 
 
 
