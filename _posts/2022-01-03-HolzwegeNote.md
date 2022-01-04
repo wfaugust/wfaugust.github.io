@@ -49,6 +49,10 @@ permalink: /HolzwegeNote/
 
 (一)  艺术作品的本源 | The Origin of the Work of Art (1935-36)
 
+艺术家 <=> 作品，互为本源，都通过第三者而存在，即，艺术。（至此好像是废话）
+
+写不动了，再说吧。
+
 ****
 
 (四) 诗人何为
