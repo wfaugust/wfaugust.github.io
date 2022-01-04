@@ -35,7 +35,7 @@ image: duolin13.jpg
 
 ****
 
-**琐碎集｜All Trivia.   2010 - 2014**
+**琐碎集｜All Trivia.   2010 - 2014**    
 
 [2010-04-10旧文](https://wang-axiom.com/writings01)  
 [2011-08-12旧文](https://wang-axiom.com/writings02)  
@@ -50,7 +50,8 @@ image: duolin13.jpg
 
 ****
 
-**札记**｜Book Notes**
+**札记**｜Book Notes**    
+
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
 [Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)       
 [《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
