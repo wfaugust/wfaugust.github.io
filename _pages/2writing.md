@@ -67,7 +67,10 @@ image: duolin13.jpg
 [一段记载](https://wang-axiom.com/writings36)  
 [是时候了](https://wang-axiom.com/writings38)   
 [神曲一脔·地狱曲一](https://wang-axiom.com/writings26)   
-[脆弱的器皿](https://wang-axiom.com/writings41)
+[脆弱的器皿](https://wang-axiom.com/writings41)   
+[Bread and Wine](https://wang-axiom.com/BreadandWine) 
+
+
 
 
 
