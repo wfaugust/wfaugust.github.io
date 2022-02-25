@@ -9,7 +9,7 @@ permalink: /vitae/
 
 
 
-**Quantitative Research Analyst** in Fixed Income Trading, 2020 - Present.  
+**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - Present.  
 *Sumridge Partners LLC*, Jersey City, NJ, United States
 
 
