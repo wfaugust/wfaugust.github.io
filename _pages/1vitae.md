@@ -5,7 +5,7 @@ image: duolin02.jpg
 permalink: /vitae/
 ---
 
-**Fang(Audrey) Wang**
+**Fang Wang**
 
 
 
