@@ -45,7 +45,7 @@ Now a man judges well the things he knows [well], and it is of these that he is 
 [4]
 
 苗译：
-最好是从所知道的东西开始，而所知道的东西有双重意义，或者是为我们所知道的，或者是在一般的意义上所知道的。对我们来说，研究还是从我们所知道的东西开始为好。所以那些想学习高尚和公正的人，也就是学习政治事务的人，最好是从习性或品德开始。始点或本原是一种在其充分显现后，就不须再问为什么的东西。像这样的人也就具有，或者很容易获得这种始点和本原，对那些与此无缘的人，请他听听赫西俄德的诗句吧。
+最好是从所知道的东西开始，而所知道的东西有双重意义，或者是为我们所知道的，或者是在一般的意义上所知道的。对我们来说，研究还是从我们所知道的东西开始为好。所以那些想学习高尚和公正的人，也就是学习政治事务的人，最好是从习性或品德开始。始点或本原是一种在其充分显现后，就不须再问为什么的东西。像这样的人也就具有，或者很容易获得这种始点和本原，对那些与此无缘的人，请他听听赫西俄德的诗句吧。   
 自己想过一切的在人中最高，  
 那些肯听良言的人也算还好，  
 只有那些自己什么也不来想，   
@@ -54,7 +54,7 @@ Now a man judges well the things he knows [well], and it is of these that he is 
 
 
 廖译：
-但已知的东西是在两种意义上已知的：一是对我们而言的，二是就其自身而言的。也许我们应当从对我们而言是已知的东西出发。所以，希望自己有能力学习高尚[高贵]与公正即学习政治学的人，必须有一个良好的道德品性。因为一个人对一件事情的性质的感觉本身就是一个始点。如果它对于一个人是足够明白的，他就不需再问为什么。而受过良好道德教育的人就已经具有或是很容易获得这些始点。至手那些既不具有，也没有能力获得这些始点的人，他仔应当听一听赫西阿德的诗句：
+但已知的东西是在两种意义上已知的：一是对我们而言的，二是就其自身而言的。也许我们应当从对我们而言是已知的东西出发。所以，希望自己有能力学习高尚[高贵]与公正即学习政治学的人，必须有一个良好的道德品性。因为一个人对一件事情的性质的感觉本身就是一个始点。如果它对于一个人是足够明白的，他就不需再问为什么。而受过良好道德教育的人就已经具有或是很容易获得这些始点。至手那些既不具有，也没有能力获得这些始点的人，他仔应当听一听赫西阿德的诗句：   
 自己有头脑最好，  
 肯听别人的劝告也不错，  
 那些既无头脑又不肯听从的人  
@@ -62,17 +62,17 @@ Now a man judges well the things he knows [well], and it is of these that he is 
 
 
 R.Crisp:
-For while we should begin from things known, they are known in two senses: known by us, and known without qualification. Presumably we have to begin from things known by us. This is why anyone who is going to be a competent student in the spheres of what is noble and what is just --- in a word, politics -- must be brought up well in his habits. For the first principle is the belief that something is the case, and if this is sufficiently clear, he will not need the reason why as well. Such a person is in possession of the first principles, or could easily grasp them. Anyone with neither of these possibilities open to him should listen to Hesiod:
-This person who understands everything for himself is the best of all,
-And noble is that one who heeds good advice.
-But he who neither understands it for himself nor takes to heart
+For while we should begin from things known, they are known in two senses: known by us, and known without qualification. Presumably we have to begin from things known by us. This is why anyone who is going to be a competent student in the spheres of what is noble and what is just --- in a word, politics -- must be brought up well in his habits. For the first principle is the belief that something is the case, and if this is sufficiently clear, he will not need the reason why as well. Such a person is in possession of the first principles, or could easily grasp them. Anyone with neither of these possibilities open to him should listen to Hesiod:   
+This person who understands everything for himself is the best of all,   
+And noble is that one who heeds good advice.   
+But he who neither understands it for himself nor takes to heart   
 What he hears from another is a worthless man.
 
 
 H.G. Apostle:
 One should begin, of course, from what is familiar; but things are familiar in two ways, for some are familiar relative to us while others are familiar without qualification.3 Probably we should begin from things which are familiar relative to us. Accordingly, he who is to listen effectively to 5 lectures concerning noble and just things and, in general, to subjects dealt with by politics should be brought up well in ethical habits; for the
-beginning[here] is the fact, and if this fact should appear to be adequate, there will be no further need of the why of it. Such a man either has or can easily get principles.5 As for him who lacks both, let him listen to the words of Hesiod:   
-That man's completely best who of himself    
+beginning[here] is the fact, and if this fact should appear to be adequate, there will be no further need of the why of it. Such a man either has or can easily get principles.5 As for him who lacks both, let him listen to the words of Hesiod:    
+That man's completely best who of himself     
 Thinks of all things, ... and he is also good    
 Who trusts a good advisor; but the man    
 Who neither for himself can think nor, listening,    
