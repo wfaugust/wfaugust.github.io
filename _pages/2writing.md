@@ -54,7 +54,8 @@ image: duolin13.jpg
 
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
 [Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)       
-[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
+[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)    
+[《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics/)    
 
 ****
 
