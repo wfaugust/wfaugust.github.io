@@ -9,12 +9,15 @@ permalink: /NicomacheanEthics/
 ---
 
 
-笔者误入此伦理学一书，基于尼各马可伦理学卷一做一次译本考据与对比，主要参考的译本如下：
+笔者误入此伦理学一书，发现译本众多，故摘选尼各马可伦理学卷一部分段落做一次译本考据与对比，仅供参考。选取的译本如下：
 
 1. 商务印书馆 廖申白译
    https://book.douban.com/subject/26640201/
 2. 中国社会科学出版社 苗力田译
    https://book.douban.com/subject/3226173/
+3. D. Reidel Publishing Company translated by Hippocrates G.Apostle
+   https://book.douban.com/subject/3091092/
+   
 
 
 
@@ -31,6 +34,10 @@ permalink: /NicomacheanEthics/
 一个人可以对他熟悉了的那些事物作出正确的判断，在这些事物上他是一个好的判断者。所以，对于某个题材判断得好的是在那个题材上受过特殊教育的人，在事物总体上判斯得好的人是受过全面教育的人。所以青年人不适合听政治学。他们对人生的行为缺少经验，而人的行为恰恰是政治学的前提与题材。此外，青年人受感情左右，他学习政治学将既不得要领，又无所收获，因为政治学的目的不是知识而是行为。一个人无论是在年纪上年轻还是在道德上稚嫩，都不适合学习政治学。他们的缺点不在于少经历了岁月，而在于他们的生活与欲求受感情宰制。他们与不能自制者一样，对于他们知等于不知。但是对于那些其期求和行为合于逻各斯的人，对于这些题材的知识将于他大有搭助。作为开篇的话，关于什么人适合学习这门学问，应当以什么方式来研究它，以及这种研究的目的是什么，我们就说到这里。
 
 
+H.G. Apostle:
+Now a man judges well the things he knows [well], and it is of these that he is a good judge; so a good judge in a subject is one who is educated in that subject, and a good judge without qualification is one who is educated in every subject. In view of this, a young man is not a proper student of [lectures on] politics; for he is inexperienced in actions concerned with human life, and discussions proceed from [premises concerning those actions] and deal with [those actions]. Moreover, being disposed to follow his passions, he will listen in vain and without benefit, since the end of such discussions is not knowledge but action.25 (And it makes no difference whether he is young in age or youthful in character, for his deficiency arises not from lack of time but because he lives and pursues things according to passion). For knowledge about such matters in such a man, as in those who are incontinent, becomes unprofitable; but in those who form their desires and act according to [right] reason, it becomes very beneficial. Let so much, then, be taken as a preface concerning (a) the kind of student, (b) the manner in which the discussion of the subject should be accepted, and (c) the subject of the inquiry which is before us.
+
+
 
 ****
 
@@ -38,21 +45,29 @@ permalink: /NicomacheanEthics/
 
 苗译：
 最好是从所知道的东西开始，而所知道的东西有双重意义，或者是为我们所知道的，或者是在一般的意义上所知道的。对我们来说，研究还是从我们所知道的东西开始为好。所以那些想学习高尚和公正的人，也就是学习政治事务的人，最好是从习性或品德开始。始点或本原是一种在其充分显现后，就不须再问为什么的东西。像这样的人也就具有，或者很容易获得这种始点和本原，对那些与此无缘的人，请他听听赫西俄德的诗句吧。
-自己想过一切的在人中最高，
-那些肯听良言的人也算还好，
-只有那些自己什么也不来想，
+自己想过一切的在人中最高，  
+那些肯听良言的人也算还好，  
+只有那些自己什么也不来想，   
 对他人什么也不听的人才最糟。
 
 
 
 廖译：
 但已知的东西是在两种意义上已知的：一是对我们而言的，二是就其自身而言的。也许我们应当从对我们而言是已知的东西出发。所以，希望自己有能力学习高尚[高贵]与公正即学习政治学的人，必须有一个良好的道德品性。因为一个人对一件事情的性质的感觉本身就是一个始点。如果它对于一个人是足够明白的，他就不需再问为什么。而受过良好道德教育的人就已经具有或是很容易获得这些始点。至手那些既不具有，也没有能力获得这些始点的人，他仔应当听一听赫西阿德的诗句：
-自己有头脑最好，
-肯听别人的劝告也不错，
-那些既无头脑又不肯听从的人
+自己有头脑最好，  
+肯听别人的劝告也不错，  
+那些既无头脑又不肯听从的人  
 是最低等的人。
 
 
+H.G. Apostle:
+One should begin, of course, from what is familiar; but things are familiar in two ways, for some are familiar relative to us while others are familiar without qualification.3 Probably we should begin from things which are familiar relative to us. Accordingly, he who is to listen effectively to 5 lectures concerning noble and just things and, in general, to subjects dealt with by politics should be brought up well in ethical habits; for the
+beginning[here] is the fact, and if this fact should appear to be adequate, there will be no further need of the why of it. Such a man either has or can easily get principles.5 As for him who lacks both, let him listen to the words of Hesiod:   
+That man's completely best who of himself    
+Thinks of all things, ... and he is also good    
+Who trusts a good advisor; but the man    
+Who neither for himself can think nor, listening,    
+Takes what he hears to heart, this man is useless.
 
 ****
 
@@ -65,6 +80,10 @@ permalink: /NicomacheanEthics/
 
 廖译：
 人和爱活动的人则把荣誉等同于幸福，因为荣誉可以说就是政治的生活的目的。然而对于我们所追求的善来说，荣誉显得太肤浅。因为荣誉取决于授子者而不是取决于接受者，而我们的直觉是，善是一个人的属己的、不易被拿走的东西。此外，人们追求荣誉似乎是为确证自己的优点，至少是，他们寻求从有智慧的人和认识他们的人那里得到荣誉，并且是因德性而得到荣誉。
+
+
+H.G. Apostle:
+Men of culture and action seek a life of honor; for the end of political life is almost this. But this good appears rather superficial to be what is sought; for it is thought to depend on those who bestow rather than on those who receive honor, whereas we have a strong inner sense that the good is something which belongs to the man who possesses it and cannot be taken away from him easily. Further, men seem to pursue honor in order to assure themselves that they are good; at least, they seek to be honored (a) by men of prudence, and (b) among those who know them, and (c) on the basis of their virtue.
 
 
 
@@ -82,19 +101,26 @@ permalink: /NicomacheanEthics/
 求的东西比那些既因自身又因它物而值得欲求的东西更完善。所以，我们把那些始终因其自身而从不因它物而值得欲求的东西称为最完善的。与所有其他事物相比，幸福似乎最会被视为这样一种事物。因为，我们永远只是因它自身而从不因它物而选择它。而荣誉、快乐、努斯和每种德性，我们固然因它们自身故而选择它们（因为即使它们不带有进一步的好处我们也会选择它们)，但是我们也为幸福之故而选择它们。然而，却没有一个人是为着这些事物或其他别的什么而追求幸福。
 
 
+H.G. Apostle: 
+Now what we maintain is this: that which is pursued for its own sake is more complete than that which is pursued for the sake of something else, and that which is chosen but never chosen for the sake of something else is more complete than other things which, though chosen for their own sake, are also chosen for the sake of this; and that which is complete without any qualification is that which is chosen always for its own sake and never for the sake of something else. Now happiness is thought to be such an end most of all, for it is this that we choose always for its own sake and never for the sake of something else; and as for honor and pleasure and intellect and every virtue, we choose them for their own sake (for we might choose each of them when nothing else resulted from them), but we also choose them for the sake of happiness, believing that through these we shall be happy. But no one chooses happiness for the sake of these, nor, in general, for the sake of some other thing.
+
+
 
 ****
 
 [10]
 
 苗译：
-人们所以不愿承认活着的人幸福，在于命运的多变，而在他们看来，幸福却应是牢固难变的，不像机遇围绕着人们往复流转。一个人如若由着命运摆布，他显然要一会儿倒霉，一会儿幸福，所以我们经常把幸福比做空中楼阁，比做水上浮萍。或者，听从命运的摆布是不对的吗？在机遇里面并没有善和恶，人的生活却少不了这些，正如我们所说，合乎德性的实现活动，才是幸福的主导，其反面则导致不幸。
+现在再让我们回到以前的难点，从那里也许可能找到解决现在问题的一点线索。如若“盖棺定论”，那就是说当一个人在享其天福的时候，不说他洪福齐天，而是在事情过去了才说。而在一个人幸福的时候，不去说出真实，岂不是荒唐之极吗？人们所以不愿承认活着的人幸福，在于命运的多变，而在他们看来，幸福却应是牢固难变的，不像机遇围绕着人们往复流转。一个人如若由着命运摆布，他显然要一会儿倒霉，一会儿幸福，所以我们经常把幸福比做空中楼阁，比做水上浮萍。或者，听从命运的摆布是不对的吗？在机遇里面并没有善和恶，人的生活却少不了这些，正如我们所说，合乎德性的实现活动，才是幸福的主导，其反面则导致不幸。
 
 
 
 廖译：
-因为，我们竟由于顾虑运气的可能变故而不愿意说一个活着的人幸福，由于认为幸福是永恒的、不受可能的变故影响的，由于认为活着的人还可能经历某种变故，而不能在他还幸福的时候说出这一真实的事实。显然，如果遵循这种运气的观念，我们就要此时说一个人幸福，彼时说一个人不幸，就要把幸福的人说成是“一个福祸不定的存在”。所以，遵循这种观点看来是错误的。因为，幸福和不幸并不依赖于运气，尽管我们说过生活也需要运气。造成幸福
-的是合德性的活动，相反的活动则造成相反的结果。
+我们先回过来谈第一个困难。因为它对我们正在考虑的问题也 许有启发。姐果我们应当看到最后，应当到一个人死后再说他以前而不是现在是享得了福祉的，这显然十分荒谬。因为，我们竟由于顾虑运气的可能变故而不愿意说一个活着的人幸福，由于认为幸福是永恒的、不受可能的变故影响的，由于认为活着的人还可能经历某种变故，而不能在他还幸福的时候说出这一真实的事实。显然，如果遵循这种运气的观念，我们就要此时说一个人幸福，彼时说一个人不幸，就要把幸福的人说成是“一个福祸不定的存在”。所以，遵循这种观点看来是错误的。因为，幸福和不幸并不依赖于运气，尽管我们说过生活也需要运气。造成幸福的是合德性的活动，相反的活动则造成相反的结果。
+
+
+H.G. Apostle: 
+But let us return to the first problem, for perhaps from its consideration we might be able to perceive the latter problem also.Now if we are to look to the end and only then consider a man as blessed, not as being then blessed but as having led a blessed life earlier, is it not absurd to say that when the man is happy it would not be true to regard him as happy, giving as the reason the fact that we do not wish to call a man happy because of the possible future changes and (2) our belief (a) that happiness is something enduring and by no means easily changed but (b) that the fortunes of a man often take many turns? For it is clear that if we were to go along with one's fortunes, we would have to call the same man at one time 'happy' and at another 'wretched', representing a happy man as a sort of chameleon and with an unsound foundation. It would not be right at all, then, to base happiness on a man's fortunes. For goodness or badness in a man does not depend on these, although, as we have stated, human life needs them, too; but it is the activities in accordance with virtue which play the dominant role in happiness, while the contrary activities are dominant in the contrary of happiness.
 
 
 
@@ -111,7 +137,8 @@ permalink: /NicomacheanEthics/
 如果说一位已故者的后人或朋友的运气对于他的幸福完金没有影响，又未免太过绝情，并且也与人们所持的观点相悖。但是生命中的变故是大量的，不仅性质不同，程度上也有差异。逐一地详加讨论将使讨论旷日持久、永无终结。对此作一概括的讨论就己足够了。既然我们自己的意外事件也有的会对生命造成重大影响，有的则不甚重要，朋友的各种意外也是如此。而且，变故是发生在一个人在世时还是发生在他死后也是很不同的。这种区别远远大于被认为是真实地发生的罪行和只在舞台上表演的罪行间的区别。我们应当考虑到这些区别。也许，还应当把对已故者真能分享善与恶的怀疑也考虑进来。这些考虑似乎表明，即使善与恶的确影响到已故者，这种影响不论就其本身还是就对于他们的作用而言都只是微乎其微的。或者如果不是无关紧要的，这种影响的程度与性质也不足以使一个不幸者变得幸福，或使一个享得福祉的人失去幸福。所以，已故者似乎在一定程度上受朋友的好运或不幸的影响。但是这种影响达不到使幸福者不幸或使不幸者幸福的程度。
 
 
-
+H.G. Apostle:
+As for the fortunes that may befall a man's descendants and all his friends, to regard them as not contributing anything at all appears very unwelcome and contrary to the opinions of men. On the other hand, since they are many and differ in various ways, some of them coming more close to him while others less so, to discuss each of them individually appears to be a long and endless task, but to speak of them taken as a whole and sketchily may perhaps be sufficient. Now just as some of a man's mishaps have some weight or influence on his life, while others seem to be rather light, so the things that happen to all of a man's friends are similarly related. So since the sufferings which affect the living differ from those which affect the dead much more than the unlawful and terrible deeds which are acted on the stage differ from those which are presupposed in a tragedy, this difference too must be taken into acount,9 and perhaps more so in discussing the problem whether the dead share in any good or its opposite. For, even if any good or its opposite penetrates to them, this seems, from the remarks just made, to be weak or small, either without qualification or to them, or else to be at least so much and of such a kind as not to make happy those who are unhappy nor to deprive happy men of their blessedness. Good actions of friends, then, and bad actions similarly, appear to contribute something to the dead, but they do so to such a degree and extent as not to change happy into unhappy men or to make some other such change.
 
 ****
 
