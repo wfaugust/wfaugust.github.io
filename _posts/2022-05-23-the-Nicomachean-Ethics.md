@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 尼各马可伦理学（Nicomachean Ethics）译本考
+title: 尼各马可伦理学译本考
 excerpt: Booknote
 author: 亚里士多德
 image: 85.jpg
@@ -9,7 +9,7 @@ permalink: /NicomacheanEthics/
 ---
 
 
-按：笔者误入此伦理学一书，发现译本众多，故摘选《尼各马可伦理学》[卷一]部分段落做一次中英译本考据与对比。功底有限，未收录完备，此文仅供参考。选取的译本如下：
+按：笔者误入此伦理学一书，发现译本众多，故摘选《尼各马可伦理学》[卷一]（Nicomachean Ethics, book I）部分段落做一次中英译本考据与对比。功底有限，未收录完备，此文仅供参考。选取的译本如下：
 
 1. [商务印书馆 廖申白译](https://book.douban.com/subject/26640201/)
 2. [中国社会科学出版社 苗力田译](https://book.douban.com/subject/3226173/)
