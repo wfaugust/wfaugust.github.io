@@ -11,12 +11,9 @@ permalink: /NicomacheanEthics/
 
 笔者误入此伦理学一书，发现译本众多，故摘选尼各马可伦理学卷一部分段落做一次译本考据与对比，仅供参考。选取的译本如下：
 
-1. 商务印书馆 廖申白译
-   https://book.douban.com/subject/26640201/
-2. 中国社会科学出版社 苗力田译
-   https://book.douban.com/subject/3226173/
-3. D. Reidel Publishing Company translated by Hippocrates G.Apostle
-   https://book.douban.com/subject/3091092/
+1. [商务印书馆 廖申白译](https://book.douban.com/subject/26640201/)
+2. [中国社会科学出版社 苗力田译](https://book.douban.com/subject/3226173/)
+3. [D. Reidel Publishing Company translated by Hippocrates G.Apostle](https://book.douban.com/subject/3091092/)
    
 
 
