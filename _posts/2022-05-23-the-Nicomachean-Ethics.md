@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 尼各马可伦理学译本考
+title: 尼各马可伦理学（Nicomachean Ethics）译本考
 excerpt: Booknote
 author: 亚里士多德
 image: 85.jpg
