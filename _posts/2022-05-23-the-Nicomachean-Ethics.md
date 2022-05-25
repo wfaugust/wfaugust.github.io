@@ -13,9 +13,10 @@ permalink: /NicomacheanEthics/
 
 1. [商务印书馆 廖申白译](https://book.douban.com/subject/26640201/)
 2. [中国社会科学出版社 苗力田译](https://book.douban.com/subject/3226173/)
-3. [Oxford University Press translated by David Ross](https://book.douban.com/subject/3543603/)
-4. [Cambridge University Press translated by Roger Crisp](https://book.douban.com/subject/1759104/)
-5. [D. Reidel Publishing Company translated by Hippocrates G.Apostle](https://book.douban.com/subject/3091092/)
+3. [Harvard University Press translated by H. Rackham](https://book.douban.com/subject/1919895/)
+4. [Oxford University Press translated by David Ross](https://book.douban.com/subject/3543603/)
+5. [Cambridge University Press translated by Roger Crisp](https://book.douban.com/subject/1759104/)
+6. [D. Reidel Publishing Company translated by Hippocrates G.Apostle](https://book.douban.com/subject/3091092/)
    
 
 
@@ -30,6 +31,10 @@ permalink: /NicomacheanEthics/
 
 廖译：
 一个人可以对他熟悉了的那些事物作出正确的判断，在这些事物上他是一个好的判断者。所以，对于某个题材判断得好的是在那个题材上受过特殊教育的人，在事物总体上判斯得好的人是受过全面教育的人。所以青年人不适合听政治学。他们对人生的行为缺少经验，而人的行为恰恰是政治学的前提与题材。此外，青年人受感情左右，他学习政治学将既不得要领，又无所收获，因为政治学的目的不是知识而是行为。一个人无论是在年纪上年轻还是在道德上稚嫩，都不适合学习政治学。他们的缺点不在于少经历了岁月，而在于他们的生活与欲求受感情宰制。他们与不能自制者一样，对于他们知等于不知。但是对于那些其期求和行为合于逻各斯的人，对于这些题材的知识将于他大有搭助。作为开篇的话，关于什么人适合学习这门学问，应当以什么方式来研究它，以及这种研究的目的是什么，我们就说到这里。
+
+
+H. Rackham:
+Again, each man judges correctly those matters with which he is acquainted; it is of these that he is a competent critic. To criticize a particular subject, therefore, a man must have been trained in that subject: to be a good critic generally, he must have had an all-round education. Hence the young are not fit to be students of Political Sciences For they have no experience of life and conduct, and it is these that supply the premises and subject matter of this branch of philosophy. And moreover they are led by their feelings; so that they will study the subject to no purpose or advantage, since the end of this science is not knowledge but action. And it makes no difference whether they are young in years or immature in character: the defect is not a question of time, it is because their life and its various aims are guided by feeling; for to such persons their knowledge is of no use, any more than it is to persons of defective self-restraint. But Moral Science may be of great value to those who guide their desires and actions by principle. Let so much suffice by way of introduction the student of the subject, the spirit in which our conclusions are to be received, and the object that we set before us.
 
 
 D. Ross:
@@ -64,6 +69,14 @@ Now a man judges well the things he knows [well], and it is of these that he is 
 肯听别人的劝告也不错，  
 那些既无头脑又不肯听从的人  
 是最低等的人。
+
+
+H. Rackham:
+Now no doubt it is proper to start from the known. But ‘the known’ has two meanings—‘what is known to us,’ which is one thing, and ‘what is knowable in itself,’ which is another. Perhaps then for usa at all events it is proper to start from what is known to us. This is why in order to be a competent student of the Right and Just, and in short of the topics of Politics in general, the pupil is bound to have been well trained in his habits. For the starting-point or first principle is the fact that a thing is so; if this be satisfactorily ascertained, there will be no need also to know the reason why it is so. And the man of good moral training knows first principles already, or can easily acquire them. As for the person who neither knows nor can learn, let him hear the words of Hesiodb:     
+Best is the man who can himself advise;      
+He too is good who hearkens to the wise;      
+But who, himself being witless, will not heed.     
+Another’s wisdom, is worthless indeed.
 
 
 D. Ross:
@@ -104,17 +117,12 @@ Takes what he hears to heart, this man is useless.
 人和爱活动的人则把荣誉等同于幸福，因为荣誉可以说就是政治的生活的目的。然而对于我们所追求的善来说，荣誉显得太肤浅。因为荣誉取决于授子者而不是取决于接受者，而我们的直觉是，善是一个人的属己的、不易被拿走的东西。此外，人们追求荣誉似乎是为确证自己的优点，至少是，他们寻求从有智慧的人和认识他们的人那里得到荣誉，并且是因德性而得到荣誉。
 
 
+H. Rackham:
+Men of refinement, on the other hand, and men of action think that the Good is honour—for this may be said to be the end of the Life of Politics. But honour after all seems too superficial to be the Good for which we are seeking; since it appears to depend on those who confer it more than on him upon whom it is conferred, whereas we instinctively feel that the Good must be something proper to its possessor and not easy to be taken away from him. Moreover men’s motive in pursuing honour seems to be to assure themselves of their own merit; at least they seek to be honoured by men of judgement and by people who know them, that is, they desire to be honoured on the ground of virtue.
+
+
 D. Ross:
-A consideration of the prominent types of life shows that people of
-superior refinement and of active disposition identify happiness
-with honour; for this is, roughly speaking, the end of the political
-life. But it seems too superficial to be what we are looking for, since 
-it is thought to depend on those who bestow honour rather than on
-him who receives it, but the good we divine to be something of
-one’s own and not easily taken from one. Further, men seem to
-pursue honour in order that they may be assured of their merit; at
-least it is by men of practical wisdom that they seek to be honoured,
-and among those who know them, and on the ground of their virtue.
+A consideration of the prominent types of life shows that people of superior refinement and of active disposition identify happiness with honour; for this is, roughly speaking, the end of the political life. But it seems too superficial to be what we are looking for, since it is thought to depend on those who bestow honour rather than on him who receives it, but the good we divine to be something of one’s own and not easily taken from one. Further, men seem to pursue honour in order that they may be assured of their merit; at least it is by men of practical wisdom that they seek to be honoured, and among those who know them, and on the ground of their virtue.
 
 
 R.Crisp:
@@ -137,6 +145,10 @@ Men of culture and action seek a life of honor; for the end of political life is
 
 廖译：
 我们说，那些因自身而值得欲求的东西比那些因它物而值得欲求的东西更完善；那些从不因它物而值得欲求的东西比那些既因自身又因它物而值得欲求的东西更完善。所以，我们把那些始终因其自身而从不因它物而值得欲求的东西称为最完善的。与所有其他事物相比，幸福似乎最会被视为这样一种事物。因为，我们永远只是因它自身而从不因它物而选择它。而荣誉、快乐、努斯和每种德性，我们固然因它们自身故而选择它们（因为即使它们不带有进一步的好处我们也会选择它们)，但是我们也为幸福之故而选择它们。然而，却没有一个人是为着这些事物或其他别的什么而追求幸福。
+
+
+H. Rackham:
+it is clear that not all of them are final ends; whereas the Supreme Good seems to be something final. Consequently if there be some one thing which alone is a final end, this thing—or if there be several final ends, the one among them which is the most final—will be the Good which we are seeking. In speaking of degrees of finality, we mean that a thing pursued as an end in itself is more final than one pursued as a means to something else, and that a thing never chosen as a means to anything else is more final than things chosen both as ends in themselves and as means to that thing; and accordingly a thing chosen always as an end and never as a means we call absolutely final. Now happiness above all else appears to be absolutely final in this sense, since we always choose it for its own sake and never as a means to something else; whereas honour, pleasure, intelligence, and excellence in its various forms, we choose indeed for their own sakes (since we should be glad to have each of them although no extraneous advantage resulted from it), but we also choose them for the sake of happiness, in the belief that they will be a means to our securing it. But no one chooses happiness for the sake of honour, pleasure, etc., nor as a means to anything whatever other than itself.
 
 
 D. Ross:
@@ -165,23 +177,12 @@ Now what we maintain is this: that which is pursued for its own sake is more com
 我们先回过来谈第一个困难。因为它对我们正在考虑的问题也 许有启发。姐果我们应当看到最后，应当到一个人死后再说他以前而不是现在是享得了福祉的，这显然十分荒谬。因为，我们竟由于顾虑运气的可能变故而不愿意说一个活着的人幸福，由于认为幸福是永恒的、不受可能的变故影响的，由于认为活着的人还可能经历某种变故，而不能在他还幸福的时候说出这一真实的事实。显然，如果遵循这种运气的观念，我们就要此时说一个人幸福，彼时说一个人不幸，就要把幸福的人说成是“一个福祸不定的存在”。所以，遵循这种观点看来是错误的。因为，幸福和不幸并不依赖于运气，尽管我们说过生活也需要运气。造成幸福的是合德性的活动，相反的活动则造成相反的结果。
 
 
+H. Rackham:
+But let us go back to our former difficulty, for perhaps it will throw light on the question we are now examining. If we are to look to the end, and congratulate a man when dead not as actually being blessed, but because he has been blessed in the past, surely it is strange if at the actual time when a man is happy that fact cannot be truly predicated of him, because we are unwilling to call the living happy owing to the vicissitudes of fortune, and owing to our conception of happiness as something permanent and not readily subject to change, whereas the wheel of fortune often turns full circle in the same person’s experience. For it is clear that if we are to be guided by fortune, we shall often have to call the same man first happy and then miserable; we shall make out the happy man to be a sort of ‘chameleon, or a house built on the sand. But perhaps it is quite wrong to be guided in our judgement by the changes of fortune, since true prosperity and adversity do not depend on fortune’s favours, although, as we said, our life does require these in addition; but it is the active exercise of our faculties in conformity with virtue that causes happiness, and the opposite activities its opposite.
+
+
 D. Ross:
-But we must return to our first difficulty; for perhaps by a consideration
-of it our present problem might be solved. Now if we
-must see the end and only then call a man blessed, not as being
-blessed but as having been so before, surely this is a paradox, that
-when he is happy the attribute that belongs to him is not to be truly
-predicated of him because we do not wish to call living men happy,
-on account of the changes that may befall them, and because we
-have assumed happiness to be something permanent and by no
-means easily changed, while a single man may suffer many turns of
-fortune’s wheel. For clearly if we were to follow his fortunes, we
-should often call the same man happy and again wretched, making
-the happy man out to be ‘a chameleon, and insecurely based’. Or is 
-this following his fortunes quite wrong? Success or failure in life
-does not depend on these, but human life, as we said,1 needs these
-as well, while virtuous activities or their opposites are what determine
-happiness or the reverse.
+But we must return to our first difficulty; for perhaps by a consideration of it our present problem might be solved. Now if we must see the end and only then call a man blessed, not as being blessed but as having been so before, surely this is a paradox, that when he is happy the attribute that belongs to him is not to be truly predicated of him because we do not wish to call living men happy, on account of the changes that may befall them, and because we have assumed happiness to be something permanent and by no means easily changed, while a single man may suffer many turns of fortune’s wheel. For clearly if we were to follow his fortunes, we should often call the same man happy and again wretched, making the happy man out to be ‘a chameleon, and insecurely based’. Or is this following his fortunes quite wrong? Success or failure in life does not depend on these, but human life, as we said,1 needs these as well, while virtuous activities or their opposites are what determine happiness or the reverse.
 
 
 R.Crisp:
@@ -206,27 +207,12 @@ But let us return to the first problem, for perhaps from its consideration we mi
 如果说一位已故者的后人或朋友的运气对于他的幸福完金没有影响，又未免太过绝情，并且也与人们所持的观点相悖。但是生命中的变故是大量的，不仅性质不同，程度上也有差异。逐一地详加讨论将使讨论旷日持久、永无终结。对此作一概括的讨论就己足够了。既然我们自己的意外事件也有的会对生命造成重大影响，有的则不甚重要，朋友的各种意外也是如此。而且，变故是发生在一个人在世时还是发生在他死后也是很不同的。这种区别远远大于被认为是真实地发生的罪行和只在舞台上表演的罪行间的区别。我们应当考虑到这些区别。也许，还应当把对已故者真能分享善与恶的怀疑也考虑进来。这些考虑似乎表明，即使善与恶的确影响到已故者，这种影响不论就其本身还是就对于他们的作用而言都只是微乎其微的。或者如果不是无关紧要的，这种影响的程度与性质也不足以使一个不幸者变得幸福，或使一个享得福祉的人失去幸福。所以，已故者似乎在一定程度上受朋友的好运或不幸的影响。但是这种影响达不到使幸福者不幸或使不幸者幸福的程度。
 
 
+H. Rackham:
+That the happiness of the dead is not influenced at all by the fortunes of their descendants and their friends in general seems too heartless a doctrine, and contrary to accepted beliefs. But the accidents of life are many and diverse, and vary in the degree in which they affect us. To distinguish between them in detail would clearly be a long and indeed endless undertaking, and a general treatment in outline may perhaps be enough. Even our own misfortunes, then, though in some cases they exercise considerable weight and influence upon the course of our lives, in other cases seem comparatively unimportant; and the same is true of the misfortunes of our friends of all degrees. Also it makes a great difference whether those who are connected with any occurrence are alive or dead, much more so than it does in a tragedy whether the crimes and horrors are supposed to have taken place beforehand or are enacted on the stage. We ought therefore to take this difference also into account, and still more perhaps the doubt that exists whether the dead really participate in good or evil at all. For the above considerations seem to show that even if any good or evil does penetrate to them, the effect is only small and trifling, either intrinsically or in relation to them, or if not trifling, at all events not of such magnitude and kind as to make the unhappy happy or to rob the happy of their blessedness. It does then appear that the dead are influenced in some measure by the good fortune of their friends, and likewise by their misfortunes, but that the effect is not of such a kind or degree as to render the happy unhappy or vice versa.
+
+
 D. Ross:
-That the fortunes of descendants and of all a man’s friends
-should not affect his happiness at all seems a very unfriendly doctrine,
-and one opposed to the opinions men hold; but since the
-events that happen are numerous and admit of all sorts of difference,
-and some come more near to us and others less so, it seems a
-long — nay, an infinite — task to discuss each in detail; a general
-outline will perhaps suffice. If, then, as some of a man’s own misadventures
-have a certain weight and influence on life while others
-are, as it were, lighter, so too there are differences among the misadventures
-of our friends taken as a whole, and it makes a difference
-whether the various sufferings befall the living or the dead (much
-more even than whether lawless and terrible deeds are presupposed
-in a tragedy or done on the stage*), this difference also must be
-taken into account; or rather, perhaps, the fact that doubt is felt
-whether the dead share in any good or evil. For it seems, from these
-considerations, that even if anything whether good or evil penetrates
-to them, it must be something weak and negligible,* either in
-itself or for them, or if not, at least it must be such in degree and
-kind as not to make happy those who are not happy nor to take away
-their blessedness from those who are. The good or bad fortunes of friends, then, seem to have some effects on the dead, but effects of such a kind and degree as neither to make the happy not happy nor to produce any other change of the kind.
+That the fortunes of descendants and of all a man’s friends should not affect his happiness at all seems a very unfriendly doctrine, and one opposed to the opinions men hold; but since the events that happen are numerous and admit of all sorts of difference, and some come more near to us and others less so, it seems a long — nay, an infinite — task to discuss each in detail; a general outline will perhaps suffice. If, then, as some of a man’s own misadventures have a certain weight and influence on life while others are, as it were, lighter, so too there are differences among the misadventures of our friends taken as a whole, and it makes a difference whether the various sufferings befall the living or the dead (much more even than whether lawless and terrible deeds are presupposed in a tragedy or done on the stage*), this difference also must be taken into account; or rather, perhaps, the fact that doubt is felt whether the dead share in any good or evil. For it seems, from these considerations, that even if anything whether good or evil penetrates to them, it must be something weak and negligible, either in itself or for them, or if not, at least it must be such in degree and kind as not to make happy those who are not happy nor to take away their blessedness from those who are. The good or bad fortunes of friends, then, seem to have some effects on the dead, but effects of such a kind and degree as neither to make the happy not happy nor to produce any other change of the kind.
 
 
 R.Crisp:
