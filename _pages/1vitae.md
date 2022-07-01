@@ -7,9 +7,10 @@ permalink: /vitae/
 
 **Fang Wang**
 
+**Lead Analyst, Technology** in Fixed Income Trading, 2022 - Present.  
+*Raymond James Financial*, Jersey City, NJ, United States
 
-
-**Quantitative Researcher** in Fixed Income Trading, 2020 - Present.  
+**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.  
 *Sumridge Partners LLC*, Jersey City, NJ, United States
 
 
