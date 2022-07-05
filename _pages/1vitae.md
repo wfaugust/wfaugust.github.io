@@ -7,7 +7,7 @@ permalink: /vitae/
 
 **Fang Wang**
 
-**Associate** Quantitative Research in Fixed Income Trading, 2022 - Present.  
+**Associate** in Fixed Income Trading, 2022 - Present.  
 *Raymond James Financial*, Jersey City, NJ, United States
 
 **Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.  
