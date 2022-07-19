@@ -5,7 +5,7 @@ excerpt: Booknote
 author: Fang Wang
 image: 88.jpg
 tags: Booknote
-permalink: /consciousflesh/
+permalink: /consciousflesh__/
 ---
 
 Being in a relationship makes me anxious. The origin of the anxiety is probably that I will always be stuck in a dilemma of losing myself or feeling my ego being violated. I failed to keep it proportional. Susan Sontag said consciousness is harnessed to the flesh, and I couldn't agree more. What I have is more of a vivid experience. When I thought I was sober and rational, I rejected sex and food. One day when I was sitting in a dining hall having my dinner and watching people foraging in groups, suddenly I felt a little bit disgusted. With such an appearance of beings, human has really made no progress in the past few thousand years, and we are still primitive mammals.)
