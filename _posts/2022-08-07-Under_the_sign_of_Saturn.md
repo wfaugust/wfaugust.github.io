@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Under the Sign of Saturn 
+title: The Last Intellectual  
 excerpt: Booknote
 author: Susan Sontag
 image: 88.jpg
 tags: Booknote
-permalink: /Under_the_Sign_of_Saturn/
+permalink: /The_Last_Intellectual/
 ---
 
 In most of the portrait photographs he is looking down, his right hand to his face. The earliest one I know shows him in 1927—he is thirty-five—with dark curly hair over a high forehead, mustache above a full lower lip: youthful, almost handsome. With his head lowered, his jacketed shoulders seem to start behind his ears; his thumb leans against his jaw; the rest of the hand, cigarette between bent index and third fingers, covers his chin; the downward look through his glasses—the soft, daydreamer’s gaze of the myopic—seems to float off to the lower left of the photograph.
@@ -127,6 +127,8 @@ Benjamin thought the freelance intellectual was a dying species anyway, made no 
 ****
 
 By Susan Sontag 
+
+[The original publication in The New York Review](https://www.nybooks.com/articles/1978/10/12/the-last-intellectual/)
 
 
 
