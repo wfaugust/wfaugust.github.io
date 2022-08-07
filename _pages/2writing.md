@@ -75,6 +75,6 @@ image: duolin13.jpg
 [In me, past, present, future meet](https://wang-axiom.com/Sassoon01)
 [The Zen of Python](https://wang-axiom.com/thezenofpython)    
 [临济录（选）](https://wang-axiom.com/linjilu)     
-[在土星的标志下](https://wang-axiom.com//Under_the_Sign_of_Saturn_ch)      
-[Under the Sign of Saturn](https://wang-axiom.com//Under_the_Sign_of_Saturn)    
+[在土星的标志下](https://wang-axiom.com/Under_the_Sign_of_Saturn_ch)      
+[Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)    
 
