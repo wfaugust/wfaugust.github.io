@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Incommensurability
+title: Incommensurability--A new biography of Kierkegaard
 excerpt: Booknote
 author: John Updike
 image: 77.JPG
