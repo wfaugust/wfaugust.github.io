@@ -8,7 +8,7 @@ tags: Booknote
 permalink: /Incommensurability/
 ---
 
-**This writing is originally published in The New Yorker [link](https://www.newyorker.com/magazine/2005/03/28/incommensurability) by  John Updike**.
+**This writing is originally published in The New Yorker [[link](https://www.newyorker.com/magazine/2005/03/28/incommensurability)] written by  John Updike**.
 
 ****
 
