@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Incommensurability--A new biography of Kierkegaard
+title: Incommensurability
 excerpt: Booknote
 author: John Updike
 image: 77.JPG
@@ -8,9 +8,13 @@ tags: Booknote
 permalink: /Incommensurability/
 ---
 
-**This writing is originally published in The New Yorker [[link](https://www.newyorker.com/magazine/2005/03/28/incommensurability)] written by  John Updike**.
+**By John Updike**
+
+**This writing is originally published in The New Yorker [[link](https://www.newyorker.com/magazine/2005/03/28/incommensurability)] March 20, 2005**
 
 ****
+
+**A new biography of Kierkegaard**
 
 Joakim Garff, an associate professor at the Søren Kierkegaard Research Center at the University of Copenhagen, in a brief preface to his monumental “Søren Kierkegaard: A Biography” (translated from the Danish by Bruce H. Kirmmse; Princeton; $35), states that “the Danish biographies of Kierkegaard that have appeared since Georg Brandes’s critical portrait was published in 1877 can easily be counted on the fingers of one hand, and Johannes Hohlenberg’s biography from 1940 is the most recent original work in the field.” Garff’s compendious yet lively work is undeniably a *Danish* biography; it assumes on the part of its readers a prior acquaintance with, say, the poetry of Adam Oehlenschläger and the intellectuality of King Christian VIII, a firm sense of what the rix-dollar could buy in the eighteen-forties, and a Copenhagener’s inherent familiarity with the saga of his world-famous, locally notorious fellow-townsman Magister Søren Aabye Kierkegaard.
 
