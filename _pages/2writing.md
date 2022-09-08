@@ -16,6 +16,7 @@ image: duolin13.jpg
 [随想录（七）](https://wang-axiom.com/writings29)     
 [随想录（八）](https://wang-axiom.com/writings43)   
 [随想录（九）](https://wang-axiom.com/writings40)    
+[随想录（十）](https://wang-axiom.com/writings44)    
 [一碗桂花银耳羹](https://wang-axiom.com/writings42)    
 [Strong Opinions I](https://wang-axiom.com/writings31)    
 [致异乡女](https://wang-axiom.com/writings11)  
@@ -76,5 +77,6 @@ image: duolin13.jpg
 [The Zen of Python](https://wang-axiom.com/thezenofpython)    
 [临济录（选）](https://wang-axiom.com/linjilu)     
 [在土星的标志下](https://wang-axiom.com/Under_the_Sign_of_Saturn_ch)      
-[Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)    
+[Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)     
+[Incommensurability](https://wang-axiom.com/Incommensurability)    
 
