@@ -89,4 +89,4 @@ permalink: /QuantReadingList/
 
 
 ****
-Reference: https://www.douban.com/group/topic/2752203/?_i=2659873ZckbbzK,2660599ZckbbzK
+Reference: [link](https://www.douban.com/group/topic/2752203/?_i=2659873ZckbbzK,2660599ZckbbzK)
