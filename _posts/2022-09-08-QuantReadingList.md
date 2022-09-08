@@ -52,13 +52,13 @@ permalink: /QuantReadingList/
 
 ****
 **stochastic volatility** 
-22. option valuation under stochastic volatility /Alan lewis 
+22. Option valuation under stochastic volatility /Alan lewis 
 23. Volatility and Correlation:The Perfect Hedger and the Fox /Rebonato 
 24. Stochastic Implied Volatility /Reinhold Hafner
 
 ****
 **FX** 
-25. MATHEMATICAL METHODS FOR FOREIGN EXCHANGE - A FINANCIAL ENGINEER'S APPROACH /Alex Lipton
+25. Mathematical Methods for Forgein Exchange - A Financial Engineer's Approach /Alex Lipton
 26. Copula Methods in Finance /Umberto Cherubini.  
 
 ****
