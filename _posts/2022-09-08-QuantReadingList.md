@@ -73,8 +73,8 @@ permalink: /QuantReadingList/
 31. Fooled by Randomness /Nassim Taleb 
 32. Misbehaviour of financial markets /Mandebrot 
 33. Liar's Poke--Lewis 
- 
-34&35. Stock Market WizardsI II /Schwager
+34. Stock Market WizardsI 
+35. Stock Market Wizards II /Schwager
 36. Stochastic Volatility /Nielsen? 
 
 ****
