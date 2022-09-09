@@ -75,7 +75,7 @@ permalink: /QuantReadingList/
 33. Liar's Poke--Lewis 
 34. Stock Market WizardsI 
 35. Stock Market Wizards II /Schwager
-36. Stochastic Volatility /Nielsen? 
+36. Stochastic Volatility /Neil Shephard 
 
 ****
 **Levy process** 
