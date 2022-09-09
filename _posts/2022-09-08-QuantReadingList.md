@@ -16,7 +16,7 @@ permalink: /QuantReadingList/
 5. Martingale Methods in Financial Modelling (Stochastic Modelling and Applied Probability) /Musiela & Rutkovski 
 
 ****
-**With math background**
+**Math**
 5. Brownian Motion and Stochastic Calculus /Shreve& Karasatz 
 6. Stochastic Differential Equations /Oksendal
 7. Stochastic Integration and Differential Equations /Protter 
@@ -41,17 +41,17 @@ permalink: /QuantReadingList/
 17. Modern Pricing of Interest-Rate Derivatives /Rebonato
 
 ****
-**equity**
+**Equity**
 18. The Complete Guide to Option Pricing Formulas
 19. Exotic Options /Haug/Zhang 
 
 ****
-**creidt** 
+**Creidt** 
 20. Credit Risk Modeling /Lando 
 21. Credit Derivatives Pricing Models /Schonbucher 
 
 ****
-**stochastic volatility** 
+**Stochastic volatility** 
 22. Option valuation under stochastic volatility /Alan lewis 
 23. Volatility and Correlation:The Perfect Hedger and the Fox /Rebonato 
 24. Stochastic Implied Volatility /Reinhold Hafner
