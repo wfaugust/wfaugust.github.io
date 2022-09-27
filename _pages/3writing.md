@@ -79,4 +79,6 @@ image: duolin13.jpg
 [在土星的标志下](https://wang-axiom.com/Under_the_Sign_of_Saturn_ch)      
 [Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)     
 [Incommensurability](https://wang-axiom.com/Incommensurability)    
+[Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)   
+
 
