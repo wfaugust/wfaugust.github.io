@@ -8,6 +8,36 @@ tags: Excerpt
 permalink: /Gilgamesh/
 ---
 
+**English version translated by Benjamin R. Foster**
+
+Mankind, whose descendants are snapped off like reeds in a canebrake,    
+The handsome young man, the lovely young woman,    
+Death will rob them of their [ ... ] all too soon.    
+No one sees death,    
+No one sees the face [of death],    
+No one [hears] the voice of death,    
+But cruel death cuts off mankind.    
+There is a time for building a house,    
+There is a time for starting a family,    
+There is a time for brothers to divide an inheritance,    
+There is a time for disputes to prevail in this world.?    
+There is a time the river, having risen and brought high water,    
+Mayflies are drifting downstream on the river,    
+Their faces gazing at the sun,    
+Then, suddenly, there is nothing!'    
+The missing and the dead, how alike they are!    
+They limn not death's image,    
+No one dead greets a living being in this world.    
+The supreme gods, the great gods, being convened,    
+The goddess-mother Mammitum, she who created their    
+(own) destiny, ordained (with them):    
+They established death and life,    
+The time of death they did not make known.
+
+****
+
+**中文译本选自《吉尔伽美什》 拱玉书 译**
+
 人类就像芦苇丛中的芦苇，其后裔常被折断，  
 不论英俊男儿，还是美丽少女，  
 都难免夭折于华年。  
