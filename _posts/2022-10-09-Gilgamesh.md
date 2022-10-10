@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gilgamesh Tablet Ten 
+title: The Epic of Gilgamesh Tablet Ten 
 excerpt: Writings
 author: Fang Wang
 image: 104.jpg
