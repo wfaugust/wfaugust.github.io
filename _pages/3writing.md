@@ -57,7 +57,7 @@ image: duolin13.jpg
 [《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics/)    
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
 [Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33) 
-[Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)
+[Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)   
 [奥德赛（Odyssey）英文译本考](https://wang-axiom.com/Odyssey)
 
 ****
@@ -80,9 +80,8 @@ image: duolin13.jpg
 [临济录（选）](https://wang-axiom.com/linjilu)     
 [在土星的标志下](https://wang-axiom.com/Under_the_Sign_of_Saturn_ch)      
 [Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)     
-[Incommensurability](https://wang-axiom.com/Incommensurability)    
-[Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)   
-[The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)
-
+[Incommensurability](https://wang-axiom.com/Incommensurability)     
+[Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
+[The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)     
 
 
