@@ -88,7 +88,7 @@ permalink: /QuantReadingList/
 40 & 41.Infectious greed & FIASCO /Frank Partnoy
 
 ****
-**Quant Trading/ML related**
+**Quant Trading /ML related**
 42. Quantitative Equity Portfolio Management /Ludwig B Chincarini / Daehwan Kim
 43. Quantitative Equity Portfolio Management /Edward E. Qian / Ronald H. Hua / Eric H. Sorensen
 44. Algorithmic and High-Frequency Trading /Álvaro Cartea / José Penalva
