@@ -87,6 +87,16 @@ permalink: /QuantReadingList/
 39. My Life as a Quant /E.Derman 
 40 & 41.Infectious greed & FIASCO /Frank Partnoy
 
+****
+**Quant Trading/ML related**
+42. Quantitative Equity Portfolio Management /Ludwig B Chincarini / Daehwan Kim
+43. Quantitative Equity Portfolio Management /Edward E. Qian / Ronald H. Hua / Eric H. Sorensen
+44. Algorithmic and High-Frequency Trading /Álvaro Cartea / José Penalva
+45. Algorithmic Trading /Ernie Chan
+46. Quantitative Trading /Ernie Chan
+47. Quantitative Strategies for Achieving Alpha /Richard Tortoriello
+48. Machine Learning for Algorithmic Trading /Stefan Jansen
+
 
 ****
 Reference: [link](https://www.douban.com/group/topic/2752203/?_i=2659873ZckbbzK,2660599ZckbbzK)
