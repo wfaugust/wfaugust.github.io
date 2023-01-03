@@ -6,6 +6,27 @@ image: 75.JPG
 ---
 
 
+**Associate Director**, 2023-present    
+*Raymond James Financial*, Jersey City, NJ, United States
+
+
+**Lead Analyst**, 2022      
+*Raymond James Financial*, Jersey City, NJ, United States
+
+
+**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.  
+*Sumridge Partners LLC*, Jersey City, NJ, United States
+
+
+**Ph.D. Candidate** in Theoretical Physics, 2014 - Present.  
+*Stevens Institute of Technology*, Hoboken, NJ, United States
+
+
+**B.S.** in Chemistry,  2014.  
+*University of Science and Technology of China (USTC)*, Hefei, China
+
+****
+
 **Sumridge Partners LLC, Jersey City, NJ**  2020 – Present
 
 ·    Apply mathematical and physics techniques to address practical issues in fixed income securities, such as derivative valuation, securities trading, risk management.
