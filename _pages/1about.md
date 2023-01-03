@@ -13,5 +13,3 @@ permalink: /about/
 ****
 Email: wfaugust@gmail.com               
 
-****
-此凡物且化二相于世间，一则良木入世，空空一变色龙尔。一则无垢而遁世，晦迹五欲，不染万境。此非谶言。
