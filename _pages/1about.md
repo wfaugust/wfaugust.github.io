@@ -7,7 +7,7 @@ permalink: /about/
 
 **Fang Wang**
 
-"克莱登大学理论物理专业"
+克莱登大学理论物理专业
 
 
 ****
