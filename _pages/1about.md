@@ -7,7 +7,8 @@ permalink: /about/
 
 **Fang Wang**
 
-**Associate Director** in Fixed Income Trading, 2022 - Present.  
+**Associate Director**, 2023-present
+**Lead Analyst**, 2022
 *Raymond James Financial*, Jersey City, NJ, United States
 
 **Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.  
