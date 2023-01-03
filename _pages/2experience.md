@@ -25,7 +25,6 @@ University of Science and Technology of China (USTC), Hefei, China
 **Sumridge Partners LLC, Jersey City, NJ** 2020 – Present.
 
 · Apply mathematical and physics techniques to address practical issues in fixed income securities, such as derivative valuation, securities trading, risk management.
-
 · Research or develop analytical tools to address issues such as portfolio optimization, performance measurement, profit and loss measurement, or pricing models.
 
 ****
