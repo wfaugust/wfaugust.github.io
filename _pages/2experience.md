@@ -8,7 +8,7 @@ image: 75.JPG
 **Associate Director**, 2023-present.    
 Raymond James Financial, Jersey City, NJ, United States
 
-**Lead Analyst**, 2022.    
+**Lead Analyst, Technology **, 2022.    
 Raymond James Financial, Jersey City, NJ, United States
 
 **Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2021.    
