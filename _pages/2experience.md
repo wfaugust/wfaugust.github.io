@@ -11,7 +11,7 @@ Raymond James Financial, Jersey City, NJ, United States
 **Lead Analyst**, 2022.    
 Raymond James Financial, Jersey City, NJ, United States
 
-**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.    
+**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2021.    
 Sumridge Partners LLC, Jersey City, NJ, United States
 
 **Ph.D. Candidate** in Theoretical Physics, 2014 - Present.    
