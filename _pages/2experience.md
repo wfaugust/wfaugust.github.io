@@ -54,7 +54,8 @@ University of Science and Technology of China (USTC), Hefei, China
 
 **Stevens Institute of Technology, Hoboken, NJ, United States**    
 
-I was working as a Teaching assistant for the following undergraduate courses:
+I was working as a Teaching assistant for the following undergraduate courses:    
+
 · PEP151 Introduction to Astronomy     
 · PEP201 Physics III for Engineering Students    
 · PEP221 Physics Lab I for Scientists    
