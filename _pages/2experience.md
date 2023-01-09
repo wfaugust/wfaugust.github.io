@@ -54,8 +54,8 @@ University of Science and Technology of China (USTC), Hefei, China
 **Stevens Institute of Technology, Hoboken, NJ, United States**
 
 · Teaching assistant for the following courses:    
-  PEP201 Physics III for Engineering Students    
-  PEP221 Physics Lab I for Scientists    
-  PEP222 Physics Lab II for Scientists    
-  PEP151 Introduction to Astronomy    
-  PEP330 Introduction Thermal and Statistical Physics
+      PEP201 Physics III for Engineering Students    
+      PEP221 Physics Lab I for Scientists    
+      PEP222 Physics Lab II for Scientists    
+      PEP151 Introduction to Astronomy    
+      PEP330 Introduction Thermal and Statistical Physics
