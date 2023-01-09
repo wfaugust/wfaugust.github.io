@@ -24,7 +24,7 @@ University of Science and Technology of China (USTC), Hefei, China
 ****
 **WORK EXPERIENCE**
 
-**Sumridge Partners LLC, Jersey City, NJ** 2020 – Present.
+**Sumridge Partners LLC, Jersey City, NJ** 2020 – Present.     
 · Apply mathematical and physics techniques to address practical issues in fixed income securities, such as derivative valuation, securities trading, risk management.    
 · Research or develop analytical tools to address issues such as portfolio optimization, performance measurement, profit and loss measurement, or pricing models.
 
@@ -32,7 +32,7 @@ University of Science and Technology of China (USTC), Hefei, China
 ****
 **RESEARCH EXPERIENCE**
 
-**Center for Distributed Quantum Computing, Stevens Institute of Technology, Hoboken, NJ** 2014 – Present.
+**Center for Distributed Quantum Computing, Stevens Institute of Technology, Hoboken, NJ** 2014 – Present.    
 · Overcame obstacles caused by noises concerning future quantum computers, through mathematical derivations and numerical simulations    
 · Invented theoretical quantum models utilizing noise to enhance output signals efficiently    
 · Developed core simulation libraries of stochastic quantum open systems in Python    
@@ -40,18 +40,18 @@ University of Science and Technology of China (USTC), Hefei, China
 · Optimized the Monte Carlo wave-function algorithm for quantum system dynamics, making larger systems tractable by reducing the dimensionality of the numerical problem
 
 
-**Beijing Computational Science Research Center, Beijing, China** 2016.
+**Beijing Computational Science Research Center, Beijing, China** 2016.    
 · Solved stochastic partial differential equations numerically using both MATLAB and Python   
 · Discovered crossover between non-Markovian and Markovian dynamics
 
 
-**Hefei National Laboratory for Physical Science at Microscales, Hefei, China** 2012 - 2014.
+**Hefei National Laboratory for Physical Science at Microscales, Hefei, China** 2012 - 2014.   
 · Analyzed the data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
 
 ****
 **TEACHING EXPERIENCE**
 
-**Stevens Institute of Technology, Hoboken, NJ, United States** 
+**Stevens Institute of Technology, Hoboken, NJ, United States**    
 · PEP151 Introduction to Astronomy     
 · PEP201 Physics III for Engineering Students    
 · PEP221 Physics Lab I for Scientists    
