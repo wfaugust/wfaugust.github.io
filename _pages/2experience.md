@@ -49,3 +49,13 @@ University of Science and Technology of China (USTC), Hefei, China
 **Hefei National Laboratory for Physical Science at Microscales, Hefei, China** 2012 - 2014.
 
 · Analyzed the data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
+
+****
+** Teaching Assistant**
+Stevens Institute of Technology, Hoboken, NJ, United States
+
+PEP201 Physics III for Engineering Students
+PEP221 Physics Lab I for Scientists
+PEP222 Physics Lab II for Scientists
+PEP151 Introduction to Astronomy
+PEP330 Introduction Thermal and Statistical Physics
