@@ -9,9 +9,9 @@ image: 75.JPG
 Raymond James & Associates, Inc., Jersey City, NJ, United States
 
 **Lead Analyst, Technology**, 2022.    
-Raymond James Financial, Jersey City, NJ, United States
+Raymond James & Associates, Inc., Jersey City, NJ, United States
 
-**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2021.    
+**Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.    
 Sumridge Partners LLC, Jersey City, NJ, United States
 
 **Ph.D. Candidate** in Theoretical Physics, 2014 - Present.    
