@@ -6,7 +6,7 @@ image: 75.JPG
 ---
 
 **Associate Director**, 2023-present.    
-Raymond James Financial, Jersey City, NJ, United States
+Raymond James & Associates, Inc., Jersey City, NJ, United States
 
 **Lead Analyst, Technology**, 2022.    
 Raymond James Financial, Jersey City, NJ, United States
