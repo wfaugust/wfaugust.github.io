@@ -6,10 +6,10 @@ image: 75.JPG
 ---
 
 **Associate Director**, 2023-present.    
-Raymond James & Associates, Inc., Jersey City, NJ, United States
+Raymond James Financial, Inc. , Jersey City, NJ, United States
 
 **Lead Analyst, Technology**, 2022.    
-Raymond James & Associates, Inc., Jersey City, NJ, United States
+Raymond James Financial, Inc. , Jersey City, NJ, United States
 
 **Analyst, Quantitative Research** in Fixed Income Trading, 2020 - 2022.    
 Sumridge Partners LLC, Jersey City, NJ, United States
