@@ -8,10 +8,7 @@ tags: Excerpt
 permalink: /either-or-reading-note-book1/
 ---
 
- 作者/（丹）克尔凯郭尔著
-
-◆非此即彼（上）
-
+作者/（丹）克尔凯郭尔著
 
 引自英国诗人和教士扬（EdwardYoung，1683-1765）的教诲诗歌《控诉，或者关于生命、死亡和不朽的夜思（TheComplaintorNight-ThoughtsonLife，Death，andImmortality）》（1742-1745）：“Arepassions，then，thepagansofthesoul？/Reasonalonebaptiz'd？”
 
