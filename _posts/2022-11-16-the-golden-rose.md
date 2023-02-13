@@ -8,9 +8,8 @@ tags: Excerpt
 permalink: /thegoldenrose/
 ---
 
-金蔷薇
-К·巴乌斯托夫斯基
-234个笔记
+
+作者/ К·巴乌斯托夫斯基
 
 **作者简介**
 

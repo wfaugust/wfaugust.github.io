@@ -89,5 +89,6 @@ image: duolin13.jpg
 [《思想录（Pensées）》阅读笔记](https://wang-axiom.com/Pensees/)    
 [《金蔷薇》阅读笔记](https://wang-axiom.com/thegoldenrose/)    
 [《群魔》阅读笔记](https://wang-axiom.com/demons/)    
-[《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1/)
+[《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1/)    
+
 
