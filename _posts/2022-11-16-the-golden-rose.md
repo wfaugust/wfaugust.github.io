@@ -1,6 +1,6 @@
 ---
 layout: page
-title:《金蔷薇》阅读笔记
+title: 《金蔷薇》阅读笔记
 excerpt: Writings
 author: Fang Wang
 image: project.jpg
