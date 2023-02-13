@@ -82,6 +82,12 @@ image: duolin13.jpg
 [Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)     
 [Incommensurability](https://wang-axiom.com/Incommensurability)     
 [Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
-[The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)     
-
+[The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
+[Quant Reading List](https://wang-axiom.com/QuantReadingList/)    
+[《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey/)     
+[《思想录（Pensées）》阅读笔记](https://wang-axiom.com/Pensees/)    
+[《金蔷薇》阅读笔记](https://wang-axiom.com/thegoldenrose/)    
+[《群魔》阅读笔记](https://wang-axiom.com/demons/)    
+[T. S. 艾略特诗摘](https://wang-axiom.com/Eliot/)      
+[《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1/)
 
