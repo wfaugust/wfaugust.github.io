@@ -3,7 +3,7 @@ layout: page
 title: 《非此即彼 (上卷)》阅读笔记
 excerpt: Writings
 author: 克尔凯郭尔
-image: 84.jpg
+image: 99.jpg
 tags: Excerpt
 permalink: /either-or-reading-note-book1/
 ---
