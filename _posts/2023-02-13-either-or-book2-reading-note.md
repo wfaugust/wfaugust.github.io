@@ -5,7 +5,7 @@ excerpt: excerpt
 author: 克尔凯郭尔
 image: duolin01.jpg
 tags: Excerpt
-permalink: /kierkegaard-marriage/
+permalink: /either-or-book2-reading-note/
 ---
 
 伟大的激情们生存在孤独之中，将它们流放到沙漠，那就是将它们交给它们自己的王国。
