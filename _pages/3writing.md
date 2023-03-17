@@ -8,12 +8,21 @@ image: duolin13.jpg
 
 **札记｜Book Notes**    
       
-[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)    
-[《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics/)    
+[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
+[保罗策兰诗全集第八卷 "暗蚀"阅读笔记](https://wang-axiom.com/PaulCelan1/)
 [Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
 [Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33) 
 [Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)   
-[奥德赛（Odyssey）英文译本考](https://wang-axiom.com/Odyssey)
+[奥德赛（Odyssey）英文译本考](https://wang-axiom.com/Odyssey)        
+[T. S. 艾略特诗摘](https://wang-axiom.com/Eliot)      
+[《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey)     
+[《思想录（Pensées）》阅读笔记](https://wang-axiom.com/Pensees)    
+[《金蔷薇》阅读笔记](https://wang-axiom.com/thegoldenrose)    
+[《群魔》阅读笔记](https://wang-axiom.com/demons)    
+[《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1)       
+[《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics/)    
+
+
 
 ****
 
@@ -39,12 +48,6 @@ image: duolin13.jpg
 [Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
 [Quant Reading List](https://wang-axiom.com/QuantReadingList)       
-[T. S. 艾略特诗摘](https://wang-axiom.com/Eliot)      
-[《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey)     
-[《思想录（Pensées）》阅读笔记](https://wang-axiom.com/Pensees)    
-[《金蔷薇》阅读笔记](https://wang-axiom.com/thegoldenrose)    
-[《群魔》阅读笔记](https://wang-axiom.com/demons)    
-[《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1)    
 
 
 ****
@@ -60,7 +63,7 @@ image: duolin13.jpg
 [随想录（七）](https://wang-axiom.com/writings29)     
 [随想录（八）](https://wang-axiom.com/writings43)   
 [随想录（九）](https://wang-axiom.com/writings40)    
-[随想录（十）](https://wang-axiom.com/writings44)    
+[随想录（十）](https://wang-axiom.com/writings45)    
 [一碗桂花银耳羹](https://wang-axiom.com/writings42)    
 [Strong Opinions I](https://wang-axiom.com/writings31)    
 [致异乡女](https://wang-axiom.com/writings11)  
