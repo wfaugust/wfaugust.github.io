@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  金蔷薇阅读笔记
+title: 《金蔷薇》阅读笔记
 excerpt: Writings
 author: Fang Wang
 image: project.jpg
@@ -8,9 +8,8 @@ tags: Excerpt
 permalink: /thegoldenrose/
 ---
 
-金蔷薇
-К·巴乌斯托夫斯基
-234个笔记
+
+作者/ К·巴乌斯托夫斯基
 
 **作者简介**
 
