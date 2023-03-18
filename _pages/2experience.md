@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /Research/
+permalink: /Experience/
 image: 75.JPG
 ---
 
