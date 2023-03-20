@@ -25,7 +25,7 @@ University of Science and Technology of China (USTC), Hefei, China
 
 **Raymond James & Associates, Jersey City, NJ** 2022 – Present.     
 
-· Implemented algorithmic trading models for fixed income securities.    
+· design algorithmic trading models for fixed income securities.    
 · Research and develop analytical tools to address issues such as portfolio optimization, performance measurement, profit and loss measurement, or pricing models.
 
 ****
