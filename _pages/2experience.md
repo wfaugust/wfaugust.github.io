@@ -25,14 +25,14 @@ University of Science and Technology of China (USTC), Hefei, China
 
 **Raymond James & Associates, Jersey City, NJ** 2022 – Present.     
 
-· design algorithmic trading models for fixed income securities.    
-· Research and develop analytical tools to address issues such as portfolio optimization, performance measurement, profit and loss measurement, or pricing models.
+· Designed algorithmic trading models for fixed income securities.    
+· Researched and developed analytical tools to address issues such as portfolio optimization, performance measurement, profit and loss measurement, or pricing models.
 
 ****
 
 **Sumridge Partners LLC, Jersey City, NJ** 2020 – 2022.     
 
-· Apply mathematical and physics techniques to address practical issues in fixed income securities, such as derivative valuation, securities trading.    
+· Applied mathematical and physics techniques to address practical issues in fixed income securities, such as derivative valuation, securities trading.    
 
 
 ****
