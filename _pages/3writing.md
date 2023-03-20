@@ -61,7 +61,7 @@ image: duolin13.jpg
 [随想录（五）](https://wang-axiom.com/writings35)  
 [随想录（六）](https://wang-axiom.com/writings27)   
 [随想录（七）](https://wang-axiom.com/writings29)     
-[随想录（八）](https://wang-axiom.com/writings43)   
+[随想录（八）](https://wang-axiom.com/writings46)   
 [随想录（九）](https://wang-axiom.com/writings40)    
 [随想录（十）](https://wang-axiom.com/writings45)    
 [一碗桂花银耳羹](https://wang-axiom.com/writings42)    
