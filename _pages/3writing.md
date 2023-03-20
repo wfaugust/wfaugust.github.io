@@ -8,11 +8,11 @@ image: duolin13.jpg
 
 **札记｜Book Notes**    
       
-[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
-[保罗策兰诗全集第八卷 "暗蚀"阅读笔记](https://wang-axiom.com/PaulCelan1/)
-[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
-[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33) 
-[Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)   
+[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)           
+[保罗策兰诗全集第八卷 "暗蚀"阅读笔记](https://wang-axiom.com/PaulCelan1/)    
+[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)     
+[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
+[Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)    
 [奥德赛（Odyssey）英文译本考](https://wang-axiom.com/Odyssey)        
 [T. S. 艾略特诗摘](https://wang-axiom.com/Eliot)      
 [《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey)     
