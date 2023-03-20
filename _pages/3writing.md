@@ -8,11 +8,11 @@ image: duolin13.jpg
 
 **札记｜Book Notes**    
       
-[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)       
-[保罗策兰诗全集第八卷 "暗蚀"阅读笔记](https://wang-axiom.com/PaulCelan1/)
-[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)   
-[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33) 
-[Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)   
+[《林中路 (Holzwege) 》阅读笔记](https://wang-axiom.com/HolzwegeNote/)           
+[保罗策兰诗全集第八卷 "暗蚀"阅读笔记](https://wang-axiom.com/PaulCelan1/)    
+[Comment on 'Fear and Trembling'](https://wang-axiom.com/writings32)     
+[Supreme Surrender--浅谈 "纯真年代"](https://wang-axiom.com/writings33)    
+[Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)    
 [奥德赛（Odyssey）英文译本考](https://wang-axiom.com/Odyssey)        
 [T. S. 艾略特诗摘](https://wang-axiom.com/Eliot)      
 [《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey)     
@@ -39,7 +39,7 @@ image: duolin13.jpg
 [脆弱的器皿](https://wang-axiom.com/writings41)   
 [Bread and Wine](https://wang-axiom.com/BreadandWine)       
 [Under the greenwood tree](https://wang-axiom.com/Shakespeare1)    
-[In me, past, present, future meet](https://wang-axiom.com/Sassoon01)
+[In me, past, present, future meet](https://wang-axiom.com/Sassoon01)     
 [The Zen of Python](https://wang-axiom.com/thezenofpython)    
 [临济录（选）](https://wang-axiom.com/linjilu)     
 [在土星的标志下](https://wang-axiom.com/Under_the_Sign_of_Saturn_ch)      
@@ -75,7 +75,6 @@ image: duolin13.jpg
 [“豳诗漫与，笑篱落呼灯，世间儿女。”](https://wang-axiom.com/writings18)   
 [人间喜剧](https://wang-axiom.com/writings19)   
 [念兹在兹](https://wang-axiom.com/writings20)   
-[我的初恋](https://wang-axiom.com/writings44)     
 [海鸥之歌](https://wang-axiom.com/writings37)     
 [无题](https://wang-axiom.com/writings39)    
 
