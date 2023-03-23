@@ -20,7 +20,7 @@ image: duolin13.jpg
 [《金蔷薇》阅读笔记](https://wang-axiom.com/thegoldenrose)    
 [《群魔》阅读笔记](https://wang-axiom.com/demons)    
 [《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1)       
-[《非此即彼 (下卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book2)   
+[《非此即彼 (下卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book2)        
 [《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics/)    
 
 
