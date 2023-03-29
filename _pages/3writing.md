@@ -49,6 +49,8 @@ image: duolin13.jpg
 [Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
 [Quant Reading List](https://wang-axiom.com/QuantReadingList)       
+[Entropy](https://wang-axiom.com/entropy)     
+
 
 
 ****
