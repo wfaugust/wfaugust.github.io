@@ -6,11 +6,10 @@ author: Thomas Pynchon
 image: entropy1.jpg
 categories: story
 tags: story
-permalink: /entropy/
+permalink: /entropy-pynchon/
 ---
 
-
-**Written By Thomas Pynchon**
+**By Thomas Pynchon**
 
 ****
 
@@ -163,5 +162,4 @@ So he decided to try and keep his lease-breaking party from deteriorating into t
 Upstairs Callisto, helpless in the past, did not feel the faint rhythm inside the bird begin to slacken and fail. Aubade was by the window, wandering the ashes of her own lovely world; the temperature held steady, the sky had become a uniform darkening gray. Then something from downstairs — a girl's scream, an overturned chair, a glass dropped on the floor, he would never know what exactly - pierced that private time-warp and he became aware of the faltering, the constriction of muscles, the tiny tossings of the bird's head; and his own pulse began to pound more fiercely, as if trying to compensate. "Aubade," he called weakly, "he's dying." The girl, flowing and rapt, crossed the hothouse to gaze down at Callisto's hands. The two remained like that, poised, for one minute, and two, while the heartbeat ticked a graceful diminuendo down at last into stillness. Callisto raised his head slowly. "I held him," he protested, impotent with the wonder of it, "to give him the warmth of my body. Almost as if I were communicating life to him, or a sense of life. What has happened? Has the transfer of heat ceased to work? Is there no more ..." He did not finish. 
 
 "I was just at the window," she said. He sank back, terrified. She stood a moment more, irresolute; she had sensed his obsession long ago, realized somehow that that constant 37 was now decisive. Suddenly then, as if seeing the single and unavoidable conclusion to all this she moved swiftly to the window before Callisto could speak; tore away the drapes and smashed out the glass with two exquisite hands which came away bleeding and glistening with splinters; and turned to face the man on the bed and wait with him until the moment of equilibrium was reached, when 37 degrees Fahrenheit should prevail both outside and inside, and forever, and the hovering, curious dominant of their separate lives should resolve into a tonic of darkness and the final absence of all motion.
-
 
