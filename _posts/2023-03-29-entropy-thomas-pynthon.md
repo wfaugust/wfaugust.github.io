@@ -14,7 +14,7 @@ permalink: /entropy/
 
 **Boris has just given me a summary of his views. He is a weather prophet. The weather will continue bad, he says. There will be more calamities, more death, more despair. Not the slightest indication of a change anywhere. . . . We must get into step, a lockstep toward the prison of death. There is no escape. The weather will not change. **
 
-**-- Tropic of Cancer**
+**—— Tropic of Cancer**
 
 DOWNSTAIRS, Meatball Mulligan's lease-breaking party was moving into its 40th hour. On the kitchen floor, amid a litter of empty champagne fifths, were Sandor Rojas and three friends, playing spit in the ocean and staying awake on Heidseck and benzedrine pills. In the living room Duke, Vincent, Krinkles and Paco sat crouched over a 15-inch speaker which had been bolted into the top of a wastepaper basket, listening to 27 watts' worth of The Heroes' Gate at Kiev. They all wore hornrimmed sunglasses and rapt expressions, and smoked funny-looking cigarettes which contained not, as you might expect, tobacco, but an adulterated form of cannabis sativa. This group was the Duke di Angelis quartet. They recorded for a local label called Tambú and had to their credit one 10" LP entitled Songs of Outer Space. From time to time one of them would flick the ashes from his cigarette into the speaker cone to watch them dance around. Meatball himself was sleeping over by the window, holding an empty magnum to his chest as if it were a teddy bear. Several government girls, who worked for people like the State Department and NSA, had passed out on couches, chairs and in one case the bathroom sink. 
 
