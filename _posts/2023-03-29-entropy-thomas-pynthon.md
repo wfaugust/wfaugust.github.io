@@ -10,9 +10,9 @@ permalink: /entropy/
 ---
 
 
-**By Thomas Pynchon**
+**Written By Thomas Pynchon**
 
-**Boris has just given me a summary of his views. He is a weather prophet. The weather will continue bad, he says. There will be more calamities, more death, more despair. Not the slightest indication of a change anywhere. . . . We must get into step, a lockstep toward the prison of death. There is no escape. The weather will not change. **
+**Boris has just given me a summary of his views. He is a weather prophet. The weather will continue bad, he says. There will be more calamities, more death, more despair. Not the slightest indication of a change anywhere... We must get into step, a lockstep toward the prison of death. There is no escape. The weather will not change.**
 
 **—— Tropic of Cancer**
 
