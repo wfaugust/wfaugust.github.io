@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Entropy
-excerpt: story
+excerpt: Writings
 author: Thomas Pynchon
 image: entropy1.jpg
-categories: story
 tags: story
-permalink: /entropy-pynchon/
+permalink: /entropy/
 ---
 
 **By Thomas Pynchon**
