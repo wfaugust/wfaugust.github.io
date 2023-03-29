@@ -8,7 +8,7 @@ tags: story
 permalink: /entropy/
 ---
 
-**By Thomas Pynchon**
+**Written by Thomas Pynchon**
 
 ****
 
