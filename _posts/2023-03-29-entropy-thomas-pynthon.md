@@ -3,7 +3,7 @@ layout: page
 title: Entropy
 excerpt: story
 author: Thomas Pynchon
-image: entropy.jpg
+image: entropy1.jpg
 categories: story
 tags: story
 permalink: /entropy/
