@@ -4,7 +4,7 @@ title: Entropy
 excerpt: Writings
 author: Thomas Pynchon
 image: entropy1.jpg
-tags: story
+tags: Story
 permalink: /entropy/
 ---
 
