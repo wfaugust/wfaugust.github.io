@@ -49,7 +49,8 @@ image: duolin13.jpg
 [Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
 [Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)       
-[Entropy](https://wang-axiom.com/entropy)     
+[Entropy](https://wang-axiom.com/entropy)        
+[The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)
 
 
 
