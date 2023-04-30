@@ -44,7 +44,7 @@ University of Science and Technology of China (USTC), Hefei, China
 
 ****
 
-**Beijing Computational Science Research Center, Beijing, China** 2016.    
+**Beijing Computational Science Research Center, Beijing, China** 2016 Summer.    
 
 · Solved stochastic partial differential equations numerically.   
 · Investigated crossover between non-Markovian and Markovian dynamics.
