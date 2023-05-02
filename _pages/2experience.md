@@ -38,22 +38,22 @@ University of Science and Technology of China (USTC), Hefei, China
 ****
 **Center for Distributed Quantum Computing, Stevens Institute of Technology, Hoboken, NJ** 2014 – Present.    
 
-· Overcame obstacles caused by noises concerning future quantum computers, through mathematical derivations and numerical simulations    
-· Designed theoretical quantum models utilizing noise to enhance output signals efficiently    
-· Implemented algorithm to solve nonlinear Schrodinger differential equations numerically   
+· Overcame obstacles caused by noises concerning future quantum computers.    
+· Designed theoretical quantum models utilizing noise to enhance output signals efficiently.    
+· Implemented algorithm to solve nonlinear Schrodinger differential equations numerically.   
 
 ****
 
-**Beijing Computational Science Research Center, Beijing, China** 2016.    
+**Beijing Computational Science Research Center, Beijing, China** 2016 Summer.    
 
-· Solved stochastic partial differential equations numerically using both MATLAB and Python   
-· Discovered crossover between non-Markovian and Markovian dynamics
+· Solved stochastic partial differential equations numerically.   
+· Investigated crossover between non-Markovian and Markovian dynamics.
 
 ****
 
 **Hefei National Laboratory for Physical Science at Microscales, Hefei, China** 2012 - 2014.   
 
-· Analyzed the data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries
+· Analyzed the data from the characterization of crystalline materials to identify the high performance of innovative anodes for lithium-ion batteries.
 
 ****
 
