@@ -44,7 +44,7 @@ image: duolin13.jpg
 [The Zen of Python](https://wang-axiom.com/thezenofpython)    
 [临济录（选）](https://wang-axiom.com/linjilu)     
 [在土星的标志下](https://wang-axiom.com/Under_the_Sign_of_Saturn_ch)      
-[Under the Sign of Saturn](https://wang-axiom.com/Under_the_Sign_of_Saturn)     
+[Under the Sign of Saturn](https://wang-axiom.com/The_Last_Intellectual)     
 [Incommensurability](https://wang-axiom.com/Incommensurability)     
 [Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
