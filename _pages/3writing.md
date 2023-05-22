@@ -82,7 +82,7 @@ image: duolin13.jpg
 [念兹在兹](https://wang-axiom.com/writings20)   
 [海鸥之歌](https://wang-axiom.com/writings37)     
 [无题](https://wang-axiom.com/writings39)        
-[无心](https://wang-axiom.com/writings48)
+[无心](https://wang-axiom.com/poems1)
 
 
 ****
