@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Under the greenwood tree
+title: The Princess and the Pea
 excerpt: Excerpt
 author: Hans Christian Andersen  
-image: duolin13.jpg
+image: duolin09.jpg
 tags: Excerpt
 permalink: /the-princess-and-the-pea/
 ---
