@@ -21,7 +21,8 @@ image: duolin13.jpg
 [《群魔》阅读笔记](https://wang-axiom.com/demons)    
 [《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1)       
 [《非此即彼 (下卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book2)        
-[《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics/)    
+[《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics)    
+[Prerequisites for a Kierkegaard Reader](https://wang-axiom.com/Kierkegaard-prerequisites)
 
 
 
@@ -50,7 +51,8 @@ image: duolin13.jpg
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
 [Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)       
 [Entropy](https://wang-axiom.com/entropy)        
-[The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)
+[The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
+[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)
 
 
 
