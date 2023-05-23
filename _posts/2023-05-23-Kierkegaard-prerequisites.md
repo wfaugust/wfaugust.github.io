@@ -1,12 +1,13 @@
 ---
 layout: page
-title:  Prerequisites for a Kierkegaard Reader
+title:  Becoming a Kierkegaard Reader
 excerpt: Writings
 author: Fang Wang
 image: 92.jpg
 tags: Excerpt
 permalink: /Kierkegaard-prerequisites/
 ---
+Prerequisites --
 
 * Don Giovanni /Mozart
 * The Book of Job
