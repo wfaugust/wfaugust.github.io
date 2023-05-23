@@ -20,4 +20,4 @@ Prerequisites --
 
 ****
 
-By F. W. 
+Written by F. W. 
