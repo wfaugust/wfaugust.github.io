@@ -49,7 +49,6 @@ image: duolin13.jpg
 [Incommensurability](https://wang-axiom.com/Incommensurability)     
 [Why an Imperfect Version of Proust Is a Classic in English](https://wang-axiom.com/proust)    
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
-[Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)       
 [Entropy](https://wang-axiom.com/entropy)        
 [The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
 [The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)
@@ -101,6 +100,14 @@ image: duolin13.jpg
 [2013, A Year of No Significance ](https://wang-axiom.com/writings08)  
 [2013-03-09旧文](https://wang-axiom.com/writings09)   
 [2013-05-26旧文](https://wang-axiom.com/writings10)   
+
+
+****
+
+**Work**     
+
+[Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
+[Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
 
 
 ****
