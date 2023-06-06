@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Investment Reference List
+title: Investment Reading Reference List
 excerpt: Booknote
 author: Unknown
 image: 97.jpg
