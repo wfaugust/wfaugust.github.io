@@ -104,7 +104,7 @@ image: duolin13.jpg
 
 ****
 
-**Work**     
+**打工是不可能打工的| I Love Work**     
 
 [Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
 [Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
