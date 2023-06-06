@@ -104,14 +104,6 @@ image: duolin13.jpg
 
 ****
 
-**打工是不可能打工的| I Love Work**     
-
-[Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
-[Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
-
-
-****
-
 **回声｜Echoes**    
 
 [The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
@@ -120,6 +112,13 @@ image: duolin13.jpg
 [Lapis Lazuli](https://www.poetryfoundation.org/poems/43297/lapis-lazuli)
 [Echoes](https://www.youtube.com/watch?v=PGwPSPIhohk)     
 
+
+****
+
+**打工是不可能打工的| I Love Work**     
+
+[Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
+[Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
 
 ****
 
