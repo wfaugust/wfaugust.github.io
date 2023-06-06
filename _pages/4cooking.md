@@ -5,9 +5,6 @@ image: 15.JPG
 permalink: /cooking/
 ---
 
-![]({{site.baseurl}}/img/Cooking/C32.jpg)
-
-![]({{site.baseurl}}/img/Cooking/C33.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C35.jpg)
 
@@ -65,15 +62,11 @@ permalink: /cooking/
 
 ![]({{site.baseurl}}/img/Cooking/C25.jpg)
 
-![]({{site.baseurl}}/img/Cooking/C26.jpg)
-
-![]({{site.baseurl}}/img/Cooking/C26.jpg)
-
 ![]({{site.baseurl}}/img/Cooking/C34.jpg)
 
+![]({{site.baseurl}}/img/Cooking/C32.jpg)
 
-
-
+![]({{site.baseurl}}/img/Cooking/C33.jpg)
 
 ****
 
