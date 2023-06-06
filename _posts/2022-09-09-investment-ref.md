@@ -24,6 +24,8 @@ permalink: /investment-reference-list/
 2. Security Analysis /Benjamin Graham 
 3. Valuation: Measuring and Managing the Value of Companies /McKinsey & Company Inc. 
 4. Volatility Trading /Euan Sinclair
+5. Investments /Zvi Bodie     
+6. CFA Textbooks
 
 
 ****
