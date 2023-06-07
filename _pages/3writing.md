@@ -108,8 +108,8 @@ image: duolin13.jpg
 
 [The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
 [The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)   
-[Portrait of a Lady](https://www.poetryfoundation.org/poems/44213/portrait-of-a-lady-56d22338932de) 
-[Lapis Lazuli](https://www.poetryfoundation.org/poems/43297/lapis-lazuli)
+[Portrait of a Lady](https://www.poetryfoundation.org/poems/44213/portrait-of-a-lady-56d22338932de)    
+[Lapis Lazuli](https://www.poetryfoundation.org/poems/43297/lapis-lazuli)    
 [Echoes](https://www.youtube.com/watch?v=PGwPSPIhohk)     
 
 
