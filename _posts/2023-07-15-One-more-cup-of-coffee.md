@@ -32,6 +32,26 @@ Your loyalty is not to me.
 But to the stars above.    
 而是留給了天上的星辰。
 
+
+
+****
+
+**Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir, und das moralische Gesetz in mir.**
+
+有兩種東西，我對它們的思考越是深沉和持久，它們在我心靈中喚起的驚奇和敬畏就會日新月異，不斷增長，這就是我頭上的星空和心中的道德律。
+
+**——Immanuel Kant**
+
+
+
+**Wie des Weingotts heilige Priester,**       
+**Welche von Lande zu Land zogen in heiliger Nacht.**
+
+詩人是酒神的神聖祭司，     
+在神聖的黑夜行遍大地。
+
+ **——Friedrich Hölderlin**
+
 ****
 
 By Bob Dylan
