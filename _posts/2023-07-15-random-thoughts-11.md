@@ -1,15 +1,37 @@
 ---
 layout: page
-title: 随想录（十一）
+title: One more cup of coffee 
 excerpt: Writings
 author: Fang Wang
-image: 99.jpg
+image: bobdylan1.jpg
 tags: Excerpt
-permalink: /random-thoughts-11/
+permalink: /One-more-cup-of-coffee/
 ---
 
-过去五年至少有三位亲近的朋友和我倾诉过抑郁，活不下去，想自杀的念头。事实上这几位既没有物质上的捉襟见肘，也没有事业上的受挫，都是世俗意义里非常成功的人。那时候我也处在一个略带消极，心有余而力不足的状态，以一种现在看来几乎是略带冷淡的方式安慰了他们。直到有一天读到一段对话，一个孩子问妈妈，你做过最勇敢的事情是什么？妈妈说，寻求帮助。那时候我突然意识到，有时候，对一个残存生存意志却抑郁，绝望，意志力溃散的人而言，求助看似轻而易举，实际上却艰难万分。能主动表达倾诉是一件多么勇敢且了不起的事情。所谓“天无绝人之路”只是幸存者偏差，因为真正走到绝路的人都不会再发声了。
+Your breath is sweet.    
+你氣若幽蘭，
+
+Your eyes are like two jewels in the sky.    
+雙眼宛若蒼穹的寶石，
+
+Your back is straight your hair is smooth.          
+你後背順直，
+
+On the pillow where you lie.    
+秀髮婉轉，摩挲枕際。
+
+But I don"t sense affection.    
+可我感受不到你的深情，
+
+No gratitude or love.   
+不見感激，未覺愛意，
+
+Your loyalty is not to me.    
+你的忠貞從未施與給我，
+
+But to the stars above.    
+而是留給了天上的星辰。
 
 ****
 
-By Fang Wang
+By Bob Dylan
