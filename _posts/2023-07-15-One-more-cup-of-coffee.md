@@ -32,7 +32,7 @@ Your loyalty is not to me.
 But to the stars above.    
 而是留給了天上的星辰。
 
-
+**——Bob Dylan**
 
 ****
 
@@ -52,6 +52,3 @@ But to the stars above.
 
  **——Friedrich Hölderlin**
 
-****
-
-By Bob Dylan
