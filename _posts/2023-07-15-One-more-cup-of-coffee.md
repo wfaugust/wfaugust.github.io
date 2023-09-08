@@ -15,12 +15,12 @@ Your eyes are like two jewels in the sky.
 雙眼宛若蒼穹的寶石，
 
 Your back is straight your hair is smooth.          
-你後背順直，
+你後背順直，秀髮婉轉，
 
 On the pillow where you lie.    
-秀髮婉轉，摩挲枕際。
+摩挲枕際。
 
-But I don"t sense affection.    
+But I don't sense affection.    
 可我感受不到你的深情，
 
 No gratitude or love.   
