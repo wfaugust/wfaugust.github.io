@@ -9,7 +9,7 @@ permalink: /to-where-i-belong/
 
 ---
 
-''In me, past, present, future meet 
+In me, past, present, future meet 
 
 To hold long chiding conference.    
 My lusts usurp the present tense  
@@ -22,7 +22,7 @@ And garlanded Apollo goes
 Chanting to Abraham's deaf ear.   
 In me the tiger sniffs the rose.   
 Look in my heart, kind friends, and tremble,   
-Since there your elements assemble''  
+Since there your elements assemble
 
 --  Siegfried Sassoon
 
