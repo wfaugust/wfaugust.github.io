@@ -9,6 +9,25 @@ permalink: /to-where-i-belong/
 
 ---
 
+''In me, past, present, future meet 
+
+To hold long chiding conference.    
+My lusts usurp the present tense  
+And strangle Reason in his seat.      
+My loves leap through the future's fence   
+To dance with dream-enfranchised feet.   
+
+In me the cave-man clasps the seer,   
+And garlanded Apollo goes   
+Chanting to Abraham's deaf ear.   
+In me the tiger sniffs the rose.   
+Look in my heart, kind friends, and tremble,   
+Since there your elements assemble''  
+
+--  Siegfried Sassoon
+
+
+
 住在老家的爷爷，随他的遗愿，被葬在了乡下的一片竹林里。听说是他最爱的地方。小时候翻我爸的大学笔记，空白页画了很多竹子，想必受其耳濡目染。冬天肃黄一片的野花丛里，竹林还是绿的。我穿过无人的野花丛，芦苇，竹子，去了埋葬他的地方，在几个长辈面前给他磕了三个头。
 
 
@@ -17,7 +36,7 @@ permalink: /to-where-i-belong/
 
 
 
-爷爷在世的时候，连同奶奶和我家有诸多的矛盾，我作为家中长子的独女，似乎从一出生便经历了性别之苦，不受疼爱，甚至不被期待降临人世。这种性别的痛苦感日渐淡弱了许多，而父母力求保全我，而内心的不安似乎永远无法平息。而昨日种种譬如昨日死，如今无人再提。
+爷爷在世的时候，连同奶奶和我家有诸多的矛盾，我作为家中长子的独女，似乎从一出生便经历了性别之苦，不受疼爱，甚至不被期待降临人世。这种性别的痛苦感日渐淡弱了许多，父母虽然力求保全我，对这个社会中女性生存境况的不安似乎永远无法平息。而昨日种种譬如昨日死，如今无人再提。
 
 
 
@@ -29,7 +48,7 @@ permalink: /to-where-i-belong/
 
 
 
-当然，这如同我观察到的所有人一样。让我感到心碎的是，我第一次意识到，或者曾经意识到但已经遗忘很久的，我们继承了很多父辈的伤痕，词语习惯和语法，理解世界的逻辑，这一切指向了一个颇有宿命论的结论，即我们不过是这样每一个环境的产物，今日的性格与观念绝非我独属。当我审视我，终于认识到，我只是这样一个脆弱的器皿，而此器皿并非我造。
+当然，这如同我观察到的所有人一样。让我感到心碎的是，我第一次意识到，或者曾经意识到但已经遗忘很久的，我们继承了很多父辈的伤痕，词语习惯和语法，理解世界的逻辑，就像伊甸园的原罪，巴别塔变乱语言。这一切指向了一个颇有宿命论的结论，即我们不过是这样每一个环境的产物，今日的性格与观念绝非我独属。当我审视我，终于认识到，我只是这样一个脆弱的器皿，而此器皿并非我造。
 
 
 
