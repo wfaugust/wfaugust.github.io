@@ -1,5 +1,5 @@
 <aside class="sidebar">
-  
+
   {% if page.id %}
   <div class="widget widget-recent">
     <h3 class="widget-title">Recent Posts</h3>
@@ -22,12 +22,12 @@
   </div>
   {% else %}
   {% endif %}
+
   
-  
-  
+
   <div class="widget widget-project">
-    <h3 class="widget-title">2023 Reading List</h3>
-    <div class="project-text">2023书单</div>
+    <h3 class="widget-title">{{site.time | date: '%Y'}} Reading List</h3>
+    <div class="project-text">{{site.time | date: '%Y'}} 书单</div>
     <div class="project-text">                </div>
     <div class="logo-title">
         <a href="/sidebar" class="logo-text">Learn more</a>
@@ -47,7 +47,7 @@
     {% endfor %}
     </ul>
   </div>
-  
+
   <div class="widget widget-social">
     <h3 class="widget-title">Subscribe & Follow</h3>
     <ul class="social-profiles list-reset">
@@ -66,5 +66,5 @@
     </ul>
   </div>
 
-  
+
 </aside> <!-- /.sidebar -->
