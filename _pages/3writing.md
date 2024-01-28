@@ -68,7 +68,8 @@ image: duolin13.jpg
 [随想录（七）](https://wang-axiom.com/writings29)     
 [随想录（八）](https://wang-axiom.com/writings46)   
 [随想录（九）](https://wang-axiom.com/writings40)    
-[随想录（十）](https://wang-axiom.com/writings45)    
+[随想录（十）](https://wang-axiom.com/writings45)         
+[随想录（十一）](https://wang-axiom.com/random-thoughts-11)    
 [一碗桂花银耳羹](https://wang-axiom.com/writings42)    
 [Strong Opinions I](https://wang-axiom.com/writings31)    
 [致异乡女](https://wang-axiom.com/writings11)  
@@ -121,6 +122,4 @@ image: duolin13.jpg
 [Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
 
 ****
-
-
 
