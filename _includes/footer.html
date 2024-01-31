@@ -1,34 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2299.6">
-  <style type="text/css">
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    span.s1 {text-decoration: underline ; font-kerning: none}
-    span.s2 {font-kerning: none}
-    span.s3 {-webkit-text-stroke: 0px #000000}
-    ul.ul1 {list-style-type: disc}
-  </style>
-</head>
-<body>
-<h2 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9"><span class="s1"><b>清显</b></span></h2>
-<p class="p2"><span class="s2"></span><br></p>
-<p class="p3"><span class="s2">© {{site.time | date: '%Y'}} All Copyrights Reserved</span></p>
-<ul class="ul1">
-  <li class="li4"><span class="s3"></span><span class="s2">{% if site.github %}</span></li>
-  <li class="li5"><span class="s3"><a href="file:///Users/audreyw/Documents/GitHub/wfaugust.github.io/_includes/%7B%7B%20site.github%20%7D%7D"><span class="s1">GitHub</span></a></span></li>
-  <li class="li4"><span class="s3"></span><span class="s2">{% else %} {% endif %} {% if site.facebook %}</span></li>
-  <li class="li5"><span class="s3"><a href="file:///Users/audreyw/Documents/GitHub/wfaugust.github.io/_includes/%7B%7B%20site.facebook%20%7D%7D"><span class="s1">Facebook</span></a></span></li>
-  <li class="li4"><span class="s3"></span><span class="s2">{% else %} {% endif %} {% if site.instagram %}</span></li>
-  <li class="li5"><span class="s3"><a href="file:///Users/audreyw/Documents/GitHub/wfaugust.github.io/_includes/%7B%7B%20site.instagram%20%7D%7D"><span class="s1">Instagram</span></a></span></li>
-  <li class="li4"><span class="s3"></span><span class="s2">{% else %} {% endif %}</span></li>
-</ul>
-</body>
-</html>
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="footer-top">
+          <h2 class="logo-title">
+            <a href="{{site.baseurl}}/" class="logo-text">清显</a>
+          </h2>
+          <div class="top"><i class="ion ion-ios-arrow-up"></i></div>
+        </div>
+        <div class="footer-bottom">
+          <div class="copyright">
+            <p>&copy; {{site.time | date: '%Y'}} All Copyrights Reserved </a></p>
+          </div>
+          <div class="footer-social">
+            <ul class="list-reset">
+              
+              {% if site.facebook %}
+              <li><a href="{{ site.facebook }}">Facebook</a></li>
+              {% else %} {% endif %}
+
+              {% if site.instagram %}
+              <li><a href="{{ site.instagram }}">Instagram</a></li>
+              {% else %} {% endif %}
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer> <!-- /.footer -->
