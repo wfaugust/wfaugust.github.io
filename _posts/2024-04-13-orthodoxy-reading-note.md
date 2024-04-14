@@ -1,14 +1,12 @@
 ---
 layout: page
-title: 'Orthodoxy' Reading Note
+title: Orthodoxy reading note
 excerpt: Writings
 author: Fang Wang
 image: 88.jpg
 tags: reading
 permalink: /orthodoxy-reading-note/
 ---
-
-
 
 **/Chesterton, Gilbert Keith**
 
@@ -1064,8 +1062,8 @@ This book steps into the gap between non-questioning certitude and wishy-washy �
 
 这本书填补了不质疑的确定性与空洞的“为了对话而对话”之间的空白，帮助我们确定质疑在我们生活中的作用。
 
+ 
 
+****
 
 Collected by Fang Wang
-
- 

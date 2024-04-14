@@ -1,13 +1,3 @@
----
-layout: page
-title: 《加缪手记卷一》读书笔记
-excerpt: Writings
-author: Fang Wang
-image: duolin02.jpg
-tags: reading
-permalink: /carnets-reading-note-1/
----
-
 **/加缪**
 
 他始终保有完全的归属感与忠诚。
@@ -1316,8 +1306,8 @@ They may torture，but shall not subdue me.（他们可以折磨我，却无法�
 
 
 
-****
-
 Collected by Fang Wang
 
 The painting is from Duolin He.
+
+ 
