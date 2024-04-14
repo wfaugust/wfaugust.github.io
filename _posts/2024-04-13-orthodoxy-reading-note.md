@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Orthodoxy reading note
+title: Orthodoxy Reading Note
 excerpt: Writings
 author: Fang Wang
 image: 88.jpg
