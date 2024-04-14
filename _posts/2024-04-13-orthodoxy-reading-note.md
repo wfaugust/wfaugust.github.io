@@ -6,7 +6,6 @@ author: Fang Wang
 image: 88.jpg
 tags: reading
 permalink: /orthodoxy-reading-note/
-
 ---
 
  
