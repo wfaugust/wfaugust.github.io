@@ -22,7 +22,9 @@ image: duolin13.jpg
 [《非此即彼 (上卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book1)       
 [《非此即彼 (下卷)》阅读笔记](https://wang-axiom.com/either-or-reading-note-book2)        
 [《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics)    
-[Prerequisites for a Kierkegaard Reader](https://wang-axiom.com/Kierkegaard-prerequisites)
+[Prerequisites for a Kierkegaard Reader](https://wang-axiom.com/Kierkegaard-prerequisites)     
+[Orthodoxy Reading Note](https://wang-axiom.com/orthodoxy-reading-note/)    
+[《加缪手记卷一》读书笔记](https://wang-axiom.com/carnets-reading-note-1/)
 
 
 
