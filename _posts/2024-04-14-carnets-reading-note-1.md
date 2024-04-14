@@ -35,6 +35,8 @@ permalink: /carnets-reading-note-1/
 
 加入共产党。
 
+
+
 ◆ 第一本 1935—1937
 
 我要说的是：
