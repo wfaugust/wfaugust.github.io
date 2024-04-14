@@ -9,7 +9,7 @@ permalink: /orthodoxy-reading-note/
 
 ---
 
- 
+
 
 **/Chesterton, Gilbert Keith**
 

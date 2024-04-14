@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 随想录（一）
+title: 《加缪手记卷一》读书笔记
 excerpt: Writings
 author: Fang Wang
 image: duolin02.jpg
@@ -8,6 +8,8 @@ tags: reading
 permalink: /carnets-reading-note-1/
 
 ---
+
+
 
 **/加缪**
 
