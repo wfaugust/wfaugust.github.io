@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 《加缪手记卷一》读书笔记
 excerpt: Writings
 author: Fang Wang
