@@ -24,9 +24,10 @@ image: duolin13.jpg
 [《尼各马可伦理学 (THE NICOMACHEAN ETHICS) 》译本考](https://wang-axiom.com/NicomacheanEthics)    
 [Prerequisites for a Kierkegaard Reader](https://wang-axiom.com/Kierkegaard-prerequisites)     
 [Orthodoxy Reading Note](https://wang-axiom.com/orthodoxy-reading-note/)    
-[《加缪手记卷一》读书笔记](https://wang-axiom.com/carnets-reading-note-1/)      
+[《加缪手记卷一》读书笔记](https://wang-axiom.com/carnets-1935-to-1942-reading-note/)      
+[《加缪手记卷二》读书笔记](https://wang-axiom.com/carnets-1942-to-1951-reading-note/)        
 [《论道德的谱系》读书笔记](https://wang-axiom.com/On-the-Genealogy-of-Morality/)         
-[《酒神的伴侣》读书笔记](https://wang-axiom.com/Euripides-1/)      
+[《酒神的伴侣》读书笔记](https://wang-axiom.com/Euripides-1/)         
 
 
 
