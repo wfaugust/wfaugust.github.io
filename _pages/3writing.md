@@ -27,7 +27,8 @@ image: duolin13.jpg
 [《加缪手记卷一》读书笔记](https://wang-axiom.com/carnets-1935-to-1942-reading-note/)      
 [《加缪手记卷二》读书笔记](https://wang-axiom.com/carnets-1942-to-1951-reading-note/)        
 [《论道德的谱系》读书笔记](https://wang-axiom.com/On-the-Genealogy-of-Morality/)         
-[《酒神的伴侣》读书笔记](https://wang-axiom.com/Euripides-1/)         
+[《酒神的伴侣》读书笔记](https://wang-axiom.com/Euripides-1/)           
+[Booknote of 'The Myth of Sisyphus and Other Essays'](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)     
 
 
 
