@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Booknote of 'The Myth of Sisyphus and Other Essays'
+title: 西西弗神话（The Myth of Sisyphus and Other Essays）读书笔记
 excerpt: Writings
 author: Fang Wang
-image: entropy1.jpg
+image: 92.jpg
 tags: reading
 permalink: /The-Myth-of-Sisyphus-Booknote/
 ---
