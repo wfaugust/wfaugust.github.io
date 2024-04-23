@@ -4,7 +4,7 @@ title: 加缪手记卷二(Carnets 1942-1951)读书笔记
 excerpt: Writings
 author: Fang Wang
 image: 77.JPG
-tags: reading
+tags: Reading
 permalink: /carnets-1942-to-1951-reading-note/
 ---
 

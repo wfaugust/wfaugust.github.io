@@ -4,7 +4,7 @@ title: Orthodoxy Reading Note
 excerpt: Writings
 author: Fang Wang
 image: 88.jpg
-tags: reading
+tags: Reading
 permalink: /orthodoxy-reading-note/
 ---
 

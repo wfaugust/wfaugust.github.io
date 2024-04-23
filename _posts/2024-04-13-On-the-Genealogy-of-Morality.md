@@ -4,7 +4,7 @@ title: 《论道德的谱系》读书笔记
 excerpt: Writings
 author: Fang Wang
 image: 99.jpg
-tags: reading
+tags: Reading
 permalink: /On-the-Genealogy-of-Morality/
 ---
 

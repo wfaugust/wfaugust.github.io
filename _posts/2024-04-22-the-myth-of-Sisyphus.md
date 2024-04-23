@@ -4,7 +4,7 @@ title: 西西弗神话（The Myth of Sisyphus and Other Essays）读书笔记
 excerpt: Writings
 author: Fang Wang
 image: 92.jpg
-tags: reading
+tags: Reading
 permalink: /The-Myth-of-Sisyphus-Booknote/
 ---
 

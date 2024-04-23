@@ -4,7 +4,7 @@ title: 加缪手记卷一(Carnets 1935-1942)读书笔记
 excerpt: Writings
 author: Fang Wang
 image: duolin02.jpg
-tags: reading
+tags: Reading
 permalink: /carnets-1935-to-1942-reading-note/
 ---
 
