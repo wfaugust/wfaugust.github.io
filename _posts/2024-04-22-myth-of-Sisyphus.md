@@ -8,7 +8,7 @@ tags: reading
 permalink: /The-Myth-of-Sisyphus-Booknote/
 ---
 
-/ Albert Camus
+**/ Albert Camus**
 
 《西西弗斯的神话》的基本主题是：怀疑生命是否有意义是合法和必要的；因此，直面自杀问题是合法的。答案是：即使一个人不相信上帝，自杀也是不合法的。
 
