@@ -5,7 +5,7 @@ image: ./fw/selfie01.JPG
 permalink: /about/
 ---
 
-**Deer Audrey, quo vadis?**
+**A random tech girl**
 
 
 ****
