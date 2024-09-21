@@ -3,7 +3,7 @@ layout: page
 title: 致那个读史书的女孩
 excerpt: Writings
 author: Fang Wang
-image: 99.jpg
+image: 85.jpg
 tags: Reading
 permalink: /reflection-on-history/
 ---
