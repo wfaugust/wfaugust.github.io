@@ -5,6 +5,9 @@ permalink: /experience/
 image: 75.JPG
 ---
 
+**Research Scientist**, 2024-present (part-time).    
+Quantum Computing Inc. , Hoboken, NJ, United States
+
 **Associate Director**, 2023-present.    
 Raymond James & Associates, Jersey City, NJ, United States
 
