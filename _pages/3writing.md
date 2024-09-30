@@ -29,8 +29,9 @@ image: duolin13.jpg
 [《论道德的谱系》读书笔记](https://wang-axiom.com/On-the-Genealogy-of-Morality/)         
 [《酒神的伴侣》读书笔记](https://wang-axiom.com/Euripides-1/)           
 [Booknote of 'The Myth of Sisyphus and Other Essays'](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)     
-
-
+[《伯罗奔尼撒战争史》书摘](https://wang-axiom.com/history-of-the-Peloponnesian-war/)  
+[《朝霞（Daybreak）》书摘](https://wang-axiom.com/daybreak/)   
+   
 
 ****
 
@@ -57,9 +58,7 @@ image: duolin13.jpg
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
 [Entropy](https://wang-axiom.com/entropy)        
 [The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
-[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)
-
-
+[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)    
 
 ****
 
@@ -90,7 +89,8 @@ image: duolin13.jpg
 [念兹在兹](https://wang-axiom.com/writings20)   
 [海鸥之歌](https://wang-axiom.com/writings37)     
 [无题](https://wang-axiom.com/writings39)        
-[无心](https://wang-axiom.com/poems1)
+[无心](https://wang-axiom.com/poems1)      
+[致那个读史书的女孩](https://wang-axiom.com/reflection-on-history/)      
 
 
 ****
@@ -106,7 +106,15 @@ image: duolin13.jpg
 [2013-01-01旧文](https://wang-axiom.com/writings07)  
 [2013, A Year of No Significance ](https://wang-axiom.com/writings08)  
 [2013-03-09旧文](https://wang-axiom.com/writings09)   
-[2013-05-26旧文](https://wang-axiom.com/writings10)   
+[2013-05-26旧文](https://wang-axiom.com/writings10)      
+
+
+****
+
+**打工是不可能打工的｜I Love Work**     
+
+[Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
+[Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
 
 
 ****
@@ -117,15 +125,7 @@ image: duolin13.jpg
 [The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)   
 [Portrait of a Lady](https://www.poetryfoundation.org/poems/44213/portrait-of-a-lady-56d22338932de)    
 [Lapis Lazuli](https://www.poetryfoundation.org/poems/43297/lapis-lazuli)    
-[Echoes](https://www.youtube.com/watch?v=PGwPSPIhohk)     
-
-
-****
-
-**打工是不可能打工的｜I Love Work**     
-
-[Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
-[Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
+[Echoes](https://www.youtube.com/watch?v=PGwPSPIhohk)       
 
 ****
 
