@@ -1,12 +1,8 @@
 ---
 layout: page
-title: 2024 Reading List
-excerpt: Writings
-author: Fang Wang
+title: Reading
 image: 40.JPG
-categories: USdiary
-tags: USdiary
-permalink: /sidebar/
+permalink: /Reading/
 ---
 **2024 Reading List**
 
