@@ -5,7 +5,7 @@ image: ./fw/selfie01.JPG
 permalink: /about/
 ---
 
-A random tech girl who majored in physics is now stuck in finance.
+A random girl who majored in physics is now stuck in finance.
 
 
 ****
