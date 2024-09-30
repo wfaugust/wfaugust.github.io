@@ -1,19 +1,15 @@
 ---
 layout: page
 title: About
-image: 92.jpg
+image: ./fw/selfie01.JPG
 permalink: /about/
 ---
 
-
-
-![]({{site.baseurl}}/img/fw/selfie01.JPG)
-
-**A random tech girl who majored in physics is now stuck in finance.**  
-
-
+A random tech girl who majored in physics is now stuck in finance.
 
 
 ****
+Feel free to reach out --
+
 Email: wfaugust@gmail.com               
 
