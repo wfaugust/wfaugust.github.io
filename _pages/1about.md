@@ -1,11 +1,17 @@
 ---
 layout: page
 title: About
-image: ./fw/selfie01.JPG
+image: 92.jpg
 permalink: /about/
 ---
 
-**A random tech girl**  
+
+
+![]({{site.baseurl}}/img/fw/selfie01.JPG)
+
+**A random tech girl who majored in physics is now stuck in finance.**  
+
+
 
 
 ****
