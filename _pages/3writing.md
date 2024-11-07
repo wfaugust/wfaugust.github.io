@@ -31,7 +31,7 @@ image: duolin13.jpg
 [Booknote of 'The Myth of Sisyphus and Other Essays'](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)     
 [《伯罗奔尼撒战争史》书摘](https://wang-axiom.com/history-of-the-Peloponnesian-war/)  
 [《朝霞（Daybreak）》书摘](https://wang-axiom.com/daybreak/)   
-   
+
 
 ****
 
