@@ -30,7 +30,9 @@ image: duolin13.jpg
 [《酒神的伴侣》读书笔记](https://wang-axiom.com/Euripides-1/)           
 [Booknote of 'The Myth of Sisyphus and Other Essays'](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)     
 [《伯罗奔尼撒战争史》书摘](https://wang-axiom.com/history-of-the-Peloponnesian-war/)  
-[《朝霞（Daybreak）》书摘](https://wang-axiom.com/daybreak/)   
+[《朝霞（Daybreak）》书摘](https://wang-axiom.com/daybreak/)     
+[《1870—1873年巴塞尔遗著选》书摘](https://wang-axiom.com/1870-1873-notebook-Nietzsche/)     
+[《悲剧的诞生》书摘](https://wang-axiom.com/the-birth-of-tragedy/)     
 
 
 ****
