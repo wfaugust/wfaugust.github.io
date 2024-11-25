@@ -3,7 +3,7 @@ layout: page
 title: Writings
 date: 2015-01-11 16:04:00 +0300
 permalink: /writings/
-image: 107s.jpg
+image: 107.jpg
 ---
 
 **札记｜Book Notes**    
