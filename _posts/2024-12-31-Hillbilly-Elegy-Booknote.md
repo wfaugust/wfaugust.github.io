@@ -5,7 +5,7 @@ excerpt: Writings
 author: Fang Wang
 image: 92.jpg
 tags: Reading
-permalink: /random-thoughts-14/
+permalink: /Hillbilly-Elegy-Booknote/
 ---
 
 **/Vance, J.D.**
