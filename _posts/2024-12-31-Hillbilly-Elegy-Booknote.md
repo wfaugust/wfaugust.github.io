@@ -8,9 +8,7 @@ tags: Reading
 permalink: /Hillbilly-Elegy-Booknote/
 ---
 
-**/Vance, J.D.**
-
- 
+**/ JD Vance**
 
 ◆ To these folks, poverty is the family tradition—their ancestors were day laborers in the Southern slave economy, sharecroppers after that, coal miners after that, and machinists and millworkers during more recent times. Americans call them hillbillies, rednecks, or white trash. I call them neighbors, friends, and family. 
 
