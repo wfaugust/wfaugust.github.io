@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hillbilly Elegy Booknote
+title: "Hillbilly Elegy" Booknote
 excerpt: Writings
 author: Fang Wang
 image: 92.jpg
@@ -8,7 +8,7 @@ tags: Reading
 permalink: /random-thoughts-14/
 ---
 
-**/Vance, J.D. **
+**/Vance, J.D.**
 
  
 
