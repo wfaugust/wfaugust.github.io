@@ -20,6 +20,7 @@ permalink: /Reading/
 12. 伯罗奔尼撒战争史 /修昔底德
 13. 悲剧的诞生 /尼采
 14. 1870-1873 巴塞尔遗著选 /尼采
+15. Hillbilly Elegy: A Memoir of a Family and Culture in Crisis /JD Vance 
 
 ****
 
