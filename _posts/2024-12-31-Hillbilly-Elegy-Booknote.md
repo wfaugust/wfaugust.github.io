@@ -8,7 +8,7 @@ tags: Reading
 permalink: /Hillbilly-Elegy-Booknote/
 ---
 
-**/ JD Vance**
+**/JD Vance**
 
 ◆ To these folks, poverty is the family tradition—their ancestors were day laborers in the Southern slave economy, sharecroppers after that, coal miners after that, and machinists and millworkers during more recent times. Americans call them hillbillies, rednecks, or white trash. I call them neighbors, friends, and family. 
 
@@ -27,8 +27,6 @@ permalink: /Hillbilly-Elegy-Booknote/
  
 
 ◆ Indeed it is. We’re more socially isolated than ever, and we pass that isolation down to our children. Our religion has changed—built around churches heavy on emotional rhetoric but light on the kind of social support necessary to enable poor kids to do well. Many of us have dropped out of the labor force or have chosen not to relocate for better opportunities.
-
- 
 
 ◆ It’s about reacting to bad circumstances in the worst way possible. It’s about a culture that increasingly encourages social decay instead of counteracting it.
 
@@ -102,9 +100,7 @@ Chapter 2
 
  经济上的流动伴随着很多压力，也伴随着很多新的责任。
 
- 
-
- 
+  
 
 ◆ Rather, these migrants disrupted a broad set of assumptions held by northern whites about how white people appeared, spoke, and behaved . . . the disturbing aspect of hillbillies was their racialness. Ostensibly, they were of the same racial order (whites) as those who dominated economic, political, and social power in local and national arenas. But hillbillies shared many regional characteristics with the southern blacks arriving in Detroit.”
 
