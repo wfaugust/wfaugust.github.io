@@ -5,15 +5,19 @@ image: ./fw/selfie01.JPG
 permalink: /about/
 ---
 
-A random girl who majored in physics is now stuck in finance.
-
-
+A random girl who majored in physics is now stuck in finance. I live in New Jersey with my two ragdoll cats Dasha and QQ.
 
 I use this page to archive my past.
+
+My beloved Dasha and QQ --
+
+![]({{site.baseurl}}/img/cat1.jpg)
 
 
 ****
 Feel free to reach out --
 
 Email: wfaugust@gmail.com               
+
+
 
