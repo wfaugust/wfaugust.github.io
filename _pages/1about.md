@@ -9,10 +9,6 @@ A random girl who majored in physics is now stuck in finance. I live in New Jers
 
 I use this page to archive my past.
 
-My beloved Dasha and QQ --
-
-![]({{site.baseurl}}/img/cat1.jpg)
-
 
 ****
 Feel free to reach out --
