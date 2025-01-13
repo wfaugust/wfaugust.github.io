@@ -15,7 +15,7 @@ image: 107.jpg
 [Reading note of T. S. Eliot Poems](https://wang-axiom.com/Eliot)    
 [奥德赛（Odyssey）英文译本考](https://wang-axiom.com/Odyssey)        
 [T. S. 艾略特诗摘](https://wang-axiom.com/Eliot)      
-[《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey)     ss
+[《奥德赛（Odyssey）》英译本考](https://wang-axiom.com/Odyssey)     
 [《思想录（Pensées）》阅读笔记](https://wang-axiom.com/Pensees)    
 [《金蔷薇》阅读笔记](https://wang-axiom.com/thegoldenrose)    
 [《群魔》阅读笔记](https://wang-axiom.com/demons)    
