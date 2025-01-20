@@ -7,6 +7,8 @@ permalink: /about/
 
 A random girl who majored in physics is now stuck in finance. 
 
+I live in New Jersey, USA with my two ragdoll cats. 
+
 I use this page to archive my past.
 
 
