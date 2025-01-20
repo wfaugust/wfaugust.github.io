@@ -7,7 +7,7 @@ permalink: /about/
 
 A random girl who majored in physics is now stuck in finance. 
 
-I live in New Jersey with my two ragdoll cats Dasha and QQ.
+I live in New Jersey with my two ragdoll cats Dasha and Qiuqiu.
 
 I use this page to archive my past.
 
