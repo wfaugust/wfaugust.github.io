@@ -37,7 +37,7 @@ image: 107.jpg
 
 ****
 
-**摘｜Excerpts**
+**回声｜Excerpts & Echoes**
 
 [Tithonus](https://wang-axiom.com/writings30)    
 [Requiem K. 626 Intro + Lyrics](https://wang-axiom.com/writings28)  
@@ -60,7 +60,12 @@ image: 107.jpg
 [The Epic of Gilgamesh Tablet Ten](https://wang-axiom.com/Gilgamesh)       
 [Entropy](https://wang-axiom.com/entropy)        
 [The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
-[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)    
+[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)     
+[The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
+[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)   
+[Portrait of a Lady](https://www.poetryfoundation.org/poems/44213/portrait-of-a-lady-56d22338932de)    
+[Lapis Lazuli](https://www.poetryfoundation.org/poems/43297/lapis-lazuli)    
+[Echoes](https://www.youtube.com/watch?v=PGwPSPIhohk)           
 
 ****
 
@@ -118,16 +123,7 @@ image: 107.jpg
 [Quant Reading Reference List](https://wang-axiom.com/quant-reference-list)      
 [Investment Reading Reference List](https://wang-axiom.com/investment-reference-list)    
 
-
-****
-
-**回声｜Echoes**    
-
-[The Love Song of J. Alfred Prufrock](https://wang-axiom.com/Prufrock1)     
-[The Princess and the Pea](https://wang-axiom.com/the-princess-and-the-pea)   
-[Portrait of a Lady](https://www.poetryfoundation.org/poems/44213/portrait-of-a-lady-56d22338932de)    
-[Lapis Lazuli](https://www.poetryfoundation.org/poems/43297/lapis-lazuli)    
-[Echoes](https://www.youtube.com/watch?v=PGwPSPIhohk)       
+ 
 
 ****
 
