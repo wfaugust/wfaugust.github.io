@@ -3,7 +3,7 @@ layout: page
 title: Weekly Journal Jan 12–18, 2025
 excerpt: Writings
 author: Fang Wang
-image: home1.jpg
+image: 75.JPG
 tags: WeeklyJournal
 permalink: /weekly-journal-01/
 ---
