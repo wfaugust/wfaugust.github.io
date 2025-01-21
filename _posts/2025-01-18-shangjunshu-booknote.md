@@ -3,7 +3,7 @@ layout: page
 title: 商君书读书笔记
 excerpt: Writings
 author: Fang Wang
-image: 59.JPG
+image: 75.JPG
 tags: Reading
 permalink: /shangjunshu-booknote/
 ---
