@@ -34,7 +34,7 @@ permalink: /weekly-journal-01/
 
 *“When you don’t create things, you become defined by your tastes rather than ability. Your tastes only narrow and exclude people. So create.”*
 
-—Why the lucky stiff (aka [Jonathan Gillette](http://en.wikipedia.org/wiki/Why_the_lucky_stiff))
+—Why the lucky stiff (aka Jonathan Gillette)
 
 当你停止创造，你的才能就不再重要，你所拥有的只剩下你的品味。
 
