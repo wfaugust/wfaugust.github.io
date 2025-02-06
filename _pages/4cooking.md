@@ -79,6 +79,7 @@ permalink: /cooking/
 
 ****
 
-The childhood of a cooking master 
+The childhood of a master chef obsessed with all kinds of food, despite some people saying she was only good at photography...
+
 ![]({{site.baseurl}}/img/Childhood01.JPG)
 
