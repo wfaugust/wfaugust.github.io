@@ -1,10 +1,10 @@
 ---
 layout: page
 title: The Road to Serfdom Booknote
-excerpt: Writings
+excerpt: booknote
 author: Fang Wang
 image: 96.jpg
-tags: WeeklyJournal
+tags: booknote
 permalink: /the-road-to-serfdom-booknote/
 ---
 
