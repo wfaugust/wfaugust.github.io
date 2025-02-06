@@ -4,6 +4,14 @@ title: Reading
 image: 40.JPG
 permalink: /Reading/
 ---
+**2025 Reading List**
+
+1. The Road to Serfdom /Friedrich Hayek
+2. In Our Time /Ernest Hemingway
+3. 我喜爱一切不彻底的事物 /张定浩
+
+****
+
 **2024 Reading List**
 
 1. 奥登诗选：1927-1947
