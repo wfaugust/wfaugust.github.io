@@ -3,7 +3,7 @@ layout: page
 title: The Road to Serfdom Booknote
 excerpt: booknote
 author: Fang Wang
-image: 96.jpg
+image: entropy1.jpg
 tags: booknote
 permalink: /the-road-to-serfdom-booknote/
 ---
