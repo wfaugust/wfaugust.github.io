@@ -3,7 +3,7 @@ layout: page
 title: Weekly Journal Feb 02–08, 2025
 excerpt: Writings
 author: Fang Wang
-image: entropy1.jpg
+image: 96.jpg
 tags: WeeklyJournal
 permalink: /weekly-journal-02/
 ---
