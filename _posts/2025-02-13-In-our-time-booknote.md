@@ -3,7 +3,7 @@ layout: page
 title: In our time booknote
 excerpt: booknote
 author: Fang Wang
-image: 85.jpg
+image: 17.JPG
 tags: booknote
 permalink: /In-our-time-booknote/
 ---
