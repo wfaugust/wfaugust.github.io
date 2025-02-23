@@ -1,10 +1,10 @@
 ---
 layout: page
 title: In our time booknote
-excerpt: booknote
+excerpt: Booknote
 author: Fang Wang
 image: 17.JPG
-tags: booknote
+tags: Booknote
 permalink: /In-our-time-booknote/
 ---
 
