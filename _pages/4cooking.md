@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Private Menu
+title: Signature Dish
 image: 15.JPG
 permalink: /cooking/
 ---
