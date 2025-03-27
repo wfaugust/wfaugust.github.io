@@ -3,7 +3,7 @@ layout: page
 title: 'Stung With Love' Booknote 
 excerpt: Writings
 author: Fang Wang
-image: 96.jpg
+image: duolin12.jpg
 tags: booknote
 permalink: /Stung-With-Love/
 ---
