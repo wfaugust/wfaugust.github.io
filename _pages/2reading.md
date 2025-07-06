@@ -9,6 +9,8 @@ permalink: /Reading/
 1. The Road to Serfdom /Friedrich Hayek
 2. In Our Time /Ernest Hemingway
 3. 我喜爱一切不彻底的事物 /张定浩
+4. Principles /Ray Dalio
+5. 荷尔德林文集
 
 ****
 
