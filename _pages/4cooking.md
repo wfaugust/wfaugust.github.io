@@ -15,6 +15,10 @@ permalink: /cooking/
 
 ![]({{site.baseurl}}/img/Cooking/C2.jpg)
 
+![]({{site.baseurl}}/img/Cooking/C47.jpg)
+
+![]({{site.baseurl}}/img/Cooking/C48.jpg)
+
 ![]({{site.baseurl}}/img/Cooking/C3.jpg)     
 
 ![]({{site.baseurl}}/img/Cooking/C26.jpg)
