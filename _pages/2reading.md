@@ -11,6 +11,7 @@ permalink: /Reading/
 3. 我喜爱一切不彻底的事物 /张定浩
 4. Principles /Ray Dalio
 5. 荷尔德林文集
+6. Team of Rivals /Doris Kearns Goodwin
 
 ****
 
