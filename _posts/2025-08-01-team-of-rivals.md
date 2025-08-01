@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team of Rivals--The Political Genius of Abraham Lincoln Booknote
+title: Team of Rivals Booknote
 excerpt: Writings
 author: Fang Wang
 image: 99.jpg
@@ -8,7 +8,11 @@ tags: booknote
 permalink: /team-of-rivals/
 ---
 
+ **《Team of Rivals: The Political Genius of Abraham Lincoln》**
+
   /Doris Kearns Goodwin
+
+****
 
  **Introduction**
 
