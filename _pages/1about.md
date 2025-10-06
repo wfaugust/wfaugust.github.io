@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: ./fw/fw29.jpg
+image: ./fw/fw30.jpg
 permalink: /about/
 ---
 
