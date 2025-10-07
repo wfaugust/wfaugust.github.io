@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reading
-image: 40.JPG
+image: met_cloister1.jpg
 permalink: /Reading/
 ---
 **2025 Reading List**
