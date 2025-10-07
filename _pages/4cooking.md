@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Signature Dish
+title: cooking
 image: 15.JPG
 permalink: /cooking/
 ---
