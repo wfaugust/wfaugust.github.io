@@ -1,7 +1,7 @@
 ---
 layout: page
 title: READING
-image: 40.JPG
+image: 105.jpg
 permalink: /Reading/
 ---
 **2025 Reading List**
