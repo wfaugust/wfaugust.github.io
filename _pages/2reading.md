@@ -12,6 +12,7 @@ permalink: /Reading/
 4. Principles /Ray Dalio
 5. 荷尔德林文集
 6. Team of Rivals /Doris Kearns Goodwin
+7. 李光耀观天下 /李光耀
 
 ****
 
