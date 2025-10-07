@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 李光耀观天下读书笔记
+title: 李光耀观天下书摘
 excerpt: Booknote
 author: Fang Wang
 image: nyc2.jpg
