@@ -113,8 +113,8 @@ image: 107.jpg
 [致那个读史书的女孩](https://wang-axiom.com/reflection-on-history/)     
 [与小猫共度的冬日](https://wang-axiom.com/Dasha-QQ-Jan-2025/)   
 [与小猫共度的春日](https://wang-axiom.com/Dasha-QQ-March-2025/)     
-[Weekly Journal Jan 12–18, 2025](https://wang-axiom.com/weekly-journal-01/)
-[Weekly Journal Feb 02–08, 2025](https://wang-axiom.com/weekly-journal-02/)
+[Weekly Journal Jan 12–18, 2025](https://wang-axiom.com/weekly-journal-01/)    
+[Weekly Journal Feb 02–08, 2025](https://wang-axiom.com/weekly-journal-02/)   
 [May 2025 Journal](https://wang-axiom.com/May-2025-journal-02/)       
 
 
