@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 image: met_cloister1.jpg
 permalink: /about/
 ---

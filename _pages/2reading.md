@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading
+title: READING
 image: 40.JPG
 permalink: /Reading/
 ---

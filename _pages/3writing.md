@@ -1,6 +1,6 @@
 ---
 layout: page
-title: archives
+title: ARCHIVES
 date: 2015-01-11 16:04:00 +0300
 permalink: /archives/
 image: 107.jpg
