@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Writings
+title: archives
 date: 2015-01-11 16:04:00 +0300
-permalink: /writings/
+permalink: /archives/
 image: 107.jpg
 ---
 
@@ -31,8 +31,19 @@ image: 107.jpg
 [Booknote of 'The Myth of Sisyphus and Other Essays'](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)     
 [《伯罗奔尼撒战争史》书摘](https://wang-axiom.com/history-of-the-Peloponnesian-war/)  
 [《朝霞（Daybreak）》书摘](https://wang-axiom.com/daybreak/)     
-[《1870—1873年巴塞尔遗著选》书摘](https://wang-axiom.com/1870-1873-notebook-Nietzsche/)     
+[《1870—1873年巴塞尔遗著选》书摘](https://wang-axiom.com/1870-1873-notebook-Nietzsche/)       
+[Stung With Love Booknote](https://wang-axiom.com/Stung-With-Love/)
 [《悲剧的诞生》书摘](https://wang-axiom.com/the-birth-of-tragedy/)     
+[《非暴力沟通 Nonviolent Communication》读书笔记](https://wang-axiom.com/Nonviolent-Communication-booknote/)      
+[《爱达或爱欲：一部家族纪事》读书笔记](https://wang-axiom.com/Ada-or-Ardor-booknote/)     
+[In our time booknote](https://wang-axiom.com/In-our-time-booknote/)     
+[The Road to Serfdom Booknote](https://wang-axiom.com/the-road-to-serfdom-booknote/)      
+[商君书读书笔记](https://wang-axiom.com/shangjunshu-booknote/)    
+[Hillbilly Elegy Booknote](https://wang-axiom.com/Hillbilly-Elegy-Booknote/)      
+[西西弗神话（The Myth of Sisyphus and Other Essays）读书笔记](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)
+[Team of Rivals Booknote](https://wang-axiom.com/team-of-rivals/)       
+[《李光耀观天下》读书笔记](https://wang-axiom.com/Lee-Kuan-Yew-views/)
+
 
 
 ****
@@ -82,6 +93,8 @@ image: 107.jpg
 [随想录（九）](https://wang-axiom.com/writings40)    
 [随想录（十）](https://wang-axiom.com/writings45)         
 [随想录（十一）](https://wang-axiom.com/random-thoughts-11)    
+[随想录（十三）](https://wang-axiom.com/random-thoughts-13/)
+[随想录（十四）](https://wang-axiom.com/random-thoughts-14/)
 [一碗桂花银耳羹](https://wang-axiom.com/writings42)    
 [Strong Opinions I](https://wang-axiom.com/writings31)    
 [致异乡女](https://wang-axiom.com/writings11)  
@@ -97,7 +110,12 @@ image: 107.jpg
 [海鸥之歌](https://wang-axiom.com/writings37)     
 [无题](https://wang-axiom.com/writings39)        
 [无心](https://wang-axiom.com/poems1)      
-[致那个读史书的女孩](https://wang-axiom.com/reflection-on-history/)      
+[致那个读史书的女孩](https://wang-axiom.com/reflection-on-history/)     
+[与小猫共度的冬日](https://wang-axiom.com/Dasha-QQ-Jan-2025/)   
+[与小猫共度的春日](https://wang-axiom.com/Dasha-QQ-March-2025/)     
+[Weekly Journal Jan 12–18, 2025](https://wang-axiom.com/weekly-journal-01/)
+[Weekly Journal Feb 02–08, 2025](https://wang-axiom.com/weekly-journal-02/)
+[May 2025 Journal](https://wang-axiom.com/May-2025-journal-02/)       
 
 
 ****
