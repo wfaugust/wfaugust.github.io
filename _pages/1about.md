@@ -1,17 +1,13 @@
 ---
 layout: page
 title: ABOUT
-image: met_cloister1.jpg
+image: ./fw/fw30.jpg
 permalink: /about/
 ---
 
 A random girl who majored in physics is now stuck in finance. 
 
 I use this page to archive my past.
-
-![]({{site.baseurl}}/img/fw/fw30.jpg)
-
-
 
 
 ****
