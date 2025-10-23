@@ -40,8 +40,8 @@ image: 107.jpg
 [The Road to Serfdom Booknote](https://wang-axiom.com/the-road-to-serfdom-booknote/)      
 [商君书读书笔记](https://wang-axiom.com/shangjunshu-booknote/)    
 [Hillbilly Elegy Booknote](https://wang-axiom.com/Hillbilly-Elegy-Booknote/)      
-[西西弗神话（The Myth of Sisyphus and Other Essays）读书笔记](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)
-[Team of Rivals Booknote](https://wang-axiom.com/team-of-rivals/)       
+[西西弗神话（The Myth of Sisyphus and Other Essays）读书笔记](https://wang-axiom.com/The-Myth-of-Sisyphus-Booknote/)   
+[Team of Rivals Booknote](https://wang-axiom.com/team-of-rivals/)           
 [《李光耀观天下》读书笔记](https://wang-axiom.com/Lee-Kuan-Yew-views/)
 
 
@@ -93,9 +93,9 @@ image: 107.jpg
 [随想录（九）](https://wang-axiom.com/writings40)    
 [随想录（十）](https://wang-axiom.com/writings45)         
 [随想录（十一）](https://wang-axiom.com/random-thoughts-11)    
-[随想录（十三）](https://wang-axiom.com/random-thoughts-13/)
-[随想录（十四）](https://wang-axiom.com/random-thoughts-14/)
-[一碗桂花银耳羹](https://wang-axiom.com/writings42)    
+[随想录（十三）](https://wang-axiom.com/random-thoughts-13/)   
+[随想录（十四）](https://wang-axiom.com/random-thoughts-14/)   
+[一碗桂花银耳羹](https://wang-axiom.com/writings42)       
 [Strong Opinions I](https://wang-axiom.com/writings31)    
 [致异乡女](https://wang-axiom.com/writings11)  
 [Strangers don't cry](https://wang-axiom.com/writings12)  
