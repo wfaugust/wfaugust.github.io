@@ -21,6 +21,64 @@ permalink: /random-thoughts-15/
 
 4. 豌豆公主究竟代表何种隐喻----一颗沧海遗珠，一种敏感性。
 
+5. 一首听了十多年的歌，第一次听正好在读安娜卡列尼娜，那时候我还那么小，似乎没有明白书里究竟在说些什么，只觉得科恩和托尔斯泰竟然如此般配，像二十层鸭绒被下的豌豆，我珍贵的敏感性。
+
+It's four in the morning, the end of December    
+I'm writing you now just to see if you're better    
+New York is cold, but I like where I'm living    
+There's music on Clinton Street all through the evening    
+I hear that you're building your little house deep in the desert    
+You're living for nothing now, I hope you're keeping some kind of record    
+Yes, and Jane came by with a lock of your hair        
+She said that you gave it to her    
+That night that you planned to go clear    
+Did you ever go clear?    
+
+Ah, the last time we saw you you looked so much older    
+Your famous blue raincoat was torn at the shoulder    
+You'd been to the station to meet every train, and    
+You came home without Lili Marlene    
+And you treated my woman to a flake of your life    
+And when she came back she was nobody's wife    
+Well I see you there with the rose in your teeth    
+One more thin gypsy thief         
+Well, I see Jane's awake    
+She sends her regards    
+
+And what can I tell you my brother, my killer    
+What can I possibly say?    
+I guess that I miss you, I guess I forgive you    
+I'm glad you stood in my way    
+If you ever come by here, for Jane or for me    
+Well, your enemy is sleeping, and his woman is free    
+Yes, and thanks, for the trouble you took from her eyes    
+I thought it was there for good so I never tried    
+And Jane came by with a lock of your hair    
+She said that you gave it to her    
+That night that you planned to go clear    
+
+Sincerely, L Cohen
+
+
+現在是清晨四點，已經十二月底了，我正寫這封信給你只是想知道你過的好不好，紐約很冷，但我喜歡我住的地方，因為傍晚的柯林頓街總是飄著樂聲。
+
+聽說你將在荒漠建築自己的房子，看來你真的了無牽掛了，希望你至少還留著一些好音樂。
+
+珍回來時帶著一束你的頭髮，她說那是你給她的，在你決定要把事情了斷的那晚，但你真的理清了嗎?
+
+上次我們見到你時，你看來老了許多，你那件我熟悉的藍雨衣連肩上都磨破了，你曾到車站等每一班火車，但你的"莉莉瑪蓮"卻始終沒有出現。
+
+在你心中我的女人就只是你生命中的一個片斷，但當她回來，卻成了一個熟悉的陌生人，我想像你就是個叼著玫瑰又一個偷心、無情的吉普賽人，喔，我看到珍醒來了，要我向你問好。
+
+我還能說什麼? 我的兄弟我的敵人，我想只能說想念你，我想我原諒了你，很高興你曾經讓我經歷過這段，如果有一天，路過這裡時來看我，不管是為了珍或為我，我對你敵意不再，我的女人也已經解脫。
+
+謝謝你帶走她眼中的煩惱，我原以為那些問題一直都在，所以我不曾真的試著去面對。
+
+珍回來時帶著一束你的頭髮，她說那是你給她的，就在你決定要結束的那晚...
+
+摯友，L.Cohen
+
+
 ****
 
 Written by Fang Wang
