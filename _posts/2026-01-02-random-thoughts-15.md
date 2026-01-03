@@ -3,7 +3,7 @@ layout: page
 title: 随想录（十五）---- 此屋是我造
 excerpt: Writings
 author: Fang Wang
-image: 85.jpg
+image: 92.jpg
 tags: USdiary
 permalink: /random-thoughts-15/
 ---
