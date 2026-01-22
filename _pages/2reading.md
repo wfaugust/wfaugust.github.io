@@ -14,10 +14,10 @@ permalink: /Reading/
 
 1. The Road to Serfdom /Friedrich Hayek
 2. In Our Time /Ernest Hemingway
-3. 我喜爱一切不彻底的事物 /张定浩
-4. Principles /Ray Dalio
-5. 荷尔德林文集
-6. Team of Rivals: The Political Genius of Abraham Lincoln  /Doris Kearns Goodwin
+3. Principles /Ray Dalio
+4. Team of Rivals: The Political Genius of Abraham Lincoln  /Doris Kearns Goodwin
+5. 我喜爱一切不彻底的事物 /张定浩
+6. 荷尔德林文集
 7. 李光耀观天下 /李光耀
 
 ****
