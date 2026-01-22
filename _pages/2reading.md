@@ -4,6 +4,12 @@ title: READING
 image: 105.jpg
 permalink: /Reading/
 ---
+
+**2026 Reading List**
+1.他改变了中国-- 江泽民传  /罗伯特·劳伦斯·库恩
+
+****
+
 **2025 Reading List**
 
 1. The Road to Serfdom /Friedrich Hayek
@@ -11,7 +17,7 @@ permalink: /Reading/
 3. 我喜爱一切不彻底的事物 /张定浩
 4. Principles /Ray Dalio
 5. 荷尔德林文集
-6. Team of Rivals /Doris Kearns Goodwin
+6. Team of Rivals: The Political Genius of Abraham Lincoln  /Doris Kearns Goodwin
 7. 李光耀观天下 /李光耀
 
 ****
