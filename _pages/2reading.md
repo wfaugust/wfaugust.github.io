@@ -6,6 +6,7 @@ permalink: /Reading/
 ---
 
 **2026 Reading List**
+
 1.他改变了中国-- 江泽民传  /罗伯特·劳伦斯·库恩
 
 ****
