@@ -3,7 +3,7 @@ layout: page
 title: 重负与神恩（Gravity and Grace） 读书笔记
 excerpt: Writings
 author: Fang Wang
-image: 92.jpg
+image: 88.jpg
 tags: USdiary
 permalink: /gravity-and-grace-booknote/
 ---
