@@ -3,8 +3,8 @@ layout: page
 title: 重负与神恩（Gravity and Grace） 读书笔记
 excerpt: Writings
 author: Fang Wang
-image: 88.jpg
-tags: USdiary
+image: weil2.jpg
+tags: booknote
 permalink: /gravity-and-grace-booknote/
 ---
 
@@ -13,8 +13,9 @@ permalink: /gravity-and-grace-booknote/
 *《重负与神恩》是西蒙娜·薇依生前未完成的哲学笔记合集，由学者古斯塔夫·梯蓬整理其手稿编纂成书。该书通过"必然性""顺从""神恩"等核心概念，系统阐述了薇依融合基督教神秘主义与存在主义的思想体系。薇依认为物质世界的必然性法则既是束缚人类的重负，又是万物对上帝意志的绝对服从，这种悖论式的双重属性构成了世界之美的根源。*
 
 ****
+![]({{site.baseurl}}/img/veil01.jpg)
 
-
+****
 
  虚空与报答
 
