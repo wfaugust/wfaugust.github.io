@@ -11,7 +11,6 @@ permalink: /cooking/
 
 ![]({{site.baseurl}}/img/Cooking/C51.jpg)      
 
-
 ![]({{site.baseurl}}/img/Cooking/C0.jpg)      
 
 ![]({{site.baseurl}}/img/Cooking/C1.jpg)      
@@ -34,9 +33,9 @@ permalink: /cooking/
 
 ![]({{site.baseurl}}/img/Cooking/C26.jpg)
 
-![]({{site.baseurl}}/img/Cooking/C4.jpg)
+![]({{site.baseurl}}/img/Cooking/C29.jpg)      
 
-![]({{site.baseurl}}/img/Cooking/C5.jpg)
+![]({{site.baseurl}}/img/Cooking/C4.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C6.jpg)
 
@@ -48,27 +47,17 @@ permalink: /cooking/
 
 ![]({{site.baseurl}}/img/Cooking/C10.jpg)
 
-![]({{site.baseurl}}/img/Cooking/C11.jpg)
-
 ![]({{site.baseurl}}/img/Cooking/C12.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C13.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C14.jpg)
 
-![]({{site.baseurl}}/img/Cooking/C15.jpg)
-
-![]({{site.baseurl}}/img/Cooking/C16.jpg)
-
 ![]({{site.baseurl}}/img/Cooking/C17.jpg)
-
-![]({{site.baseurl}}/img/Cooking/C18.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C19.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C20.jpg)
-
-![]({{site.baseurl}}/img/Cooking/C21.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C22.jpg)
 
@@ -91,6 +80,9 @@ permalink: /cooking/
 ![]({{site.baseurl}}/img/Cooking/C35.jpg)
 
 ![]({{site.baseurl}}/img/Cooking/C37.jpg)
+
+![]({{site.baseurl}}/img/Cooking/C34.jpg)
+
 
 ****
 
