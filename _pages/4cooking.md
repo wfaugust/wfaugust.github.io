@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COOKING
-image: 15.JPG
+image: QQ2025.jpg
 permalink: /cooking/
 ---
 
