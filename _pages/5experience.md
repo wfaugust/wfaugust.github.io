@@ -9,30 +9,18 @@ Quantitative Researcher / Data Scientist with 6+ years of experience developing 
 
 ### Experience
 
-**Principal Analyst**
-
-**SumRidge Partners** · Full-time,Jan 2020–Present  
-Jersey City, New Jersey, United States · On-site
-
+**Principal Analyst, SumRidge Partners** · Full-time,Jan 2020–Present  
 Fixed Income Market Making; Quantitative Research
 
-**Researcher, AI & Photonics**
+**Researcher, AI & Photonics, Quantum Computing Inc.** · Part-time,2023–Present  
+Optical Reservoir Computing / GenAI Applications; Financial Market Prediction
 
-**Quantum Computing Inc.** · Part-time,2023–Present  
-Hoboken, New Jersey, United States
-
-Ph.D. Research Collaboration: Optical Reservoir Computing / GenAI Applications; Financial Market Prediction
-
-**Research Assistant**
-
-**Stevens Institute of Technology** · Sep 2014–Dec 2019  
+**Research Assistant, Stevens Institute of Technology** · Sep 2014–Dec 2019  
 Hoboken, New Jersey, United States
 
 Noise-resilient non-Markovian quantum information protocols.
 
-**Undergraduate Research Assistant**
-
-**University of Science and Technology of China** · Jan 2012–Jul 2014  
+**Undergraduate Research Assistant, University of Science and Technology of China** · Jan 2012–Jul 2014  
 Hefei, China
 
 Hefei National Laboratory for Physical Science at Microscales
